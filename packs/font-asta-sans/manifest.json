@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "id": "font-asta-sans",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Asta Sans",
+    "en": "Asta Sans"
+  },
+  "description": {
+    "ko": "고딕 · 한글 전체",
+    "en": "Sans serif · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2024 The Asta Sans Project Authors (https://github.com/42dot/Asta-Sans).",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Asta Sans Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/astasans"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "asta-sans"
+  },
+  "minAppSchema": 1,
+  "bytes": 5776161,
+  "files": [
+    {
+      "path": "AstaSans[wght].ttf",
+      "bytes": 5771772,
+      "sha256": "f68410bf7d04deb992097758640145c72ddcf234070794237fc4994e18991c33",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/astasans/AstaSans%5Bwght%5D.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4389,
+      "sha256": "2448ea782a6364d571a4848c34db8a042311f44c78cf00265888db19ea10d5a4"
+    }
+  ],
+  "font": {
+    "familyId": "asta-sans",
+    "faces": [
+      {
+        "file": "AstaSans[wght].ttf",
+        "family": "Asta Sans",
+        "weight": 300,
+        "style": "normal",
+        "axes": {
+          "wght": [
+            300,
+            800
+          ]
+        }
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 94,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

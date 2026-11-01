@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "font-dongle",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "동글",
+    "en": "Dongle"
+  },
+  "description": {
+    "ko": "고딕 · 한글 전체",
+    "en": "Sans serif · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2021 The Dongle Project Authors (https://github.com/yangheeryu/Dongle)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Dongle Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dongle"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "dongle"
+  },
+  "minAppSchema": 1,
+  "bytes": 13328582,
+  "files": [
+    {
+      "path": "Dongle-Light.ttf",
+      "bytes": 4389060,
+      "sha256": "bb04e03dbe44fb0c619434f31565e62b5bac67229d5ed72eeac69c2e74e9a45c",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dongle/Dongle-Light.ttf"
+    },
+    {
+      "path": "Dongle-Regular.ttf",
+      "bytes": 4458600,
+      "sha256": "2966e7a9d312a868e2b5477bf9a3e59b8ce16beb76e7e52305ab5897d1ce9741",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dongle/Dongle-Regular.ttf"
+    },
+    {
+      "path": "Dongle-Bold.ttf",
+      "bytes": 4476536,
+      "sha256": "944c498c0d1a1832ab36f173b1b3aa5ae77b2a914e00c4d79e05338fae36472d",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dongle/Dongle-Bold.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4386,
+      "sha256": "f9e59049e824264bffd626d0901cfcaac9d5ba756988b904d3e3e0e233493607"
+    }
+  ],
+  "font": {
+    "familyId": "dongle",
+    "faces": [
+      {
+        "file": "Dongle-Light.ttf",
+        "family": "Dongle",
+        "weight": 300,
+        "style": "normal"
+      },
+      {
+        "file": "Dongle-Regular.ttf",
+        "family": "Dongle",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "Dongle-Bold.ttf",
+        "family": "Dongle",
+        "weight": 700,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 93,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

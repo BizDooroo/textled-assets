@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "id": "font-noto-sans-kr",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Noto Sans KR",
+    "en": "Noto Sans KR"
+  },
+  "description": {
+    "ko": "고딕 · 한글 전체",
+    "en": "Sans serif · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'",
+    "reservedFontNames": [
+      "Source"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "Adobe",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/notosanskr"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "noto-sans-kr"
+  },
+  "minAppSchema": 1,
+  "bytes": 10418976,
+  "files": [
+    {
+      "path": "NotoSansKR[wght].ttf",
+      "bytes": 10414588,
+      "sha256": "194018e6b2b293a7964f037b25c0249ce1418bc9ab3c971060a03aa57861e252",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/notosanskr/NotoSansKR%5Bwght%5D.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4388,
+      "sha256": "1c05c68c34f9708415aada51f17e1b0092d2cea709bf4a94cd38114f9e73d7d9"
+    }
+  ],
+  "font": {
+    "familyId": "noto-sans-kr",
+    "faces": [
+      {
+        "file": "NotoSansKR[wght].ttf",
+        "family": "Noto Sans KR",
+        "weight": 100,
+        "style": "normal",
+        "axes": {
+          "wght": [
+            100,
+            900
+          ]
+        }
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 94,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}
