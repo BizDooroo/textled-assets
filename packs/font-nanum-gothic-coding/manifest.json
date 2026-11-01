@@ -1,0 +1,86 @@
+{
+  "schema": 1,
+  "id": "font-nanum-gothic-coding",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "나눔고딕코딩",
+    "en": "Nanum Gothic Coding"
+  },
+  "description": {
+    "ko": "고정폭 · 한글 전체",
+    "en": "Monospace · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2010, NHN Corporation (http://www.nhncorp.com), with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen, Naver NanumPen.",
+    "reservedFontNames": [
+      "Nanum",
+      "NanumBrush",
+      "NanumGothic",
+      "NanumMyeongjo",
+      "NanumPen",
+      "Naver Nanum",
+      "Naver NanumBrush",
+      "Naver NanumGothic",
+      "Naver NanumMyeongjo",
+      "Naver NanumPen"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "NHN Corporation",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumgothiccoding"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "nanum-gothic-coding"
+  },
+  "minAppSchema": 1,
+  "bytes": 4566698,
+  "files": [
+    {
+      "path": "NanumGothicCoding-Regular.ttf",
+      "bytes": 2315924,
+      "sha256": "787effd7efed2abca88ade231faa8191f4e9fcf85b1805a13ee1dc3724b72089",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumgothiccoding/NanumGothicCoding-Regular.ttf"
+    },
+    {
+      "path": "NanumGothicCoding-Bold.ttf",
+      "bytes": 2246240,
+      "sha256": "77a6de97c176b76ef9a683b565a1e6f4ce40b499c72a2972c4b5bdf7c6b8e7a0",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumgothiccoding/NanumGothicCoding-Bold.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4534,
+      "sha256": "eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f"
+    }
+  ],
+  "font": {
+    "familyId": "nanum-gothic-coding",
+    "faces": [
+      {
+        "file": "NanumGothicCoding-Regular.ttf",
+        "family": "NanumGothicCoding",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "NanumGothicCoding-Bold.ttf",
+        "family": "NanumGothicCoding",
+        "weight": 700,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 94,
+    "category": "mono",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

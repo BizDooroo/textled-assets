@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "id": "font-share-tech-mono",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Share Tech Mono",
+    "en": "Share Tech Mono"
+  },
+  "description": {
+    "ko": "고정폭 · 라틴 전용",
+    "en": "Monospace · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com), with Reserved Font Name 'Share'",
+    "reservedFontNames": [
+      "Share"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "Carrois Type Design, Ralph du Carrois",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/sharetechmono"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "share-tech-mono"
+  },
+  "minAppSchema": 1,
+  "bytes": 47701,
+  "files": [
+    {
+      "path": "ShareTechMono-Regular.ttf",
+      "bytes": 43272,
+      "sha256": "9ceab1f87414829af259c0f537573ae03ef7dd3147c0b27a36a1a0beb6732677",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/sharetechmono/ShareTechMono-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4429,
+      "sha256": "9d96f445b6e9c701428811d0177f894874f8d6f07ecc30d568c506542368f3ff"
+    }
+  ],
+  "font": {
+    "familyId": "share-tech-mono",
+    "faces": [
+      {
+        "file": "ShareTechMono-Regular.ttf",
+        "family": "Share Tech Mono",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "mono",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-neonderthaw",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Neonderthaw",
+    "en": "Neonderthaw"
+  },
+  "description": {
+    "ko": "네온 · 라틴 전용",
+    "en": "Neon · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2014-2021 The Neonderthaw Project Authors (https://github.com/googlefonts/neonderthaw)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Neonderthaw Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/neonderthaw"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "neonderthaw"
+  },
+  "minAppSchema": 1,
+  "bytes": 280629,
+  "files": [
+    {
+      "path": "Neonderthaw-Regular.ttf",
+      "bytes": 276228,
+      "sha256": "15a72ab630eb73ee922ad653783b81053cf381ef53bcc17a536f3c7fa8097184",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/neonderthaw/Neonderthaw-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4401,
+      "sha256": "1b6b1362683d5bb1f864615e723b4323a3c05de5dd020e0e448546135bab75de"
+    }
+  ],
+  "font": {
+    "familyId": "neonderthaw",
+    "faces": [
+      {
+        "file": "Neonderthaw-Regular.ttf",
+        "family": "Neonderthaw",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "neon",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

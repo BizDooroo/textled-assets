@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "id": "font-tilt-neon",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Tilt Neon",
+    "en": "Tilt Neon"
+  },
+  "description": {
+    "ko": "네온 · 라틴 전용",
+    "en": "Neon · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Tilt Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/tiltneon"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "tilt-neon"
+  },
+  "minAppSchema": 1,
+  "bytes": 587675,
+  "files": [
+    {
+      "path": "TiltNeon[XROT,YROT].ttf",
+      "bytes": 583288,
+      "sha256": "c22333dfd1cd14c2a612b36ea1c50ea13e5e9244181e5129a63c944a165823a0",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/tiltneon/TiltNeon%5BXROT%2CYROT%5D.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4387,
+      "sha256": "97941703cd5fb1d5e86a062c9463ed12a613dbfbab9961c333699bdb2d277321"
+    }
+  ],
+  "font": {
+    "familyId": "tilt-neon",
+    "faces": [
+      {
+        "file": "TiltNeon[XROT,YROT].ttf",
+        "family": "Tilt Neon",
+        "weight": 400,
+        "style": "normal",
+        "axes": {
+          "XROT": [
+            -45,
+            45
+          ],
+          "YROT": [
+            -45,
+            45
+          ]
+        }
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "neon",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

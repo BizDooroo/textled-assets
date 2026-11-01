@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "id": "font-noto-emoji",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Noto Emoji",
+    "en": "Noto Emoji"
+  },
+  "description": {
+    "ko": "이모지 · 라틴 전용",
+    "en": "Emoji · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2013 Google LLC",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "Google LLC",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/notoemoji"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "noto-emoji"
+  },
+  "minAppSchema": 1,
+  "bytes": 1986926,
+  "files": [
+    {
+      "path": "NotoEmoji[wght].ttf",
+      "bytes": 1982596,
+      "sha256": "de6c18832938afc99caf132b39d6a30a19bac7f2e812e28db2535b4608d27551",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/notoemoji/NotoEmoji%5Bwght%5D.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4330,
+      "sha256": "500bb1ccf43df7bbb522112f9133a52b16e1c35e809632f5d8609b179152de5b"
+    }
+  ],
+  "font": {
+    "familyId": "noto-emoji",
+    "faces": [
+      {
+        "file": "NotoEmoji[wght].ttf",
+        "family": "Noto Emoji",
+        "weight": 400,
+        "style": "normal",
+        "axes": {
+          "wght": [
+            300,
+            700
+          ]
+        }
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "emoji",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

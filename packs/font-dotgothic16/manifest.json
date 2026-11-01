@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-dotgothic16",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "DotGothic16",
+    "en": "DotGothic16"
+  },
+  "description": {
+    "ko": "LED · 라틴 전용",
+    "en": "LED · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2020 The DotGothic16 Project Authors (https://github.com/fontworks-fonts/DotGothic16)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The DotGothic16 Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dotgothic16"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "dotgothic16"
+  },
+  "minAppSchema": 1,
+  "bytes": 2073728,
+  "files": [
+    {
+      "path": "DotGothic16-Regular.ttf",
+      "bytes": 2069236,
+      "sha256": "3ad9af88726d42b40f7f365f0dcac785af73cf20ea6f1d5b44e57cc21150b8f1",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dotgothic16/DotGothic16-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4492,
+      "sha256": "b6630c61ea078cacd7fabe37d14ffe557a0b45b06683374a9aa9e24262993e33"
+    }
+  ],
+  "font": {
+    "familyId": "dotgothic16",
+    "faces": [
+      {
+        "file": "DotGothic16-Regular.ttf",
+        "family": "DotGothic16",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "led",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

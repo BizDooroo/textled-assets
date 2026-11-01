@@ -1,0 +1,106 @@
+{
+  "schema": 1,
+  "id": "font-dseg",
+  "type": "font",
+  "version": "2026.10.31-1",
+  "title": {
+    "ko": "DSEG",
+    "en": "DSEG"
+  },
+  "description": {
+    "ko": "7·14세그먼트 숫자·라틴 글꼴",
+    "en": "7- and 14-segment digits and Latin"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2017, keshikan (http://www.keshikan.net), with Reserved Font Name \"DSEG\".",
+    "reservedFontNames": [
+      "DSEG"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "keshikan",
+    "url": "https://github.com/keshikan/DSEG"
+  },
+  "source": {
+    "origin": "keshikan/DSEG v0.46",
+    "manifestEntry": "dseg"
+  },
+  "minAppSchema": 1,
+  "bytes": 107639,
+  "builtin": "partial",
+  "files": [
+    {
+      "path": "DSEG7Classic-Regular.ttf",
+      "bytes": 23272,
+      "sha256": "e3270928ced68082f32d3b62877a6741426116335ac0832919326341a8b5cfaf",
+      "upstream": null,
+      "builtin": false
+    },
+    {
+      "path": "DSEG7Classic-Bold.ttf",
+      "bytes": 23040,
+      "sha256": "d16181c4eeae29e695ca547ee9be437d01d4909ac1f8f349f04176dc6858873b",
+      "upstream": null,
+      "builtin": true
+    },
+    {
+      "path": "DSEG14Classic-Regular.ttf",
+      "bytes": 28416,
+      "sha256": "0106818dd2e2c9ac9c6b5b7edbbe193df367397d48a18377a58090b00580d4e6",
+      "upstream": null,
+      "builtin": false
+    },
+    {
+      "path": "DSEG14Classic-Bold.ttf",
+      "bytes": 28424,
+      "sha256": "10755549540ea735001907ee25344443ff3ee613594fb063bb5cb55d7bc85935",
+      "upstream": null,
+      "builtin": true
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4487,
+      "sha256": "c6ee0567859cb7cc8d992149bbd96ad359ef65fb7355f7feae0547555ffacd23"
+    }
+  ],
+  "font": {
+    "familyId": "dseg",
+    "faces": [
+      {
+        "file": "DSEG7Classic-Regular.ttf",
+        "family": "DSEG7 Classic",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "DSEG7Classic-Bold.ttf",
+        "family": "DSEG7 Classic",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "file": "DSEG14Classic-Regular.ttf",
+        "family": "DSEG14 Classic",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "DSEG14Classic-Bold.ttf",
+        "family": "DSEG14 Classic",
+        "weight": 700,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "led",
+    "nativeRows": null,
+    "preview": {
+      "ko": "12:34 GO",
+      "en": "12:34 GO"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "id": "font-monoton",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Monoton",
+    "en": "Monoton"
+  },
+  "description": {
+    "ko": "네온 · 라틴 전용",
+    "en": "Neon · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Monoton\"",
+    "reservedFontNames": [
+      "Monoton"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "vernon adams",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/monoton"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "monoton"
+  },
+  "minAppSchema": 1,
+  "bytes": 56005,
+  "files": [
+    {
+      "path": "Monoton-Regular.ttf",
+      "bytes": 51604,
+      "sha256": "951c4cea65ffede784a7c9672feec5d329a7e1e12216c42d53ecf36c90d04dea",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/monoton/Monoton-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4401,
+      "sha256": "585c6d2da8bcd8ffa651e0016f2e992a6891b625143a46a1dacf00699a817d9a"
+    }
+  ],
+  "font": {
+    "familyId": "monoton",
+    "faces": [
+      {
+        "file": "Monoton-Regular.ttf",
+        "family": "Monoton",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "neon",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

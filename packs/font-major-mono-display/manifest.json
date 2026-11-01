@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-major-mono-display",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Major Mono Display",
+    "en": "Major Mono Display"
+  },
+  "description": {
+    "ko": "고정폭 · 라틴 전용",
+    "en": "Monospace · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2018 The Major Mono Project Authors (https://github.com/googlefonts/majormono)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Major Mono Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/majormonodisplay"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "major-mono-display"
+  },
+  "minAppSchema": 1,
+  "bytes": 131273,
+  "files": [
+    {
+      "path": "MajorMonoDisplay-Regular.ttf",
+      "bytes": 126788,
+      "sha256": "3f2ee71c2b8464f065bf960a148be81d68fcc13385df87737928f948208dffc6",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/majormonodisplay/MajorMonoDisplay-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4485,
+      "sha256": "616e75d879831bedfa7725c078e09bb56f8a17f40b194e16691b12251bb42b3e"
+    }
+  ],
+  "font": {
+    "familyId": "major-mono-display",
+    "faces": [
+      {
+        "file": "MajorMonoDisplay-Regular.ttf",
+        "family": "Major Mono Display",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "mono",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

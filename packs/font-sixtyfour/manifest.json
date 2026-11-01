@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "id": "font-sixtyfour",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Sixtyfour",
+    "en": "Sixtyfour"
+  },
+  "description": {
+    "ko": "LED · 라틴 전용",
+    "en": "LED · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2021 The Sixtyfour Project Authors (https://github.com/jenskutilek/homecomputer-fonts)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Sixtyfour Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/sixtyfour"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "sixtyfour"
+  },
+  "minAppSchema": 1,
+  "bytes": 75937,
+  "files": [
+    {
+      "path": "Sixtyfour[BLED,SCAN].ttf",
+      "bytes": 71536,
+      "sha256": "3d5a3bb3257a491124347bac83ca7f0c8c77a9961270f353b498f3153e751c68",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/sixtyfour/Sixtyfour%5BBLED%2CSCAN%5D.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4401,
+      "sha256": "a5ef1337c7efa6a7dfb4f23ada5dc9319653b60acb34601ed734608608fee39d"
+    }
+  ],
+  "font": {
+    "familyId": "sixtyfour",
+    "faces": [
+      {
+        "file": "Sixtyfour[BLED,SCAN].ttf",
+        "family": "Sixtyfour",
+        "weight": 400,
+        "style": "normal",
+        "axes": {
+          "SCAN": [
+            -53,
+            100
+          ],
+          "BLED": [
+            0,
+            100
+          ]
+        }
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "led",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}
