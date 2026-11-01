@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T13:34:12Z",
+  "generated": "2026-11-01T13:46:10Z",
   "repo": "BizDooroo/textled-assets",
-  "tag": "catalog-v2026.11.01-1",
+  "tag": "catalog-v2026.11.01-2",
   "packs": [
     {
       "id": "font-asta-sans",
@@ -17,6 +17,28 @@
         "ko": "Asta Sans",
         "en": "Asta Sans"
       },
+      "description": {
+        "ko": "고딕 · 한글 전체",
+        "en": "Sans serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2024 The Asta Sans Project Authors (https://github.com/42dot/Asta-Sans)."
+      },
+      "credit": {
+        "name": "The Asta Sans Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/astasans"
+      },
+      "files": [
+        {
+          "path": "AstaSans[wght].ttf",
+          "bytes": 5771772
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4389
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -44,6 +66,28 @@
         "ko": "Bagel Fat One",
         "en": "Bagel Fat One"
       },
+      "description": {
+        "ko": "디스플레이 · 한글 일부",
+        "en": "Display · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2022 The Bagel Fat Project Authors (https://github.com/JAMO-TYPEFACE/BagelFat)"
+      },
+      "credit": {
+        "name": "The Bagel Fat Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/bagelfatone"
+      },
+      "files": [
+        {
+          "path": "BagelFatOne-Regular.ttf",
+          "bytes": 1585984
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4485
+        }
+      ],
       "tags": [
         "display",
         "hangul-partial"
@@ -71,6 +115,28 @@
         "ko": "흑백사진",
         "en": "Black And White Picture"
       },
+      "description": {
+        "ko": "디스플레이 · 한글 전체",
+        "en": "Display · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 1992-2018 AsiaSoft Inc. Seoul Korea All Rights Reserved."
+      },
+      "credit": {
+        "name": "AsiaSoft Inc. Seoul Korea",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/blackandwhitepicture"
+      },
+      "files": [
+        {
+          "path": "BlackAndWhitePicture-Regular.ttf",
+          "bytes": 9606352
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4374
+        }
+      ],
       "tags": [
         "display",
         "hangul-full"
@@ -98,6 +164,29 @@
         "ko": "검은고딕",
         "en": "Black Han Sans"
       },
+      "description": {
+        "ko": "아주 굵은 제목용 고딕",
+        "en": "Extra-heavy display sans serif"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2015 The Black Han Sans Project Authors (https://github.com/zesstype/Black-Han-Sans)"
+      },
+      "credit": {
+        "name": "The Black Han Sans Project Authors",
+        "url": "https://github.com/zesstype/Black-Han-Sans"
+      },
+      "files": [
+        {
+          "path": "BlackHanSans-Regular.ttf",
+          "bytes": 998424,
+          "builtin": true
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4399
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-partial"
@@ -126,6 +215,28 @@
         "ko": "귀여운 폰트",
         "en": "Cute Font"
       },
+      "description": {
+        "ko": "디스플레이 · 한글 일부",
+        "en": "Display · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2018 The Cute Font Project Authors"
+      },
+      "credit": {
+        "name": "The Cute Font Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/cutefont"
+      },
+      "files": [
+        {
+          "path": "CuteFont-Regular.ttf",
+          "bytes": 1027936
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4348
+        }
+      ],
       "tags": [
         "display",
         "hangul-partial"
@@ -153,6 +264,28 @@
         "ko": "Diphylleia",
         "en": "Diphylleia"
       },
+      "description": {
+        "ko": "명조 · 한글 일부",
+        "en": "Serif · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2022 The Diphylleia Project Authors (https://github.com/JAMO-TYPEFACE/Diphylleia)"
+      },
+      "credit": {
+        "name": "The Diphylleia Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/diphylleia"
+      },
+      "files": [
+        {
+          "path": "Diphylleia-Regular.ttf",
+          "bytes": 1947768
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4488
+        }
+      ],
       "tags": [
         "serif",
         "hangul-partial"
@@ -180,6 +313,28 @@
         "ko": "도현",
         "en": "Do Hyeon"
       },
+      "description": {
+        "ko": "고딕 · 한글 일부",
+        "en": "Sans serif · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2018 The Do Hyeon Project Authors"
+      },
+      "credit": {
+        "name": "The Do Hyeon Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dohyeon"
+      },
+      "files": [
+        {
+          "path": "DoHyeon-Regular.ttf",
+          "bytes": 879764
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4347
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-partial"
@@ -207,6 +362,28 @@
         "ko": "독도",
         "en": "Dokdo"
       },
+      "description": {
+        "ko": "디스플레이 · 한글 일부",
+        "en": "Display · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2005-2017 FONTRIX. All Rights Reserved."
+      },
+      "credit": {
+        "name": "FONTRIX",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dokdo"
+      },
+      "files": [
+        {
+          "path": "Dokdo-Regular.ttf",
+          "bytes": 2150860
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4357
+        }
+      ],
       "tags": [
         "display",
         "hangul-partial"
@@ -234,6 +411,36 @@
         "ko": "동글",
         "en": "Dongle"
       },
+      "description": {
+        "ko": "고딕 · 한글 전체",
+        "en": "Sans serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2021 The Dongle Project Authors (https://github.com/yangheeryu/Dongle)"
+      },
+      "credit": {
+        "name": "The Dongle Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dongle"
+      },
+      "files": [
+        {
+          "path": "Dongle-Light.ttf",
+          "bytes": 4389060
+        },
+        {
+          "path": "Dongle-Regular.ttf",
+          "bytes": 4458600
+        },
+        {
+          "path": "Dongle-Bold.ttf",
+          "bytes": 4476536
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4386
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -261,6 +468,28 @@
         "ko": "대한민국독도",
         "en": "East Sea Dokdo"
       },
+      "description": {
+        "ko": "손글씨 · 한글 일부",
+        "en": "Handwriting · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved."
+      },
+      "credit": {
+        "name": "YoonDesign Inc",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/eastseadokdo"
+      },
+      "files": [
+        {
+          "path": "EastSeaDokdo-Regular.ttf",
+          "bytes": 3178684
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4354
+        }
+      ],
       "tags": [
         "handwriting",
         "hangul-partial"
@@ -288,6 +517,36 @@
         "ko": "개구쟁이",
         "en": "Gaegu"
       },
+      "description": {
+        "ko": "손글씨 · 한글 일부",
+        "en": "Handwriting · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2018 The Gaegu Project Authors"
+      },
+      "credit": {
+        "name": "The Gaegu Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gaegu"
+      },
+      "files": [
+        {
+          "path": "Gaegu-Light.ttf",
+          "bytes": 3213004
+        },
+        {
+          "path": "Gaegu-Regular.ttf",
+          "bytes": 3165816
+        },
+        {
+          "path": "Gaegu-Bold.ttf",
+          "bytes": 2962664
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4344
+        }
+      ],
       "tags": [
         "handwriting",
         "hangul-partial"
@@ -315,6 +574,28 @@
         "ko": "감자꽃마을",
         "en": "Gamja Flower"
       },
+      "description": {
+        "ko": "손글씨 · 한글 전체",
+        "en": "Handwriting · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved."
+      },
+      "credit": {
+        "name": "YoonDesign Inc",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gamjaflower"
+      },
+      "files": [
+        {
+          "path": "GamjaFlower-Regular.ttf",
+          "bytes": 12615444
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4354
+        }
+      ],
       "tags": [
         "handwriting",
         "hangul-full"
@@ -342,6 +623,28 @@
         "ko": "가석",
         "en": "Gasoek One"
       },
+      "description": {
+        "ko": "고딕 · 한글 일부",
+        "en": "Sans serif · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2022 The Gasoek Project Authors (https://github.com/JAMO-TYPEFACE/Gasoek)"
+      },
+      "credit": {
+        "name": "The Gasoek Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gasoekone"
+      },
+      "files": [
+        {
+          "path": "GasoekOne-Regular.ttf",
+          "bytes": 1061372
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4480
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-partial"
@@ -369,6 +672,60 @@
         "ko": "고딕 A1",
         "en": "Gothic A1"
       },
+      "description": {
+        "ko": "고딕 · 한글 전체",
+        "en": "Sans serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "(C) Copyright HanYang I&C Co.,Ltd. All rights reserved."
+      },
+      "credit": {
+        "name": "HanYang I&C Co.,Ltd",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gothica1"
+      },
+      "files": [
+        {
+          "path": "GothicA1-Thin.ttf",
+          "bytes": 2308312
+        },
+        {
+          "path": "GothicA1-ExtraLight.ttf",
+          "bytes": 2298392
+        },
+        {
+          "path": "GothicA1-Light.ttf",
+          "bytes": 2298100
+        },
+        {
+          "path": "GothicA1-Regular.ttf",
+          "bytes": 2295400
+        },
+        {
+          "path": "GothicA1-Medium.ttf",
+          "bytes": 2288824
+        },
+        {
+          "path": "GothicA1-SemiBold.ttf",
+          "bytes": 2288560
+        },
+        {
+          "path": "GothicA1-Bold.ttf",
+          "bytes": 2287068
+        },
+        {
+          "path": "GothicA1-ExtraBold.ttf",
+          "bytes": 2281144
+        },
+        {
+          "path": "GothicA1-Black.ttf",
+          "bytes": 2260752
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4359
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -396,6 +753,32 @@
         "ko": "고운바탕",
         "en": "Gowun Batang"
       },
+      "description": {
+        "ko": "명조 · 한글 전체",
+        "en": "Serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2021 The Gowun Batang Project Authors (https://github.com/yangheeryu/Gowun-Batang)"
+      },
+      "credit": {
+        "name": "The Gowun Batang Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gowunbatang"
+      },
+      "files": [
+        {
+          "path": "GowunBatang-Regular.ttf",
+          "bytes": 8433296
+        },
+        {
+          "path": "GowunBatang-Bold.ttf",
+          "bytes": 8178712
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4397
+        }
+      ],
       "tags": [
         "serif",
         "hangul-full"
@@ -423,6 +806,28 @@
         "ko": "고운돋움",
         "en": "Gowun Dodum"
       },
+      "description": {
+        "ko": "고딕 · 한글 전체",
+        "en": "Sans serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2021 The Gowun Dodum Project Authors (https://github.com/yangheeryu/Gowun-Dodum)"
+      },
+      "credit": {
+        "name": "The Gowun Dodum Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gowundodum"
+      },
+      "files": [
+        {
+          "path": "GowunDodum-Regular.ttf",
+          "bytes": 7229088
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4395
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -450,6 +855,28 @@
         "ko": "Grandiflora One",
         "en": "Grandiflora One"
       },
+      "description": {
+        "ko": "명조 · 한글 일부",
+        "en": "Serif · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2022 The Grandiflora Project Authors (https://github.com/JAMO-TYPEFACE/Grandiflora)"
+      },
+      "credit": {
+        "name": "The Grandiflora Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/grandifloraone"
+      },
+      "files": [
+        {
+          "path": "GrandifloraOne-Regular.ttf",
+          "bytes": 2342680
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4490
+        }
+      ],
       "tags": [
         "serif",
         "hangul-partial"
@@ -477,6 +904,28 @@
         "ko": "구기",
         "en": "Gugi"
       },
+      "description": {
+        "ko": "디스플레이 · 한글 일부",
+        "en": "Display · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2017 by TAE System & Typefaces Co.. All rights reserved."
+      },
+      "credit": {
+        "name": "TAE System & Typefaces Co",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gugi"
+      },
+      "files": [
+        {
+          "path": "Gugi-Regular.ttf",
+          "bytes": 990856
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4374
+        }
+      ],
       "tags": [
         "display",
         "hangul-partial"
@@ -504,6 +953,28 @@
         "ko": "함렡",
         "en": "Hahmlet"
       },
+      "description": {
+        "ko": "명조 · 한글 일부",
+        "en": "Serif · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2020 The Hahmlet Project Authors (https://github.com/hyper-type/hahmlet)"
+      },
+      "credit": {
+        "name": "The Hahmlet Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/hahmlet"
+      },
+      "files": [
+        {
+          "path": "Hahmlet[wght].ttf",
+          "bytes": 3559144
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4477
+        }
+      ],
       "tags": [
         "serif",
         "hangul-partial"
@@ -531,6 +1002,28 @@
         "ko": "하이멜로디",
         "en": "Hi Melody"
       },
+      "description": {
+        "ko": "손글씨 · 한글 전체",
+        "en": "Handwriting · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved."
+      },
+      "credit": {
+        "name": "YoonDesign Inc",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/himelody"
+      },
+      "files": [
+        {
+          "path": "HiMelody-Regular.ttf",
+          "bytes": 12623412
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4354
+        }
+      ],
       "tags": [
         "handwriting",
         "hangul-full"
@@ -558,6 +1051,52 @@
         "ko": "IBM Plex Sans KR",
         "en": "IBM Plex Sans KR"
       },
+      "description": {
+        "ko": "고딕 · 한글 전체",
+        "en": "Sans serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright © 2017 IBM Corp. with Reserved Font Name \"Plex\""
+      },
+      "credit": {
+        "name": "IBM Corp",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/ibmplexsanskr"
+      },
+      "files": [
+        {
+          "path": "IBMPlexSansKR-Thin.ttf",
+          "bytes": 2519952
+        },
+        {
+          "path": "IBMPlexSansKR-ExtraLight.ttf",
+          "bytes": 2860324
+        },
+        {
+          "path": "IBMPlexSansKR-Light.ttf",
+          "bytes": 2803868
+        },
+        {
+          "path": "IBMPlexSansKR-Regular.ttf",
+          "bytes": 2797100
+        },
+        {
+          "path": "IBMPlexSansKR-Medium.ttf",
+          "bytes": 2866736
+        },
+        {
+          "path": "IBMPlexSansKR-SemiBold.ttf",
+          "bytes": 2854744
+        },
+        {
+          "path": "IBMPlexSansKR-Bold.ttf",
+          "bytes": 2875584
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4456
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -585,6 +1124,28 @@
         "ko": "주아",
         "en": "Jua"
       },
+      "description": {
+        "ko": "고딕 · 한글 일부",
+        "en": "Sans serif · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2018 The Jua Project Authors"
+      },
+      "credit": {
+        "name": "The Jua Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/jua"
+      },
+      "files": [
+        {
+          "path": "Jua-Regular.ttf",
+          "bytes": 2119352
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4342
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-partial"
@@ -612,6 +1173,28 @@
         "ko": "기랑해랑",
         "en": "Kirang Haerang"
       },
+      "description": {
+        "ko": "디스플레이 · 한글 일부",
+        "en": "Display · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2018 The Kirang Haerang Project Authors"
+      },
+      "credit": {
+        "name": "The Kirang Haerang Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/kiranghaerang"
+      },
+      "files": [
+        {
+          "path": "KirangHaerang-Regular.ttf",
+          "bytes": 5995608
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4353
+        }
+      ],
       "tags": [
         "display",
         "hangul-partial"
@@ -639,6 +1222,28 @@
         "ko": "Moirai One",
         "en": "Moirai One"
       },
+      "description": {
+        "ko": "디스플레이 · 한글 일부",
+        "en": "Display · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2022 The Moirai Project Authors (https://github.com/JAMO-TYPEFACE/Moirai)"
+      },
+      "credit": {
+        "name": "The Moirai Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/moiraione"
+      },
+      "files": [
+        {
+          "path": "MoiraiOne-Regular.ttf",
+          "bytes": 2102128
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4480
+        }
+      ],
       "tags": [
         "display",
         "hangul-partial"
@@ -666,6 +1271,28 @@
         "ko": "나눔손글씨 붓",
         "en": "Nanum Brush Script"
       },
+      "description": {
+        "ko": "손글씨 · 한글 전체",
+        "en": "Handwriting · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2010, NHN Corporation (http://www.nhncorp.com), with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen, Naver NanumPen."
+      },
+      "credit": {
+        "name": "NHN Corporation",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumbrushscript"
+      },
+      "files": [
+        {
+          "path": "NanumBrushScript-Regular.ttf",
+          "bytes": 3564804
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4534
+        }
+      ],
       "tags": [
         "handwriting",
         "hangul-full"
@@ -693,6 +1320,36 @@
         "ko": "나눔고딕",
         "en": "Nanum Gothic"
       },
+      "description": {
+        "ko": "고딕 · 한글 전체",
+        "en": "Sans serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2010, NHN Corporation (http://www.nhncorp.com), with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen, Naver NanumPen."
+      },
+      "credit": {
+        "name": "NHN Corporation",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumgothic"
+      },
+      "files": [
+        {
+          "path": "NanumGothic-Regular.ttf",
+          "bytes": 2054744
+        },
+        {
+          "path": "NanumGothic-Bold.ttf",
+          "bytes": 2073868
+        },
+        {
+          "path": "NanumGothic-ExtraBold.ttf",
+          "bytes": 2112720
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4534
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -720,6 +1377,32 @@
         "ko": "나눔고딕코딩",
         "en": "Nanum Gothic Coding"
       },
+      "description": {
+        "ko": "고정폭 · 한글 전체",
+        "en": "Monospace · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2010, NHN Corporation (http://www.nhncorp.com), with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen, Naver NanumPen."
+      },
+      "credit": {
+        "name": "NHN Corporation",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumgothiccoding"
+      },
+      "files": [
+        {
+          "path": "NanumGothicCoding-Regular.ttf",
+          "bytes": 2315924
+        },
+        {
+          "path": "NanumGothicCoding-Bold.ttf",
+          "bytes": 2246240
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4534
+        }
+      ],
       "tags": [
         "mono",
         "hangul-full"
@@ -747,6 +1430,36 @@
         "ko": "나눔명조",
         "en": "Nanum Myeongjo"
       },
+      "description": {
+        "ko": "명조 · 한글 전체",
+        "en": "Serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2010, NHN Corporation (http://www.nhncorp.com), with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen, Naver NanumPen"
+      },
+      "credit": {
+        "name": "NHN Corporation",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanummyeongjo"
+      },
+      "files": [
+        {
+          "path": "NanumMyeongjo-Regular.ttf",
+          "bytes": 3058408
+        },
+        {
+          "path": "NanumMyeongjo-Bold.ttf",
+          "bytes": 3074720
+        },
+        {
+          "path": "NanumMyeongjo-ExtraBold.ttf",
+          "bytes": 3180888
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4497
+        }
+      ],
       "tags": [
         "serif",
         "hangul-full"
@@ -774,6 +1487,28 @@
         "ko": "나눔손글씨 펜",
         "en": "Nanum Pen Script"
       },
+      "description": {
+        "ko": "손글씨 · 한글 전체",
+        "en": "Handwriting · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2010, NHN Corporation (http://www.nhncorp.com), with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen, Naver NanumPen."
+      },
+      "credit": {
+        "name": "NHN Corporation",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumpenscript"
+      },
+      "files": [
+        {
+          "path": "NanumPenScript-Regular.ttf",
+          "bytes": 3201664
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4534
+        }
+      ],
       "tags": [
         "handwriting",
         "hangul-full"
@@ -801,6 +1536,28 @@
         "ko": "Noto Sans KR",
         "en": "Noto Sans KR"
       },
+      "description": {
+        "ko": "고딕 · 한글 전체",
+        "en": "Sans serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2014-2021 Adobe (http://www.adobe.com/), with Reserved Font Name 'Source'"
+      },
+      "credit": {
+        "name": "Adobe",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/notosanskr"
+      },
+      "files": [
+        {
+          "path": "NotoSansKR[wght].ttf",
+          "bytes": 10414588
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4388
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -828,6 +1585,28 @@
         "ko": "Orbit",
         "en": "Orbit"
       },
+      "description": {
+        "ko": "고딕 · 한글 일부",
+        "en": "Sans serif · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2022 The Orbit Project Authors (https://github.com/JAMO-TYPEFACE/Orbit)"
+      },
+      "credit": {
+        "name": "The Orbit Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/orbit"
+      },
+      "files": [
+        {
+          "path": "Orbit-Regular.ttf",
+          "bytes": 784480
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4478
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-partial"
@@ -855,6 +1634,28 @@
         "ko": "서툰이야기",
         "en": "Poor Story"
       },
+      "description": {
+        "ko": "디스플레이 · 한글 전체",
+        "en": "Display · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved."
+      },
+      "credit": {
+        "name": "YoonDesign Inc",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/poorstory"
+      },
+      "files": [
+        {
+          "path": "PoorStory-Regular.ttf",
+          "bytes": 3966768
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4354
+        }
+      ],
       "tags": [
         "display",
         "hangul-full"
@@ -882,6 +1683,28 @@
         "ko": "싱글데이",
         "en": "Single Day"
       },
+      "description": {
+        "ko": "디스플레이 · 한글 전체",
+        "en": "Display · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2015 DXKorea Inc. All rights reserved."
+      },
+      "credit": {
+        "name": "DXKorea Inc",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/singleday"
+      },
+      "files": [
+        {
+          "path": "SingleDay-Regular.ttf",
+          "bytes": 816524
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4352
+        }
+      ],
       "tags": [
         "display",
         "hangul-full"
@@ -909,6 +1732,28 @@
         "ko": "송명",
         "en": "Song Myung"
       },
+      "description": {
+        "ko": "명조 · 한글 일부",
+        "en": "Serif · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2018 The SongMyung Project Authors"
+      },
+      "credit": {
+        "name": "The SongMyung Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/songmyung"
+      },
+      "files": [
+        {
+          "path": "SongMyung-Regular.ttf",
+          "bytes": 2035300
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4348
+        }
+      ],
       "tags": [
         "serif",
         "hangul-partial"
@@ -936,6 +1781,28 @@
         "ko": "스타일리쉬",
         "en": "Stylish"
       },
+      "description": {
+        "ko": "고딕 · 한글 전체",
+        "en": "Sans serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 1992-2018 AsiaSoft Inc. Seoul Korea All Rights Reserved."
+      },
+      "credit": {
+        "name": "AsiaSoft Inc. Seoul Korea",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/stylish"
+      },
+      "files": [
+        {
+          "path": "Stylish-Regular.ttf",
+          "bytes": 10854004
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4374
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -963,6 +1830,36 @@
         "ko": "Sunflower",
         "en": "Sunflower"
       },
+      "description": {
+        "ko": "고딕 · 한글 일부",
+        "en": "Sans serif · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2008 The Sunflower Project Authors"
+      },
+      "credit": {
+        "name": "The Sunflower Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/sunflower"
+      },
+      "files": [
+        {
+          "path": "Sunflower-Light.ttf",
+          "bytes": 758332
+        },
+        {
+          "path": "Sunflower-Medium.ttf",
+          "bytes": 770536
+        },
+        {
+          "path": "Sunflower-Bold.ttf",
+          "bytes": 746300
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4348
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-partial"
@@ -990,6 +1887,28 @@
         "ko": "연성",
         "en": "Yeon Sung"
       },
+      "description": {
+        "ko": "디스플레이 · 한글 일부",
+        "en": "Display · partial Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2018 The BM YEONSUNG Project Authors"
+      },
+      "credit": {
+        "name": "The BM YEONSUNG Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/yeonsung"
+      },
+      "files": [
+        {
+          "path": "YeonSung-Regular.ttf",
+          "bytes": 2511004
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4350
+        }
+      ],
       "tags": [
         "display",
         "hangul-partial"
@@ -1017,6 +1936,29 @@
         "ko": "Doto",
         "en": "Doto"
       },
+      "description": {
+        "ko": "LED 점 모양 라틴 글꼴",
+        "en": "LED dot-matrix Latin font"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2024 The Doto Project Authors (https://github.com/oliverlalan/Doto)"
+      },
+      "credit": {
+        "name": "The Doto Project Authors",
+        "url": "https://github.com/oliverlalan/Doto"
+      },
+      "files": [
+        {
+          "path": "Doto[ROND,wght].ttf",
+          "bytes": 456924,
+          "builtin": true
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4382
+        }
+      ],
       "tags": [
         "led",
         "latin-only"
@@ -1045,6 +1987,28 @@
         "ko": "DotGothic16",
         "en": "DotGothic16"
       },
+      "description": {
+        "ko": "LED · 라틴 전용",
+        "en": "LED · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2020 The DotGothic16 Project Authors (https://github.com/fontworks-fonts/DotGothic16)"
+      },
+      "credit": {
+        "name": "The DotGothic16 Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dotgothic16"
+      },
+      "files": [
+        {
+          "path": "DotGothic16-Regular.ttf",
+          "bytes": 2069236
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4492
+        }
+      ],
       "tags": [
         "led",
         "latin-only"
@@ -1072,6 +2036,32 @@
         "ko": "Silkscreen",
         "en": "Silkscreen"
       },
+      "description": {
+        "ko": "픽셀 · 라틴 전용",
+        "en": "Pixel · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2001 The Silkscreen Project Authors (https://github.com/googlefonts/silkscreen)"
+      },
+      "credit": {
+        "name": "The Silkscreen Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/silkscreen"
+      },
+      "files": [
+        {
+          "path": "Silkscreen-Regular.ttf",
+          "bytes": 32220
+        },
+        {
+          "path": "Silkscreen-Bold.ttf",
+          "bytes": 30632
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4394
+        }
+      ],
       "tags": [
         "pixel",
         "latin-only"
@@ -1099,6 +2089,28 @@
         "ko": "Pixelify Sans",
         "en": "Pixelify Sans"
       },
+      "description": {
+        "ko": "픽셀 · 라틴 전용",
+        "en": "Pixel · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2021 The Pixelify Sans Project Authors (https://github.com/eifetx/Pixelify-Sans)"
+      },
+      "credit": {
+        "name": "The Pixelify Sans Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/pixelifysans"
+      },
+      "files": [
+        {
+          "path": "PixelifySans[wght].ttf",
+          "bytes": 79160
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4488
+        }
+      ],
       "tags": [
         "pixel",
         "latin-only"
@@ -1126,6 +2138,28 @@
         "ko": "Press Start 2P",
         "en": "Press Start 2P"
       },
+      "description": {
+        "ko": "픽셀 · 라틴 전용",
+        "en": "Pixel · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2012 The Press Start 2P Project Authors (cody@zone38.net), with Reserved Font Name \"Press Start 2P\"."
+      },
+      "credit": {
+        "name": "The Press Start 2P Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/pressstart2p"
+      },
+      "files": [
+        {
+          "path": "PressStart2P-Regular.ttf",
+          "bytes": 118204
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4413
+        }
+      ],
       "tags": [
         "pixel",
         "latin-only"
@@ -1155,6 +2189,28 @@
         "ko": "VT323",
         "en": "VT323"
       },
+      "description": {
+        "ko": "픽셀 · 라틴 전용",
+        "en": "Pixel · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2011, The VT323 Project Authors (peter.hull@oikoi.com)"
+      },
+      "credit": {
+        "name": "The VT323 Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/vt323"
+      },
+      "files": [
+        {
+          "path": "VT323-Regular.ttf",
+          "bytes": 153116
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4367
+        }
+      ],
       "tags": [
         "pixel",
         "latin-only"
@@ -1182,6 +2238,32 @@
         "ko": "Tiny5",
         "en": "Tiny5"
       },
+      "description": {
+        "ko": "픽셀 · 라틴 전용",
+        "en": "Pixel · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2022-2024 The Tiny5 Project Authors (https://github.com/Gissio/font_tiny5)"
+      },
+      "credit": {
+        "name": "The Tiny5 Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/tiny5"
+      },
+      "files": [
+        {
+          "path": "Tiny5[BLED,JITT,ROND,wdth,wght].ttf",
+          "bytes": 433432
+        },
+        {
+          "path": "Tiny5-Italic[BLED,JITT,ROND,wdth,wght].ttf",
+          "bytes": 433828
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4389
+        }
+      ],
       "tags": [
         "pixel",
         "latin-only"
@@ -1209,6 +2291,28 @@
         "ko": "Micro 5",
         "en": "Micro 5"
       },
+      "description": {
+        "ko": "픽셀 · 라틴 전용",
+        "en": "Pixel · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-micro)"
+      },
+      "credit": {
+        "name": "The Soft Type Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/micro5"
+      },
+      "files": [
+        {
+          "path": "Micro5-Regular.ttf",
+          "bytes": 53936
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4394
+        }
+      ],
       "tags": [
         "pixel",
         "latin-only"
@@ -1238,6 +2342,28 @@
         "ko": "Jersey 10",
         "en": "Jersey 10"
       },
+      "description": {
+        "ko": "픽셀 · 라틴 전용",
+        "en": "Pixel · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)"
+      },
+      "credit": {
+        "name": "The Soft Type Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/jersey10"
+      },
+      "files": [
+        {
+          "path": "Jersey10-Regular.ttf",
+          "bytes": 77732
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4395
+        }
+      ],
       "tags": [
         "pixel",
         "latin-only"
@@ -1267,6 +2393,28 @@
         "ko": "Sixtyfour",
         "en": "Sixtyfour"
       },
+      "description": {
+        "ko": "LED · 라틴 전용",
+        "en": "LED · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2021 The Sixtyfour Project Authors (https://github.com/jenskutilek/homecomputer-fonts)"
+      },
+      "credit": {
+        "name": "The Sixtyfour Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/sixtyfour"
+      },
+      "files": [
+        {
+          "path": "Sixtyfour[BLED,SCAN].ttf",
+          "bytes": 71536
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4401
+        }
+      ],
       "tags": [
         "led",
         "latin-only"
@@ -1294,6 +2442,28 @@
         "ko": "Workbench",
         "en": "Workbench"
       },
+      "description": {
+        "ko": "픽셀 · 라틴 전용",
+        "en": "Pixel · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2021 The Workbench Project Authors (https://github.com/jenskutilek/homecomputer-fonts)"
+      },
+      "credit": {
+        "name": "The Workbench Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/workbench"
+      },
+      "files": [
+        {
+          "path": "Workbench[BLED,SCAN].ttf",
+          "bytes": 32472
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4401
+        }
+      ],
       "tags": [
         "pixel",
         "latin-only"
@@ -1321,6 +2491,28 @@
         "ko": "Bungee",
         "en": "Bungee"
       },
+      "description": {
+        "ko": "디스플레이 · 라틴 전용",
+        "en": "Display · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)"
+      },
+      "credit": {
+        "name": "The Bungee Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/bungee"
+      },
+      "files": [
+        {
+          "path": "Bungee-Regular.ttf",
+          "bytes": 118996
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4473
+        }
+      ],
       "tags": [
         "display",
         "latin-only"
@@ -1348,6 +2540,28 @@
         "ko": "Bungee Shade",
         "en": "Bungee Shade"
       },
+      "description": {
+        "ko": "디스플레이 · 라틴 전용",
+        "en": "Display · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)"
+      },
+      "credit": {
+        "name": "The Bungee Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/bungeeshade"
+      },
+      "files": [
+        {
+          "path": "BungeeShade-Regular.ttf",
+          "bytes": 304936
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4473
+        }
+      ],
       "tags": [
         "display",
         "latin-only"
@@ -1375,6 +2589,28 @@
         "ko": "Monoton",
         "en": "Monoton"
       },
+      "description": {
+        "ko": "네온 · 라틴 전용",
+        "en": "Neon · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Monoton\""
+      },
+      "credit": {
+        "name": "vernon adams",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/monoton"
+      },
+      "files": [
+        {
+          "path": "Monoton-Regular.ttf",
+          "bytes": 51604
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4401
+        }
+      ],
       "tags": [
         "neon",
         "latin-only"
@@ -1402,6 +2638,28 @@
         "ko": "Orbitron",
         "en": "Orbitron"
       },
+      "description": {
+        "ko": "고딕 · 라틴 전용",
+        "en": "Sans serif · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2018 The Orbitron Project Authors (https://github.com/theleagueof/orbitron), with Reserved Font Name: \"Orbitron\""
+      },
+      "credit": {
+        "name": "The Orbitron Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/orbitron"
+      },
+      "files": [
+        {
+          "path": "Orbitron[wght].ttf",
+          "bytes": 38576
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4426
+        }
+      ],
       "tags": [
         "gothic",
         "latin-only"
@@ -1429,6 +2687,28 @@
         "ko": "Audiowide",
         "en": "Audiowide"
       },
+      "description": {
+        "ko": "디스플레이 · 라틴 전용",
+        "en": "Display · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2012, Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Names \"Audiowide\""
+      },
+      "credit": {
+        "name": "Brian J. Bonislawsky DBA Astigmatic",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/audiowide"
+      },
+      "files": [
+        {
+          "path": "Audiowide-Regular.ttf",
+          "bytes": 69916
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4430
+        }
+      ],
       "tags": [
         "display",
         "latin-only"
@@ -1456,6 +2736,28 @@
         "ko": "Righteous",
         "en": "Righteous"
       },
+      "description": {
+        "ko": "디스플레이 · 라틴 전용",
+        "en": "Display · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Names \"Righteous\""
+      },
+      "credit": {
+        "name": "Brian J. Bonislawsky DBA Astigmatic",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/righteous"
+      },
+      "files": [
+        {
+          "path": "Righteous-Regular.ttf",
+          "bytes": 43104
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4432
+        }
+      ],
       "tags": [
         "display",
         "latin-only"
@@ -1483,6 +2785,28 @@
         "ko": "Bebas Neue",
         "en": "Bebas Neue"
       },
+      "description": {
+        "ko": "고딕 · 라틴 전용",
+        "en": "Sans serif · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright © 2010 by Dharma Type."
+      },
+      "credit": {
+        "name": "Dharma Type",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/bebasneue"
+      },
+      "files": [
+        {
+          "path": "BebasNeue-Regular.ttf",
+          "bytes": 61400
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4337
+        }
+      ],
       "tags": [
         "gothic",
         "latin-only"
@@ -1510,6 +2834,28 @@
         "ko": "Anton",
         "en": "Anton"
       },
+      "description": {
+        "ko": "고딕 · 라틴 전용",
+        "en": "Sans serif · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont.git)"
+      },
+      "credit": {
+        "name": "The Anton Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/anton"
+      },
+      "files": [
+        {
+          "path": "Anton-Regular.ttf",
+          "bytes": 170812
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4484
+        }
+      ],
       "tags": [
         "gothic",
         "latin-only"
@@ -1537,6 +2883,28 @@
         "ko": "Black Ops One",
         "en": "Black Ops One"
       },
+      "description": {
+        "ko": "디스플레이 · 라틴 전용",
+        "en": "Display · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2022 The Black-Ops Project Authors (https://github.com/googlefonts/googlefonts-project-template)"
+      },
+      "credit": {
+        "name": "The Black-Ops Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/blackopsone"
+      },
+      "files": [
+        {
+          "path": "BlackOpsOne-Regular.ttf",
+          "bytes": 166532
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4411
+        }
+      ],
       "tags": [
         "display",
         "latin-only"
@@ -1564,6 +2932,28 @@
         "ko": "Russo One",
         "en": "Russo One"
       },
+      "description": {
+        "ko": "고딕 · 라틴 전용",
+        "en": "Sans serif · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2011-2012, Jovanny Lemonad (jovanny.ru), with Reserved Font Name \"Russo\""
+      },
+      "credit": {
+        "name": "Jovanny Lemonad",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/russoone"
+      },
+      "files": [
+        {
+          "path": "RussoOne-Regular.ttf",
+          "bytes": 39124
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4390
+        }
+      ],
       "tags": [
         "gothic",
         "latin-only"
@@ -1591,6 +2981,28 @@
         "ko": "Rubik Mono One",
         "en": "Rubik Mono One"
       },
+      "description": {
+        "ko": "고딕 · 라틴 전용",
+        "en": "Sans serif · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2015 The Rubik Project Authors (mail@hubertfischer.com)"
+      },
+      "credit": {
+        "name": "The Rubik Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/rubikmonoone"
+      },
+      "files": [
+        {
+          "path": "RubikMonoOne-Regular.ttf",
+          "bytes": 141088
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4462
+        }
+      ],
       "tags": [
         "gothic",
         "latin-only"
@@ -1618,6 +3030,28 @@
         "ko": "Tilt Neon",
         "en": "Tilt Neon"
       },
+      "description": {
+        "ko": "네온 · 라틴 전용",
+        "en": "Neon · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2019 The Tilt Project Authors (https://github.com/googlefonts/Tilt-Fonts)"
+      },
+      "credit": {
+        "name": "The Tilt Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/tiltneon"
+      },
+      "files": [
+        {
+          "path": "TiltNeon[XROT,YROT].ttf",
+          "bytes": 583288
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4387
+        }
+      ],
       "tags": [
         "neon",
         "latin-only"
@@ -1645,6 +3079,28 @@
         "ko": "Neonderthaw",
         "en": "Neonderthaw"
       },
+      "description": {
+        "ko": "네온 · 라틴 전용",
+        "en": "Neon · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2014-2021 The Neonderthaw Project Authors (https://github.com/googlefonts/neonderthaw)"
+      },
+      "credit": {
+        "name": "The Neonderthaw Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/neonderthaw"
+      },
+      "files": [
+        {
+          "path": "Neonderthaw-Regular.ttf",
+          "bytes": 276228
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4401
+        }
+      ],
       "tags": [
         "neon",
         "latin-only"
@@ -1672,6 +3128,28 @@
         "ko": "Bungee Spice",
         "en": "Bungee Spice"
       },
+      "description": {
+        "ko": "디스플레이 · 라틴 전용",
+        "en": "Display · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)"
+      },
+      "credit": {
+        "name": "The Bungee Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/bungeespice"
+      },
+      "files": [
+        {
+          "path": "BungeeSpice-Regular.ttf",
+          "bytes": 1502376
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4473
+        }
+      ],
       "tags": [
         "display",
         "latin-only"
@@ -1699,6 +3177,28 @@
         "ko": "Rubik Glitch",
         "en": "Rubik Glitch"
       },
+      "description": {
+        "ko": "디스플레이 · 라틴 전용",
+        "en": "Display · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://https://github.com/NaN-xyz/Rubik-Filtered)"
+      },
+      "credit": {
+        "name": "The Rubik Filtered Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/rubikglitch"
+      },
+      "files": [
+        {
+          "path": "RubikGlitch-Regular.ttf",
+          "bytes": 407304
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4406
+        }
+      ],
       "tags": [
         "display",
         "latin-only"
@@ -1726,6 +3226,28 @@
         "ko": "Major Mono Display",
         "en": "Major Mono Display"
       },
+      "description": {
+        "ko": "고정폭 · 라틴 전용",
+        "en": "Monospace · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2018 The Major Mono Project Authors (https://github.com/googlefonts/majormono)"
+      },
+      "credit": {
+        "name": "The Major Mono Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/majormonodisplay"
+      },
+      "files": [
+        {
+          "path": "MajorMonoDisplay-Regular.ttf",
+          "bytes": 126788
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4485
+        }
+      ],
       "tags": [
         "mono",
         "latin-only"
@@ -1753,6 +3275,28 @@
         "ko": "Share Tech Mono",
         "en": "Share Tech Mono"
       },
+      "description": {
+        "ko": "고정폭 · 라틴 전용",
+        "en": "Monospace · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2012, Carrois Type Design, Ralph du Carrois (post@carrois.com www.carrois.com), with Reserved Font Name 'Share'"
+      },
+      "credit": {
+        "name": "Carrois Type Design, Ralph du Carrois",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/sharetechmono"
+      },
+      "files": [
+        {
+          "path": "ShareTechMono-Regular.ttf",
+          "bytes": 43272
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4429
+        }
+      ],
       "tags": [
         "mono",
         "latin-only"
@@ -1780,6 +3324,28 @@
         "ko": "Oxanium",
         "en": "Oxanium"
       },
+      "description": {
+        "ko": "디스플레이 · 라틴 전용",
+        "en": "Display · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2019 The Oxanium Project Authors (https://github.com/sevmeyer/oxanium)"
+      },
+      "credit": {
+        "name": "The Oxanium Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/oxanium"
+      },
+      "files": [
+        {
+          "path": "Oxanium[wght].ttf",
+          "bytes": 43536
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4384
+        }
+      ],
       "tags": [
         "display",
         "latin-only"
@@ -1807,6 +3373,64 @@
         "ko": "Chakra Petch",
         "en": "Chakra Petch"
       },
+      "description": {
+        "ko": "고딕 · 라틴 전용",
+        "en": "Sans serif · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)"
+      },
+      "credit": {
+        "name": "The Chakra Petch Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/chakrapetch"
+      },
+      "files": [
+        {
+          "path": "ChakraPetch-Light.ttf",
+          "bytes": 78936
+        },
+        {
+          "path": "ChakraPetch-LightItalic.ttf",
+          "bytes": 81240
+        },
+        {
+          "path": "ChakraPetch-Regular.ttf",
+          "bytes": 78488
+        },
+        {
+          "path": "ChakraPetch-Italic.ttf",
+          "bytes": 80764
+        },
+        {
+          "path": "ChakraPetch-Medium.ttf",
+          "bytes": 78600
+        },
+        {
+          "path": "ChakraPetch-MediumItalic.ttf",
+          "bytes": 80960
+        },
+        {
+          "path": "ChakraPetch-SemiBold.ttf",
+          "bytes": 78604
+        },
+        {
+          "path": "ChakraPetch-SemiBoldItalic.ttf",
+          "bytes": 81000
+        },
+        {
+          "path": "ChakraPetch-Bold.ttf",
+          "bytes": 78384
+        },
+        {
+          "path": "ChakraPetch-BoldItalic.ttf",
+          "bytes": 80828
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4396
+        }
+      ],
       "tags": [
         "gothic",
         "latin-only"
@@ -1834,6 +3458,28 @@
         "ko": "Bowlby One",
         "en": "Bowlby One"
       },
+      "description": {
+        "ko": "디스플레이 · 라틴 전용",
+        "en": "Display · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Bowlby\" \"Bowlby One\" and \"Bowlby One SC\""
+      },
+      "credit": {
+        "name": "vernon adams",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/bowlbyone"
+      },
+      "files": [
+        {
+          "path": "BowlbyOne-Regular.ttf",
+          "bytes": 59856
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4433
+        }
+      ],
       "tags": [
         "display",
         "latin-only"
@@ -1861,6 +3507,28 @@
         "ko": "Lilita One",
         "en": "Lilita One"
       },
+      "description": {
+        "ko": "디스플레이 · 라틴 전용",
+        "en": "Display · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2011 Juan Montoreano (juan@remolacha.biz), with Reserved Font Name Lilita"
+      },
+      "credit": {
+        "name": "Juan Montoreano",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/lilitaone"
+      },
+      "files": [
+        {
+          "path": "LilitaOne-Regular.ttf",
+          "bytes": 28092
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4392
+        }
+      ],
       "tags": [
         "display",
         "latin-only"
@@ -1888,6 +3556,28 @@
         "ko": "Permanent Marker",
         "en": "Permanent Marker"
       },
+      "description": {
+        "ko": "손글씨 · 라틴 전용",
+        "en": "Handwriting · Latin only"
+      },
+      "license": {
+        "spdx": "Apache-2.0",
+        "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved."
+      },
+      "credit": {
+        "name": "Font Diner, Inc",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/apache/permanentmarker"
+      },
+      "files": [
+        {
+          "path": "PermanentMarker-Regular.ttf",
+          "bytes": 74632
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 11358
+        }
+      ],
       "tags": [
         "handwriting",
         "latin-only"
@@ -1915,6 +3605,28 @@
         "ko": "Pacifico",
         "en": "Pacifico"
       },
+      "description": {
+        "ko": "손글씨 · 라틴 전용",
+        "en": "Handwriting · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2018 The Pacifico Project Authors (https://github.com/googlefonts/Pacifico)"
+      },
+      "credit": {
+        "name": "The Pacifico Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/pacifico"
+      },
+      "files": [
+        {
+          "path": "Pacifico-Regular.ttf",
+          "bytes": 329380
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4389
+        }
+      ],
       "tags": [
         "handwriting",
         "latin-only"
@@ -1942,6 +3654,28 @@
         "ko": "Lobster",
         "en": "Lobster"
       },
+      "description": {
+        "ko": "디스플레이 · 라틴 전용",
+        "en": "Display · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2010 The Lobster Project Authors (https://github.com/impallari/The-Lobster-Font), with Reserved Font Name \"Lobster\"."
+      },
+      "credit": {
+        "name": "The Lobster Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/lobster"
+      },
+      "files": [
+        {
+          "path": "Lobster-Regular.ttf",
+          "bytes": 406076
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4430
+        }
+      ],
       "tags": [
         "display",
         "latin-only"
@@ -1969,6 +3703,28 @@
         "ko": "Noto Emoji",
         "en": "Noto Emoji"
       },
+      "description": {
+        "ko": "이모지 · 흑백",
+        "en": "Emoji · monochrome"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2013 Google LLC"
+      },
+      "credit": {
+        "name": "Google LLC",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/notoemoji"
+      },
+      "files": [
+        {
+          "path": "NotoEmoji[wght].ttf",
+          "bytes": 1982596
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4330
+        }
+      ],
       "tags": [
         "emoji",
         "latin-only"
@@ -1996,6 +3752,32 @@
         "ko": "Noto Sans",
         "en": "Noto Sans"
       },
+      "description": {
+        "ko": "고딕 · 라틴 전용",
+        "en": "Sans serif · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/latin-greek-cyrillic)"
+      },
+      "credit": {
+        "name": "The Noto Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/notosans"
+      },
+      "files": [
+        {
+          "path": "NotoSans[wdth,wght].ttf",
+          "bytes": 2049096
+        },
+        {
+          "path": "NotoSans-Italic[wdth,wght].ttf",
+          "bytes": 2322640
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4396
+        }
+      ],
       "tags": [
         "gothic",
         "latin-only"
@@ -2023,6 +3805,32 @@
         "ko": "Inter",
         "en": "Inter"
       },
+      "description": {
+        "ko": "고딕 · 라틴 전용",
+        "en": "Sans serif · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)"
+      },
+      "credit": {
+        "name": "The Inter Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/inter"
+      },
+      "files": [
+        {
+          "path": "Inter[opsz,wght].ttf",
+          "bytes": 876576
+        },
+        {
+          "path": "Inter-Italic[opsz,wght].ttf",
+          "bytes": 906596
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4377
+        }
+      ],
       "tags": [
         "gothic",
         "latin-only"
@@ -2050,6 +3858,32 @@
         "ko": "Roboto",
         "en": "Roboto"
       },
+      "description": {
+        "ko": "고딕 · 라틴 전용",
+        "en": "Sans serif · Latin only"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto-classic)"
+      },
+      "credit": {
+        "name": "The Roboto Project Authors",
+        "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/roboto"
+      },
+      "files": [
+        {
+          "path": "Roboto[wdth,wght].ttf",
+          "bytes": 488584
+        },
+        {
+          "path": "Roboto-Italic[wdth,wght].ttf",
+          "bytes": 530944
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4394
+        }
+      ],
       "tags": [
         "gothic",
         "latin-only"
@@ -2077,6 +3911,52 @@
         "ko": "갈무리",
         "en": "Galmuri"
       },
+      "description": {
+        "ko": "픽셀 · 한글 전체",
+        "en": "Pixel · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2019–2025 Lee Minseo (quiple@quiple.dev)"
+      },
+      "credit": {
+        "name": "Lee Minseo",
+        "url": "https://github.com/quiple/galmuri"
+      },
+      "files": [
+        {
+          "path": "Galmuri11.ttf",
+          "bytes": 5376428
+        },
+        {
+          "path": "Galmuri11-Bold.ttf",
+          "bytes": 2613660
+        },
+        {
+          "path": "Galmuri11-Condensed.ttf",
+          "bytes": 2668536
+        },
+        {
+          "path": "Galmuri14.ttf",
+          "bytes": 5636376
+        },
+        {
+          "path": "Galmuri9.ttf",
+          "bytes": 4649144
+        },
+        {
+          "path": "Galmuri7.ttf",
+          "bytes": 3702440
+        },
+        {
+          "path": "GalmuriMono11.ttf",
+          "bytes": 5200216
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4360
+        }
+      ],
       "tags": [
         "pixel",
         "hangul-full"
@@ -2106,6 +3986,33 @@
         "ko": "Neo둥근모",
         "en": "NeoDunggeunmo"
       },
+      "description": {
+        "ko": "16픽셀 한글 도트 글꼴",
+        "en": "16-pixel Hangul pixel font"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2017-2021, Eunbin Jeong (Dalgona.) <project-neodgm@dalgona.dev> with Reserved Font Name \"Neo둥근모\", \"Neo둥근모 Code\", \"NeoDunggeunmo\", and \"NeoDunggeunmo Code\"."
+      },
+      "credit": {
+        "name": "Eunbin Jeong (Dalgona.)",
+        "url": "https://github.com/neodgm/neodgm"
+      },
+      "files": [
+        {
+          "path": "neodgm.ttf",
+          "bytes": 651044,
+          "builtin": true
+        },
+        {
+          "path": "neodgm_code.ttf",
+          "bytes": 654552
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4556
+        }
+      ],
       "tags": [
         "pixel",
         "hangul-full"
@@ -2136,6 +4043,41 @@
         "ko": "프리텐다드",
         "en": "Pretendard"
       },
+      "description": {
+        "ko": "읽기 쉬운 고딕",
+        "en": "Highly legible sans serif"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2021, Kil Hyung-jin (https://github.com/orioncactus/pretendard), with Reserved Font Name Pretendard."
+      },
+      "credit": {
+        "name": "Kil Hyung-jin",
+        "url": "https://github.com/orioncactus/pretendard"
+      },
+      "files": [
+        {
+          "path": "Pretendard-Regular.ttf",
+          "bytes": 2725828
+        },
+        {
+          "path": "Pretendard-Bold.ttf",
+          "bytes": 2661752,
+          "builtin": true
+        },
+        {
+          "path": "Pretendard-ExtraBold.ttf",
+          "bytes": 2669648
+        },
+        {
+          "path": "Pretendard-Black.ttf",
+          "bytes": 2665004
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4419
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -2164,6 +4106,40 @@
         "ko": "수트",
         "en": "SUIT"
       },
+      "description": {
+        "ko": "고딕 · 한글 전체",
+        "en": "Sans serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2022, SUNN (http://sun.fo/suit), with Reserved Font Name SUIT."
+      },
+      "credit": {
+        "name": "SUNN",
+        "url": "https://github.com/sun-typeface/SUIT"
+      },
+      "files": [
+        {
+          "path": "SUIT-Regular.ttf",
+          "bytes": 594324
+        },
+        {
+          "path": "SUIT-Bold.ttf",
+          "bytes": 589892
+        },
+        {
+          "path": "SUIT-ExtraBold.ttf",
+          "bytes": 586272
+        },
+        {
+          "path": "SUIT-Heavy.ttf",
+          "bytes": 583792
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4380
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -2191,6 +4167,40 @@
         "ko": "원티드 산스",
         "en": "Wanted Sans"
       },
+      "description": {
+        "ko": "고딕 · 한글 전체",
+        "en": "Sans serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2024 The Wanted Sans Project Authors (https://github.com/wanteddev/wanted-sans)"
+      },
+      "credit": {
+        "name": "The Wanted Sans Project Authors",
+        "url": "https://github.com/wanteddev/wanted-sans"
+      },
+      "files": [
+        {
+          "path": "WantedSans-Regular.ttf",
+          "bytes": 2401736
+        },
+        {
+          "path": "WantedSans-Bold.ttf",
+          "bytes": 2344596
+        },
+        {
+          "path": "WantedSans-Black.ttf",
+          "bytes": 2350312
+        },
+        {
+          "path": "WantedSans-ExtraBlack.ttf",
+          "bytes": 2372768
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4394
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -2218,6 +4228,32 @@
         "ko": "스포카 한 산스 Neo",
         "en": "Spoqa Han Sans Neo"
       },
+      "description": {
+        "ko": "고딕 · 한글 전체",
+        "en": "Sans serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2015-10-09 Spoqa (spoqa.com), with Reserved Font Name Spoqa Han Sans. Copyright (c) 2015-10-09 Spoqa (spoqa.com), with Reserved Font Name Spoqa Han Sans JP. Copyright (c) 2020-11-30 Spoqa (spoqa.com), with Reserved Font Name Spoqa Han Sans Neo."
+      },
+      "credit": {
+        "name": "Spoqa",
+        "url": "https://github.com/spoqa/spoqa-han-sans"
+      },
+      "files": [
+        {
+          "path": "SpoqaHanSansNeo-Regular.ttf",
+          "bytes": 13452464
+        },
+        {
+          "path": "SpoqaHanSansNeo-Bold.ttf",
+          "bytes": 13307932
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4562
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -2245,6 +4281,36 @@
         "ko": "페이퍼로지",
         "en": "Paperlogy"
       },
+      "description": {
+        "ko": "고딕 · 한글 전체",
+        "en": "Sans serif · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright 2024 The PAPERLOGY Authors (https://freesentation.blog/paperlogy)"
+      },
+      "credit": {
+        "name": "The PAPERLOGY Authors",
+        "url": "https://github.com/Freesentation/paperlogy"
+      },
+      "files": [
+        {
+          "path": "Paperlogy-4Regular.ttf",
+          "bytes": 1312616
+        },
+        {
+          "path": "Paperlogy-7Bold.ttf",
+          "bytes": 1307936
+        },
+        {
+          "path": "Paperlogy-9Black.ttf",
+          "bytes": 1305192
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4380
+        }
+      ],
       "tags": [
         "gothic",
         "hangul-full"
@@ -2272,6 +4338,32 @@
         "ko": "D2Coding",
         "en": "D2Coding"
       },
+      "description": {
+        "ko": "고정폭 · 한글 전체",
+        "en": "Monospace · full Hangul"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2015, NAVER Corporation (https://www.navercorp.com), with Reserved Font Name D2Coding."
+      },
+      "credit": {
+        "name": "NAVER Corporation",
+        "url": "https://github.com/naver/d2-coding-font"
+      },
+      "files": [
+        {
+          "path": "D2Coding-Ver1.4.0-20261003.ttf",
+          "bytes": 4119796
+        },
+        {
+          "path": "D2CodingBold-Ver1.4.0-20261003.ttf",
+          "bytes": 4343276
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4511
+        }
+      ],
       "tags": [
         "mono",
         "hangul-full"
@@ -2299,6 +4391,42 @@
         "ko": "DSEG",
         "en": "DSEG"
       },
+      "description": {
+        "ko": "7·14세그먼트 숫자·라틴 글꼴",
+        "en": "7- and 14-segment digits and Latin"
+      },
+      "license": {
+        "spdx": "OFL-1.1",
+        "copyright": "Copyright (c) 2017, keshikan (http://www.keshikan.net), with Reserved Font Name \"DSEG\"."
+      },
+      "credit": {
+        "name": "keshikan",
+        "url": "https://github.com/keshikan/DSEG"
+      },
+      "files": [
+        {
+          "path": "DSEG7Classic-Regular.ttf",
+          "bytes": 23272
+        },
+        {
+          "path": "DSEG7Classic-Bold.ttf",
+          "bytes": 23040,
+          "builtin": true
+        },
+        {
+          "path": "DSEG14Classic-Regular.ttf",
+          "bytes": 28416
+        },
+        {
+          "path": "DSEG14Classic-Bold.ttf",
+          "bytes": 28424,
+          "builtin": true
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 4487
+        }
+      ],
       "tags": [
         "led",
         "latin-only"
