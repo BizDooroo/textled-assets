@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "font-gaegu",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "개구쟁이",
+    "en": "Gaegu"
+  },
+  "description": {
+    "ko": "손글씨 · 한글 일부",
+    "en": "Handwriting · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2018 The Gaegu Project Authors",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Gaegu Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gaegu"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "gaegu"
+  },
+  "minAppSchema": 1,
+  "bytes": 9345828,
+  "files": [
+    {
+      "path": "Gaegu-Light.ttf",
+      "bytes": 3213004,
+      "sha256": "da44ad6e5823819599ec42e1a516f23002cc0e72f968f93bd49e793360cd77ca",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gaegu/Gaegu-Light.ttf"
+    },
+    {
+      "path": "Gaegu-Regular.ttf",
+      "bytes": 3165816,
+      "sha256": "aa52c98336f7c62e2896fc8b12b56a75d5b476d88a2f104b0980f4f7ce0adfc3",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gaegu/Gaegu-Regular.ttf"
+    },
+    {
+      "path": "Gaegu-Bold.ttf",
+      "bytes": 2962664,
+      "sha256": "cc38a4af9506a45254d1ce07c589ec473d9e5f0be319e5a77b17c214903f8c1c",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gaegu/Gaegu-Bold.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4344,
+      "sha256": "53a9ce47085d9fef613c7ecb3730dc80d25962510bbea231b89564f58240f251"
+    }
+  ],
+  "font": {
+    "familyId": "gaegu",
+    "faces": [
+      {
+        "file": "Gaegu-Light.ttf",
+        "family": "Gaegu",
+        "weight": 300,
+        "style": "normal"
+      },
+      {
+        "file": "Gaegu-Regular.ttf",
+        "family": "Gaegu",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "Gaegu-Bold.ttf",
+        "family": "Gaegu",
+        "weight": 700,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2350,
+    "hangulCompatJamo": 51,
+    "category": "handwriting",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

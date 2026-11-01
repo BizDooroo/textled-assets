@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-pacifico",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Pacifico",
+    "en": "Pacifico"
+  },
+  "description": {
+    "ko": "손글씨 · 라틴 전용",
+    "en": "Handwriting · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2018 The Pacifico Project Authors (https://github.com/googlefonts/Pacifico)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Pacifico Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/pacifico"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "pacifico"
+  },
+  "minAppSchema": 1,
+  "bytes": 333769,
+  "files": [
+    {
+      "path": "Pacifico-Regular.ttf",
+      "bytes": 329380,
+      "sha256": "5b6c0d5334a7bf77dea52b975c5a0c408878c0f7115ed5b6fb151f634b7bf701",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/pacifico/Pacifico-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4389,
+      "sha256": "a47e5daeda73568969395c656823102678f2eefb0d7d7ecb47aac4cc17e42204"
+    }
+  ],
+  "font": {
+    "familyId": "pacifico",
+    "faces": [
+      {
+        "file": "Pacifico-Regular.ttf",
+        "family": "Pacifico",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "handwriting",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

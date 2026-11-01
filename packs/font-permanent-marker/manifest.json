@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-permanent-marker",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Permanent Marker",
+    "en": "Permanent Marker"
+  },
+  "description": {
+    "ko": "손글씨 · 라틴 전용",
+    "en": "Handwriting · Latin only"
+  },
+  "license": {
+    "spdx": "Apache-2.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2010 by Font Diner, Inc. All rights reserved.",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "Font Diner, Inc",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/apache/permanentmarker"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "permanent-marker"
+  },
+  "minAppSchema": 1,
+  "bytes": 85990,
+  "files": [
+    {
+      "path": "PermanentMarker-Regular.ttf",
+      "bytes": 74632,
+      "sha256": "28f82c8a7943cb8e9d599f8554da1d4fc75dbcf69b9885ad6c0611d20c6946c5",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/apache/permanentmarker/PermanentMarker-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    }
+  ],
+  "font": {
+    "familyId": "permanent-marker",
+    "faces": [
+      {
+        "file": "PermanentMarker-Regular.ttf",
+        "family": "Permanent Marker",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "handwriting",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}
