@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "generated": "2026-11-01T13:46:10Z",
+  "generated": "2026-11-01T16:35:40Z",
   "repo": "BizDooroo/textled-assets",
-  "tag": "catalog-v2026.11.01-2",
+  "tag": "catalog-v2026.11.02-1",
   "packs": [
     {
       "id": "font-asta-sans",
@@ -4441,6 +4441,927 @@
         "nativeRows": null
       },
       "builtin": "partial"
+    },
+    {
+      "id": "phrases-cheer",
+      "type": "phrases",
+      "version": "2026.11.02-1",
+      "tag": "phrases-v2026.11.02-1",
+      "path": "packs/phrases-cheer",
+      "manifestSha256": "8ab489b93b01361add41800b395b73c956f417f506f8f6de4185ed7c0d88de63",
+      "bytes": 22643,
+      "downloadBytes": 22643,
+      "title": {
+        "ko": "응원 문구",
+        "en": "Cheer phrases"
+      },
+      "description": {
+        "ko": "공연장에서 멀리서도 읽히는 짧은 응원",
+        "en": "Short cheers that read from far away at a show"
+      },
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "copyright": "Copyright (c) 2026 BizDooroo"
+      },
+      "credit": {
+        "name": "BizDooroo",
+        "url": "https://github.com/BizDooroo/textled-assets"
+      },
+      "files": [
+        {
+          "path": "phrases.json",
+          "bytes": 3281
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 19362
+        }
+      ],
+      "tags": [
+        "cheer",
+        "concert"
+      ],
+      "minAppSchema": 1,
+      "phrases": {
+        "groups": [
+          {
+            "ko": "짧게",
+            "en": "Short"
+          },
+          {
+            "ko": "이름 넣기",
+            "en": "With a name"
+          },
+          {
+            "ko": "마음 전하기",
+            "en": "From the heart"
+          }
+        ],
+        "items": 30,
+        "preview": [
+          {
+            "ko": "사랑해요",
+            "en": "Love you"
+          },
+          {
+            "ko": "최고예요",
+            "en": "Amazing"
+          },
+          {
+            "ko": "멋져요!",
+            "en": "So cool!"
+          }
+        ]
+      }
+    },
+    {
+      "id": "phrases-airport",
+      "type": "phrases",
+      "version": "2026.11.02-1",
+      "tag": "phrases-v2026.11.02-1",
+      "path": "packs/phrases-airport",
+      "manifestSha256": "2bef88a0c65c5a5b19c37d4dd1a9e76811e28eca4c9e4644b1e99a645462c318",
+      "bytes": 21669,
+      "downloadBytes": 21669,
+      "title": {
+        "ko": "공항 문구",
+        "en": "Airport phrases"
+      },
+      "description": {
+        "ko": "입국장 마중과 배웅에 쓰는 큰 글씨 문구",
+        "en": "Big-letter signs for arrivals and goodbyes"
+      },
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "copyright": "Copyright (c) 2026 BizDooroo"
+      },
+      "credit": {
+        "name": "BizDooroo",
+        "url": "https://github.com/BizDooroo/textled-assets"
+      },
+      "files": [
+        {
+          "path": "phrases.json",
+          "bytes": 2307
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 19362
+        }
+      ],
+      "tags": [
+        "airport",
+        "pickup"
+      ],
+      "minAppSchema": 1,
+      "phrases": {
+        "groups": [
+          {
+            "ko": "마중",
+            "en": "Pickup"
+          },
+          {
+            "ko": "배웅",
+            "en": "Goodbye"
+          }
+        ],
+        "items": 21,
+        "preview": [
+          {
+            "ko": "어서 와요, 보고 싶었어요",
+            "en": "Welcome back, I missed you"
+          },
+          {
+            "ko": "무사히 도착해서 다행이에요",
+            "en": "So glad you landed safely"
+          },
+          {
+            "ko": "집에 온 걸 환영해",
+            "en": "Welcome home"
+          }
+        ]
+      }
+    },
+    {
+      "id": "phrases-birthday",
+      "type": "phrases",
+      "version": "2026.11.02-1",
+      "tag": "phrases-v2026.11.02-1",
+      "path": "packs/phrases-birthday",
+      "manifestSha256": "a06095af0a5229286669c84b1367a1e8bef9ca32e06f6448a72c0bf092be0b28",
+      "bytes": 22159,
+      "downloadBytes": 22159,
+      "title": {
+        "ko": "생일·기념일 문구",
+        "en": "Birthday and celebration phrases"
+      },
+      "description": {
+        "ko": "생일, 기념일, 축하 자리에 쓰는 문구",
+        "en": "Phrases for birthdays, anniversaries, and parties"
+      },
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "copyright": "Copyright (c) 2026 BizDooroo"
+      },
+      "credit": {
+        "name": "BizDooroo",
+        "url": "https://github.com/BizDooroo/textled-assets"
+      },
+      "files": [
+        {
+          "path": "phrases.json",
+          "bytes": 2797
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 19362
+        }
+      ],
+      "tags": [
+        "birthday",
+        "party"
+      ],
+      "minAppSchema": 1,
+      "phrases": {
+        "groups": [
+          {
+            "ko": "생일",
+            "en": "Birthday"
+          },
+          {
+            "ko": "기념일",
+            "en": "Anniversary"
+          },
+          {
+            "ko": "축하",
+            "en": "Congrats"
+          }
+        ],
+        "items": 24,
+        "preview": [
+          {
+            "ko": "태어나 줘서 고마워",
+            "en": "So glad you were born"
+          },
+          {
+            "ko": "오늘의 주인공",
+            "en": "Star of the day"
+          },
+          {
+            "ko": "행복한 하루 보내",
+            "en": "Have the happiest day"
+          }
+        ]
+      }
+    },
+    {
+      "id": "phrases-sports",
+      "type": "phrases",
+      "version": "2026.11.02-1",
+      "tag": "phrases-v2026.11.02-1",
+      "path": "packs/phrases-sports",
+      "manifestSha256": "4ba99ab5468757980665abfde88294943d0521f6a44044056509e10c7d4d7e86",
+      "bytes": 22103,
+      "downloadBytes": 22103,
+      "title": {
+        "ko": "스포츠 문구",
+        "en": "Sports phrases"
+      },
+      "description": {
+        "ko": "경기장에서 선수와 팀을 응원하는 문구",
+        "en": "Cheers for players and teams at the stadium"
+      },
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "copyright": "Copyright (c) 2026 BizDooroo"
+      },
+      "credit": {
+        "name": "BizDooroo",
+        "url": "https://github.com/BizDooroo/textled-assets"
+      },
+      "files": [
+        {
+          "path": "phrases.json",
+          "bytes": 2741
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 19362
+        }
+      ],
+      "tags": [
+        "sports",
+        "stadium"
+      ],
+      "minAppSchema": 1,
+      "phrases": {
+        "groups": [
+          {
+            "ko": "응원",
+            "en": "Cheer"
+          },
+          {
+            "ko": "선수에게",
+            "en": "To a player"
+          },
+          {
+            "ko": "경기 후",
+            "en": "After the game"
+          }
+        ],
+        "items": 26,
+        "preview": [
+          {
+            "ko": "파이팅!",
+            "en": "Let's go!"
+          },
+          {
+            "ko": "이기자!",
+            "en": "Let's win!"
+          },
+          {
+            "ko": "끝까지 힘내자",
+            "en": "Keep going to the end"
+          }
+        ]
+      }
+    },
+    {
+      "id": "phrases-shop",
+      "type": "phrases",
+      "version": "2026.11.02-1",
+      "tag": "phrases-v2026.11.02-1",
+      "path": "packs/phrases-shop",
+      "manifestSha256": "78ac6f13a6368f1574a614e09ba1023242073139ae5a151eeec46674a9f40faa",
+      "bytes": 22138,
+      "downloadBytes": 22138,
+      "title": {
+        "ko": "가게 안내 문구",
+        "en": "Shop sign phrases"
+      },
+      "description": {
+        "ko": "창가나 계산대에 띄우는 영업·안내 문구",
+        "en": "Hours and notices for a window or a counter"
+      },
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "copyright": "Copyright (c) 2026 BizDooroo"
+      },
+      "credit": {
+        "name": "BizDooroo",
+        "url": "https://github.com/BizDooroo/textled-assets"
+      },
+      "files": [
+        {
+          "path": "phrases.json",
+          "bytes": 2776
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 19362
+        }
+      ],
+      "tags": [
+        "shop",
+        "notice"
+      ],
+      "minAppSchema": 1,
+      "phrases": {
+        "groups": [
+          {
+            "ko": "영업",
+            "en": "Open and closed"
+          },
+          {
+            "ko": "안내",
+            "en": "Notices"
+          }
+        ],
+        "items": 27,
+        "preview": [
+          {
+            "ko": "영업 중",
+            "en": "Open"
+          },
+          {
+            "ko": "어서 오세요",
+            "en": "Welcome in"
+          },
+          {
+            "ko": "잠시 자리를 비웠습니다",
+            "en": "Back in a moment"
+          }
+        ]
+      }
+    },
+    {
+      "id": "phrases-thanks",
+      "type": "phrases",
+      "version": "2026.11.02-1",
+      "tag": "phrases-v2026.11.02-1",
+      "path": "packs/phrases-thanks",
+      "manifestSha256": "1a9a121c299d031230392c246501b8b8c028b2693f4f9b42181a0d68c78c31be",
+      "bytes": 21556,
+      "downloadBytes": 21556,
+      "title": {
+        "ko": "감사 문구",
+        "en": "Thank-you phrases"
+      },
+      "description": {
+        "ko": "고마움과 인사를 전하는 문구",
+        "en": "Phrases to say thanks and goodbye"
+      },
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "copyright": "Copyright (c) 2026 BizDooroo"
+      },
+      "credit": {
+        "name": "BizDooroo",
+        "url": "https://github.com/BizDooroo/textled-assets"
+      },
+      "files": [
+        {
+          "path": "phrases.json",
+          "bytes": 2194
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 19362
+        }
+      ],
+      "tags": [
+        "thanks",
+        "greeting"
+      ],
+      "minAppSchema": 1,
+      "phrases": {
+        "groups": [
+          {
+            "ko": "감사",
+            "en": "Thanks"
+          },
+          {
+            "ko": "인사",
+            "en": "Greetings"
+          }
+        ],
+        "items": 20,
+        "preview": [
+          {
+            "ko": "감사합니다",
+            "en": "Thank you"
+          },
+          {
+            "ko": "감사합니다 또 오세요",
+            "en": "Thanks, see you again soon"
+          },
+          {
+            "ko": "정말 고마워요",
+            "en": "Thank you so much"
+          }
+        ]
+      }
+    },
+    {
+      "id": "bg-night-sky",
+      "type": "background",
+      "version": "2026.11.02-1",
+      "tag": "backgrounds-v2026.11.02-1",
+      "path": "packs/bg-night-sky",
+      "manifestSha256": "7016c30502d6e479762f351387014c532c64b6540156156593583e2cca5f817d",
+      "bytes": 225629,
+      "downloadBytes": 225629,
+      "title": {
+        "ko": "밤하늘",
+        "en": "Night sky"
+      },
+      "description": {
+        "ko": "별과 오로라가 있는 어두운 밤하늘 배경",
+        "en": "Dark night skies with stars and auroras"
+      },
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "copyright": "Copyright (c) 2026 BizDooroo"
+      },
+      "credit": {
+        "name": "BizDooroo",
+        "url": "https://github.com/BizDooroo/textled-assets"
+      },
+      "files": [
+        {
+          "path": "images.json",
+          "bytes": 351
+        },
+        {
+          "path": "stars.webp",
+          "bytes": 44848
+        },
+        {
+          "path": "galaxy.webp",
+          "bytes": 91598
+        },
+        {
+          "path": "aurora.webp",
+          "bytes": 23694
+        },
+        {
+          "path": "moon-clouds.webp",
+          "bytes": 45776
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 19362
+        }
+      ],
+      "tags": [
+        "night",
+        "calm"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/bg-night-sky.webp",
+      "background": {
+        "images": [
+          {
+            "id": "stars",
+            "w": 1536,
+            "h": 1024
+          },
+          {
+            "id": "galaxy",
+            "w": 1536,
+            "h": 1024
+          },
+          {
+            "id": "aurora",
+            "w": 1536,
+            "h": 1024
+          },
+          {
+            "id": "moon-clouds",
+            "w": 1536,
+            "h": 1024
+          }
+        ]
+      }
+    },
+    {
+      "id": "bg-party",
+      "type": "background",
+      "version": "2026.11.02-1",
+      "tag": "backgrounds-v2026.11.02-1",
+      "path": "packs/bg-party",
+      "manifestSha256": "c54ae61e9a1e4b29545b51009212a5b358ac80dcfc39cb8c16bb87422a18c957",
+      "bytes": 192695,
+      "downloadBytes": 192695,
+      "title": {
+        "ko": "축하 파티",
+        "en": "Party"
+      },
+      "description": {
+        "ko": "생일과 축하 자리에 어울리는 반짝이는 배경",
+        "en": "Sparkling backdrops for birthdays and celebrations"
+      },
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "copyright": "Copyright (c) 2026 BizDooroo"
+      },
+      "credit": {
+        "name": "BizDooroo",
+        "url": "https://github.com/BizDooroo/textled-assets"
+      },
+      "files": [
+        {
+          "path": "images.json",
+          "bytes": 377
+        },
+        {
+          "path": "confetti.webp",
+          "bytes": 21474
+        },
+        {
+          "path": "gold-sparkle.webp",
+          "bytes": 103484
+        },
+        {
+          "path": "pastel-bokeh.webp",
+          "bytes": 20330
+        },
+        {
+          "path": "streamers.webp",
+          "bytes": 27668
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 19362
+        }
+      ],
+      "tags": [
+        "birthday",
+        "party"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/bg-party.webp",
+      "background": {
+        "images": [
+          {
+            "id": "confetti",
+            "w": 1536,
+            "h": 1024
+          },
+          {
+            "id": "gold-sparkle",
+            "w": 1536,
+            "h": 1024
+          },
+          {
+            "id": "pastel-bokeh",
+            "w": 1536,
+            "h": 1024
+          },
+          {
+            "id": "streamers",
+            "w": 1536,
+            "h": 1024
+          }
+        ]
+      }
+    },
+    {
+      "id": "bg-city-lights",
+      "type": "background",
+      "version": "2026.11.02-1",
+      "tag": "backgrounds-v2026.11.02-1",
+      "path": "packs/bg-city-lights",
+      "manifestSha256": "7e9f355563dc2f3dcca8fe5986c147a1767ba821296ae5ee947decc2196f07d7",
+      "bytes": 268657,
+      "downloadBytes": 268657,
+      "title": {
+        "ko": "도시 불빛",
+        "en": "City lights"
+      },
+      "description": {
+        "ko": "흐릿한 밤 도시 불빛 배경",
+        "en": "Blurred city lights at night"
+      },
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "copyright": "Copyright (c) 2026 BizDooroo"
+      },
+      "credit": {
+        "name": "BizDooroo",
+        "url": "https://github.com/BizDooroo/textled-assets"
+      },
+      "files": [
+        {
+          "path": "images.json",
+          "bytes": 377
+        },
+        {
+          "path": "warm-bokeh.webp",
+          "bytes": 19632
+        },
+        {
+          "path": "rain-bokeh.webp",
+          "bytes": 163056
+        },
+        {
+          "path": "neon-haze.webp",
+          "bytes": 22488
+        },
+        {
+          "path": "light-trails.webp",
+          "bytes": 43742
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 19362
+        }
+      ],
+      "tags": [
+        "night",
+        "city"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/bg-city-lights.webp",
+      "background": {
+        "images": [
+          {
+            "id": "warm-bokeh",
+            "w": 1536,
+            "h": 1024
+          },
+          {
+            "id": "rain-bokeh",
+            "w": 1536,
+            "h": 1024
+          },
+          {
+            "id": "neon-haze",
+            "w": 1536,
+            "h": 1024
+          },
+          {
+            "id": "light-trails",
+            "w": 1536,
+            "h": 1024
+          }
+        ]
+      }
+    },
+    {
+      "id": "bg-gradient",
+      "type": "background",
+      "version": "2026.11.02-1",
+      "tag": "backgrounds-v2026.11.02-1",
+      "path": "packs/bg-gradient",
+      "manifestSha256": "a95b56b0371da6442d5f6388abf6d3c2e7bd533fc43c1b23e6cc236f783406e1",
+      "bytes": 63397,
+      "downloadBytes": 63397,
+      "title": {
+        "ko": "부드러운 그라데이션",
+        "en": "Soft gradients"
+      },
+      "description": {
+        "ko": "어떤 글자색과도 어울리는 차분한 그라데이션",
+        "en": "Calm gradients that suit any text color"
+      },
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "copyright": "Copyright (c) 2026 BizDooroo"
+      },
+      "credit": {
+        "name": "BizDooroo",
+        "url": "https://github.com/BizDooroo/textled-assets"
+      },
+      "files": [
+        {
+          "path": "images.json",
+          "bytes": 345
+        },
+        {
+          "path": "sunset.webp",
+          "bytes": 10184
+        },
+        {
+          "path": "ocean.webp",
+          "bytes": 15514
+        },
+        {
+          "path": "forest.webp",
+          "bytes": 8684
+        },
+        {
+          "path": "lavender.webp",
+          "bytes": 9308
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 19362
+        }
+      ],
+      "tags": [
+        "calm",
+        "abstract"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/bg-gradient.webp",
+      "background": {
+        "images": [
+          {
+            "id": "sunset",
+            "w": 1536,
+            "h": 1024
+          },
+          {
+            "id": "ocean",
+            "w": 1536,
+            "h": 1024
+          },
+          {
+            "id": "forest",
+            "w": 1536,
+            "h": 1024
+          },
+          {
+            "id": "lavender",
+            "w": 1536,
+            "h": 1024
+          }
+        ]
+      }
+    },
+    {
+      "id": "look-scenes",
+      "type": "look",
+      "version": "2026.11.02-1",
+      "tag": "looks-v2026.11.02-1",
+      "path": "packs/look-scenes",
+      "manifestSha256": "cabab2b2f897ea9019c280be0e5783cbbd470dda4db1f187f3f6b028cb1bfd6b",
+      "bytes": 24949,
+      "downloadBytes": 24949,
+      "title": {
+        "ko": "장면별 스타일",
+        "en": "Scene styles"
+      },
+      "description": {
+        "ko": "응원, 공항, 생일, 가게, 큰 글씨 등 장면에 맞춘 스타일",
+        "en": "Styles for cheering, airports, birthdays, shops, large print, and more"
+      },
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "copyright": "Copyright (c) 2026 BizDooroo"
+      },
+      "credit": {
+        "name": "BizDooroo",
+        "url": "https://github.com/BizDooroo/textled-assets"
+      },
+      "files": [
+        {
+          "path": "looks.json",
+          "bytes": 5587
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 19362
+        }
+      ],
+      "tags": [
+        "cheer",
+        "airport",
+        "birthday",
+        "shop",
+        "sports",
+        "reading"
+      ],
+      "minAppSchema": 1,
+      "look": {
+        "titles": [
+          {
+            "ko": "콘서트 응원",
+            "en": "Concert cheer"
+          },
+          {
+            "ko": "팬미팅",
+            "en": "Fan meeting"
+          },
+          {
+            "ko": "공항 마중",
+            "en": "Airport sign"
+          },
+          {
+            "ko": "경기장 응원",
+            "en": "Stadium cheer"
+          },
+          {
+            "ko": "생일 파티",
+            "en": "Birthday party"
+          },
+          {
+            "ko": "가게 영업 중",
+            "en": "Shop is open"
+          },
+          {
+            "ko": "행진",
+            "en": "Marching"
+          },
+          {
+            "ko": "큰 글씨",
+            "en": "Large print"
+          },
+          {
+            "ko": "밤길 안전",
+            "en": "Night safety"
+          },
+          {
+            "ko": "네온 사인",
+            "en": "Neon sign"
+          }
+        ],
+        "refs": [
+          "font-gamja-flower",
+          "font-neodunggeunmo",
+          "font-pretendard"
+        ]
+      }
+    },
+    {
+      "id": "look-backdrops",
+      "type": "look",
+      "version": "2026.11.02-1",
+      "tag": "looks-v2026.11.02-1",
+      "path": "packs/look-backdrops",
+      "manifestSha256": "e4341465db14216c4b86153991d32fb1dd448c694807e17e059fe85d29cac882",
+      "bytes": 22927,
+      "downloadBytes": 22927,
+      "title": {
+        "ko": "배경 사진 스타일",
+        "en": "Backdrop styles"
+      },
+      "description": {
+        "ko": "배경 팩의 이미지를 쓰는 스타일 (배경 팩도 함께 받아야 해요)",
+        "en": "Styles that use background pack images (get those packs too)"
+      },
+      "license": {
+        "spdx": "CC-BY-4.0",
+        "copyright": "Copyright (c) 2026 BizDooroo"
+      },
+      "credit": {
+        "name": "BizDooroo",
+        "url": "https://github.com/BizDooroo/textled-assets"
+      },
+      "files": [
+        {
+          "path": "looks.json",
+          "bytes": 3565
+        },
+        {
+          "path": "LICENSE.txt",
+          "bytes": 19362
+        }
+      ],
+      "tags": [
+        "backdrop",
+        "party",
+        "night"
+      ],
+      "minAppSchema": 1,
+      "look": {
+        "titles": [
+          {
+            "ko": "별빛 응원",
+            "en": "Starlight cheer"
+          },
+          {
+            "ko": "오로라",
+            "en": "Aurora"
+          },
+          {
+            "ko": "반짝이는 생일",
+            "en": "Sparkling birthday"
+          },
+          {
+            "ko": "파스텔 파티",
+            "en": "Pastel party"
+          },
+          {
+            "ko": "도시의 밤",
+            "en": "City night"
+          },
+          {
+            "ko": "노을",
+            "en": "Sunset"
+          }
+        ],
+        "refs": [
+          "bg-city-lights",
+          "bg-gradient",
+          "bg-night-sky",
+          "bg-party",
+          "font-gamja-flower",
+          "font-neodunggeunmo",
+          "font-pretendard"
+        ]
+      }
     }
   ]
 }
