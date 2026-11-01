@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-gasoek-one",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "가석",
+    "en": "Gasoek One"
+  },
+  "description": {
+    "ko": "고딕 · 한글 일부",
+    "en": "Sans serif · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2022 The Gasoek Project Authors (https://github.com/JAMO-TYPEFACE/Gasoek)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Gasoek Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gasoekone"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "gasoek-one"
+  },
+  "minAppSchema": 1,
+  "bytes": 1065852,
+  "files": [
+    {
+      "path": "GasoekOne-Regular.ttf",
+      "bytes": 1061372,
+      "sha256": "73a6b8e0d12a56f0a070f19b44a93ae050f98eb926da5d2a7c8d6db92bd8d9c3",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gasoekone/GasoekOne-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4480,
+      "sha256": "a13e353470a9abc44e015067bc353fd3ebc3ea010dea68a00d56f961ebe8f7a9"
+    }
+  ],
+  "font": {
+    "familyId": "gasoek-one",
+    "faces": [
+      {
+        "file": "GasoekOne-Regular.ttf",
+        "family": "Gasoek One",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2780,
+    "hangulCompatJamo": 51,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

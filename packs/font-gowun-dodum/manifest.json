@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-gowun-dodum",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "고운돋움",
+    "en": "Gowun Dodum"
+  },
+  "description": {
+    "ko": "고딕 · 한글 전체",
+    "en": "Sans serif · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2021 The Gowun Dodum Project Authors (https://github.com/yangheeryu/Gowun-Dodum)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Gowun Dodum Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gowundodum"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "gowun-dodum"
+  },
+  "minAppSchema": 1,
+  "bytes": 7233483,
+  "files": [
+    {
+      "path": "GowunDodum-Regular.ttf",
+      "bytes": 7229088,
+      "sha256": "a6e457933227483a11758fd0947bc74422a106d46f0bf057fdaa5af94a30067d",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gowundodum/GowunDodum-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4395,
+      "sha256": "a7c73f9521cd646bbdfb6684c99a62311bbd7bce11898dc11ef0b3c69eda1aca"
+    }
+  ],
+  "font": {
+    "familyId": "gowun-dodum",
+    "faces": [
+      {
+        "file": "GowunDodum-Regular.ttf",
+        "family": "Gowun Dodum",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 94,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

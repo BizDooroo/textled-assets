@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-do-hyeon",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "도현",
+    "en": "Do Hyeon"
+  },
+  "description": {
+    "ko": "고딕 · 한글 일부",
+    "en": "Sans serif · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2018 The Do Hyeon Project Authors",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Do Hyeon Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dohyeon"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "do-hyeon"
+  },
+  "minAppSchema": 1,
+  "bytes": 884111,
+  "files": [
+    {
+      "path": "DoHyeon-Regular.ttf",
+      "bytes": 879764,
+      "sha256": "35644be7f28e0a68a447b1f7af351dcde5674b870f24f7b5f43e26d00b4ab653",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dohyeon/DoHyeon-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4347,
+      "sha256": "de5ff32211a4340b01477af39ee339d639438955e409f79b666d4b9207f3c92c"
+    }
+  ],
+  "font": {
+    "familyId": "do-hyeon",
+    "faces": [
+      {
+        "file": "DoHyeon-Regular.ttf",
+        "family": "Do Hyeon",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2437,
+    "hangulCompatJamo": 93,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

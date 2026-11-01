@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-orbit",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Orbit",
+    "en": "Orbit"
+  },
+  "description": {
+    "ko": "고딕 · 한글 일부",
+    "en": "Sans serif · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2022 The Orbit Project Authors (https://github.com/JAMO-TYPEFACE/Orbit)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Orbit Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/orbit"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "orbit"
+  },
+  "minAppSchema": 1,
+  "bytes": 788958,
+  "files": [
+    {
+      "path": "Orbit-Regular.ttf",
+      "bytes": 784480,
+      "sha256": "5d0206fb0a9e3eeac51aff8d4a6dbb7613d63fc435f1a51f96dc35cefb5f9f87",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/orbit/Orbit-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4478,
+      "sha256": "00f1783a4e7a52d945c0c4de689571b2db896493362651db2706b40c6fc1c330"
+    }
+  ],
+  "font": {
+    "familyId": "orbit",
+    "faces": [
+      {
+        "file": "Orbit-Regular.ttf",
+        "family": "Orbit",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2780,
+    "hangulCompatJamo": 51,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

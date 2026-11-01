@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "id": "font-spoqa-han-sans-neo",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "스포카 한 산스 Neo",
+    "en": "Spoqa Han Sans Neo"
+  },
+  "description": {
+    "ko": "고딕 · 한글 전체",
+    "en": "Sans serif · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2015-10-09 Spoqa (spoqa.com), with Reserved Font Name Spoqa Han Sans. Copyright (c) 2015-10-09 Spoqa (spoqa.com), with Reserved Font Name Spoqa Han Sans JP. Copyright (c) 2020-11-30 Spoqa (spoqa.com), with Reserved Font Name Spoqa Han Sans Neo.",
+    "reservedFontNames": [
+      "Spoqa Han Sans",
+      "Spoqa Han Sans JP",
+      "Spoqa Han Sans Neo"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "Spoqa",
+    "url": "https://github.com/spoqa/spoqa-han-sans"
+  },
+  "source": {
+    "origin": "spoqa/spoqa-han-sans v3.3.0",
+    "manifestEntry": "spoqa-han-sans-neo"
+  },
+  "minAppSchema": 1,
+  "bytes": 26764958,
+  "files": [
+    {
+      "path": "SpoqaHanSansNeo-Regular.ttf",
+      "bytes": 13452464,
+      "sha256": "9c53606e813ee2a94e7bd912d52fc8779ae4117977150b202004ba1c6a088818",
+      "upstream": null
+    },
+    {
+      "path": "SpoqaHanSansNeo-Bold.ttf",
+      "bytes": 13307932,
+      "sha256": "00e4785f08877428325e44c0691b46243ed8285490a698d4f4514288e67fdd16",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4562,
+      "sha256": "279753543734e7a1846e3cb3f80d4dcdcc91f49c436411adaba82e3913c61cde"
+    }
+  ],
+  "font": {
+    "familyId": "spoqa-han-sans-neo",
+    "faces": [
+      {
+        "file": "SpoqaHanSansNeo-Regular.ttf",
+        "family": "Spoqa Han Sans Neo",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "SpoqaHanSansNeo-Bold.ttf",
+        "family": "Spoqa Han Sans Neo",
+        "weight": 700,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 94,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}
