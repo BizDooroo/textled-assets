@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-bagel-fat-one",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Bagel Fat One",
+    "en": "Bagel Fat One"
+  },
+  "description": {
+    "ko": "디스플레이 · 한글 일부",
+    "en": "Display · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2022 The Bagel Fat Project Authors (https://github.com/JAMO-TYPEFACE/BagelFat)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Bagel Fat Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/bagelfatone"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "bagel-fat-one"
+  },
+  "minAppSchema": 1,
+  "bytes": 1590469,
+  "files": [
+    {
+      "path": "BagelFatOne-Regular.ttf",
+      "bytes": 1585984,
+      "sha256": "9286944032c5a9b20ad70940105417beae14013e0b4f5fc292425afdc4330245",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/bagelfatone/BagelFatOne-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4485,
+      "sha256": "4f40ab196ccf674056fed8b0e6d4f918eea183a149be8a67bff1239413ebada9"
+    }
+  ],
+  "font": {
+    "familyId": "bagel-fat-one",
+    "faces": [
+      {
+        "file": "BagelFatOne-Regular.ttf",
+        "family": "Bagel Fat One",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2783,
+    "hangulCompatJamo": 51,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

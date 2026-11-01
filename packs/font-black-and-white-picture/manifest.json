@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-black-and-white-picture",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "흑백사진",
+    "en": "Black And White Picture"
+  },
+  "description": {
+    "ko": "디스플레이 · 한글 전체",
+    "en": "Display · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 1992-2018 AsiaSoft Inc. Seoul Korea All Rights Reserved.",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "AsiaSoft Inc. Seoul Korea",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/blackandwhitepicture"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "black-and-white-picture"
+  },
+  "minAppSchema": 1,
+  "bytes": 9610726,
+  "files": [
+    {
+      "path": "BlackAndWhitePicture-Regular.ttf",
+      "bytes": 9606352,
+      "sha256": "4d72cd6de1f210b446c86f06b4e13d7641cbcfb1b375c6927341388aa8e08056",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/blackandwhitepicture/BlackAndWhitePicture-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4374,
+      "sha256": "a9b3e7e1cf5735dc49d802b88b1858a2a50307ba2a877ddf3f0b27d8b1d0abc5"
+    }
+  ],
+  "font": {
+    "familyId": "black-and-white-picture",
+    "faces": [
+      {
+        "file": "BlackAndWhitePicture-Regular.ttf",
+        "family": "Black And White Picture",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 93,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

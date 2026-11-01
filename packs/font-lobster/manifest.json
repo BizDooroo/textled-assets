@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "id": "font-lobster",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Lobster",
+    "en": "Lobster"
+  },
+  "description": {
+    "ko": "디스플레이 · 라틴 전용",
+    "en": "Display · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2010 The Lobster Project Authors (https://github.com/impallari/The-Lobster-Font), with Reserved Font Name \"Lobster\".",
+    "reservedFontNames": [
+      "Lobster"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Lobster Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/lobster"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "lobster"
+  },
+  "minAppSchema": 1,
+  "bytes": 410506,
+  "files": [
+    {
+      "path": "Lobster-Regular.ttf",
+      "bytes": 406076,
+      "sha256": "d6568e697fd50cedc0be04d8aae4127fe95add607e7bff954ca88604be80c205",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/lobster/Lobster-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4430,
+      "sha256": "88aece7d90f2bb7049719f11619a560af22af3451af141f12aa4f46bb157a99b"
+    }
+  ],
+  "font": {
+    "familyId": "lobster",
+    "faces": [
+      {
+        "file": "Lobster-Regular.ttf",
+        "family": "Lobster",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

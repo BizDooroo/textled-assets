@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "id": "font-lilita-one",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Lilita One",
+    "en": "Lilita One"
+  },
+  "description": {
+    "ko": "디스플레이 · 라틴 전용",
+    "en": "Display · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2011 Juan Montoreano (juan@remolacha.biz), with Reserved Font Name Lilita",
+    "reservedFontNames": [
+      "Lilita"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "Juan Montoreano",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/lilitaone"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "lilita-one"
+  },
+  "minAppSchema": 1,
+  "bytes": 32484,
+  "files": [
+    {
+      "path": "LilitaOne-Regular.ttf",
+      "bytes": 28092,
+      "sha256": "f5b641c45c69d772ee4eda687bc9fda411d5cad6b0b45371491da4580cbc8d59",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/lilitaone/LilitaOne-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4392,
+      "sha256": "255d5debbb80eb2ea762644311f266a279e8778f00156655a516e2b7781a63e1"
+    }
+  ],
+  "font": {
+    "familyId": "lilita-one",
+    "faces": [
+      {
+        "file": "LilitaOne-Regular.ttf",
+        "family": "Lilita One",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

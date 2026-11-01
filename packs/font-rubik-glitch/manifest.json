@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-rubik-glitch",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Rubik Glitch",
+    "en": "Rubik Glitch"
+  },
+  "description": {
+    "ko": "디스플레이 · 라틴 전용",
+    "en": "Display · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2020 The Rubik Filtered Project Authors (https://https://github.com/NaN-xyz/Rubik-Filtered)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Rubik Filtered Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/rubikglitch"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "rubik-glitch"
+  },
+  "minAppSchema": 1,
+  "bytes": 411710,
+  "files": [
+    {
+      "path": "RubikGlitch-Regular.ttf",
+      "bytes": 407304,
+      "sha256": "260245012483d56956269100ebece747aa95b4b67e5a9411a81a36e91f55e653",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/rubikglitch/RubikGlitch-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4406,
+      "sha256": "f9e2d4498ea80d38bac7b8841d68af68c132fa67e1552e7c05717e6987de1d74"
+    }
+  ],
+  "font": {
+    "familyId": "rubik-glitch",
+    "faces": [
+      {
+        "file": "RubikGlitch-Regular.ttf",
+        "family": "Rubik Glitch",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-black-ops-one",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Black Ops One",
+    "en": "Black Ops One"
+  },
+  "description": {
+    "ko": "디스플레이 · 라틴 전용",
+    "en": "Display · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2022 The Black-Ops Project Authors (https://github.com/googlefonts/googlefonts-project-template)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Black-Ops Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/blackopsone"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "black-ops-one"
+  },
+  "minAppSchema": 1,
+  "bytes": 170943,
+  "files": [
+    {
+      "path": "BlackOpsOne-Regular.ttf",
+      "bytes": 166532,
+      "sha256": "282a825b5f294377387e3969f765408157dbea8da0f5d0aae68c6bc704b145b3",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/blackopsone/BlackOpsOne-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4411,
+      "sha256": "f67ca4a200424868ee8fcd5464d7b35ac1cbf7723f6bfdbd19a8524689fab9a8"
+    }
+  ],
+  "font": {
+    "familyId": "black-ops-one",
+    "faces": [
+      {
+        "file": "BlackOpsOne-Regular.ttf",
+        "family": "Black Ops One",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-kirang-haerang",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "기랑해랑",
+    "en": "Kirang Haerang"
+  },
+  "description": {
+    "ko": "디스플레이 · 한글 일부",
+    "en": "Display · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2018 The Kirang Haerang Project Authors",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Kirang Haerang Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/kiranghaerang"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "kirang-haerang"
+  },
+  "minAppSchema": 1,
+  "bytes": 5999961,
+  "files": [
+    {
+      "path": "KirangHaerang-Regular.ttf",
+      "bytes": 5995608,
+      "sha256": "d677d28d466989017c520f00a2a7794ea581ea3d9fa9a830fbb44f1015eac72d",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/kiranghaerang/KirangHaerang-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4353,
+      "sha256": "7e896665d0863d2a17a671001dbe2528a5f9302f1dff9222af8b0834e9088d0c"
+    }
+  ],
+  "font": {
+    "familyId": "kirang-haerang",
+    "faces": [
+      {
+        "file": "KirangHaerang-Regular.ttf",
+        "family": "Kirang Haerang",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2479,
+    "hangulCompatJamo": 93,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

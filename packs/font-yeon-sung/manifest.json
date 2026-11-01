@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-yeon-sung",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "연성",
+    "en": "Yeon Sung"
+  },
+  "description": {
+    "ko": "디스플레이 · 한글 일부",
+    "en": "Display · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2018 The BM YEONSUNG Project Authors",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The BM YEONSUNG Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/yeonsung"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "yeon-sung"
+  },
+  "minAppSchema": 1,
+  "bytes": 2515354,
+  "files": [
+    {
+      "path": "YeonSung-Regular.ttf",
+      "bytes": 2511004,
+      "sha256": "49ac2a11009f5f58307d377911eb45d210cf4c1d379d9eca38fb4cdad5491ef6",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/yeonsung/YeonSung-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4350,
+      "sha256": "d7d8074c2dd46804990c184e25849947ab76c5ac7607fbf3966543455769bb73"
+    }
+  ],
+  "font": {
+    "familyId": "yeon-sung",
+    "faces": [
+      {
+        "file": "YeonSung-Regular.ttf",
+        "family": "Yeon Sung",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2436,
+    "hangulCompatJamo": 93,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

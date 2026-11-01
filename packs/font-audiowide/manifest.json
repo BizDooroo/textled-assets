@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "id": "font-audiowide",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Audiowide",
+    "en": "Audiowide"
+  },
+  "description": {
+    "ko": "디스플레이 · 라틴 전용",
+    "en": "Display · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2012, Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Names \"Audiowide\"",
+    "reservedFontNames": [
+      "Audiowide"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "Brian J. Bonislawsky DBA Astigmatic",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/audiowide"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "audiowide"
+  },
+  "minAppSchema": 1,
+  "bytes": 74346,
+  "files": [
+    {
+      "path": "Audiowide-Regular.ttf",
+      "bytes": 69916,
+      "sha256": "c7c0f2b0f6fad8c623e31772ce79f94a4edb9321ffce9fce978ea892d20ae730",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/audiowide/Audiowide-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4430,
+      "sha256": "4fe01b13ffb41faa8f030d84843a95dab32792dfeeca7c072abbfd3f4d6896ad"
+    }
+  ],
+  "font": {
+    "familyId": "audiowide",
+    "faces": [
+      {
+        "file": "Audiowide-Regular.ttf",
+        "family": "Audiowide",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

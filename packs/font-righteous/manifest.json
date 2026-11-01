@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "id": "font-righteous",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Righteous",
+    "en": "Righteous"
+  },
+  "description": {
+    "ko": "디스플레이 · 라틴 전용",
+    "en": "Display · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Names \"Righteous\"",
+    "reservedFontNames": [
+      "Righteous"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "Brian J. Bonislawsky DBA Astigmatic",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/righteous"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "righteous"
+  },
+  "minAppSchema": 1,
+  "bytes": 47536,
+  "files": [
+    {
+      "path": "Righteous-Regular.ttf",
+      "bytes": 43104,
+      "sha256": "2ffb3fe5c27d7e6571210b800448c4e234e651b46c6b4426c1bb567e5341348a",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/righteous/Righteous-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4432,
+      "sha256": "1c5bc055869d5e9151ec7774082727db720ec4293c65be67f91a4bdcaeb02998"
+    }
+  ],
+  "font": {
+    "familyId": "righteous",
+    "faces": [
+      {
+        "file": "Righteous-Regular.ttf",
+        "family": "Righteous",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

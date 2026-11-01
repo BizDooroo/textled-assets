@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-dokdo",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "독도",
+    "en": "Dokdo"
+  },
+  "description": {
+    "ko": "디스플레이 · 한글 일부",
+    "en": "Display · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2005-2017 FONTRIX. All Rights Reserved.",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "FONTRIX",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dokdo"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "dokdo"
+  },
+  "minAppSchema": 1,
+  "bytes": 2155217,
+  "files": [
+    {
+      "path": "Dokdo-Regular.ttf",
+      "bytes": 2150860,
+      "sha256": "5b3a3d8d28af31fa9adec3fc5da81a88b52e1ff39ed3930c1db787aa4e79c36d",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/dokdo/Dokdo-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4357,
+      "sha256": "dcc832bd71ea62cbf97f06327a1b5442905b49ea446801421d71f7d1362db215"
+    }
+  ],
+  "font": {
+    "familyId": "dokdo",
+    "faces": [
+      {
+        "file": "Dokdo-Regular.ttf",
+        "family": "Dokdo",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2350,
+    "hangulCompatJamo": 51,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

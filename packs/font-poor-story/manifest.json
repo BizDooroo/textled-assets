@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-poor-story",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "서툰이야기",
+    "en": "Poor Story"
+  },
+  "description": {
+    "ko": "디스플레이 · 한글 전체",
+    "en": "Display · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved.",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "YoonDesign Inc",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/poorstory"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "poor-story"
+  },
+  "minAppSchema": 1,
+  "bytes": 3971122,
+  "files": [
+    {
+      "path": "PoorStory-Regular.ttf",
+      "bytes": 3966768,
+      "sha256": "831ab87f7b5463f9cd83ac249bf386816f3a478f1d226427c88cac907adb7ee2",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/poorstory/PoorStory-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4354,
+      "sha256": "39de3de5f1873f89bca4af37823ab22e28e88d0d8f7fe2f07e82e9e6e9bf7b70"
+    }
+  ],
+  "font": {
+    "familyId": "poor-story",
+    "faces": [
+      {
+        "file": "PoorStory-Regular.ttf",
+        "family": "Poor Story",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 93,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

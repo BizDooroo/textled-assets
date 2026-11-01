@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "id": "font-oxanium",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Oxanium",
+    "en": "Oxanium"
+  },
+  "description": {
+    "ko": "디스플레이 · 라틴 전용",
+    "en": "Display · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2019 The Oxanium Project Authors (https://github.com/sevmeyer/oxanium)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Oxanium Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/oxanium"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "oxanium"
+  },
+  "minAppSchema": 1,
+  "bytes": 47920,
+  "files": [
+    {
+      "path": "Oxanium[wght].ttf",
+      "bytes": 43536,
+      "sha256": "2ce01d946e1e1ffc8d7eecfffbda8623bedd63eaf811a20488c4b69af45babb0",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/oxanium/Oxanium%5Bwght%5D.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4384,
+      "sha256": "fe17c0f2581d71b4e1ea7e636e7f4877c29223e11bb1dd1a871e8c3f2a86336b"
+    }
+  ],
+  "font": {
+    "familyId": "oxanium",
+    "faces": [
+      {
+        "file": "Oxanium[wght].ttf",
+        "family": "Oxanium",
+        "weight": 200,
+        "style": "normal",
+        "axes": {
+          "wght": [
+            200,
+            800
+          ]
+        }
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

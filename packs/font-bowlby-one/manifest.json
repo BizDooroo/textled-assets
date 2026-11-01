@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "id": "font-bowlby-one",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Bowlby One",
+    "en": "Bowlby One"
+  },
+  "description": {
+    "ko": "디스플레이 · 라틴 전용",
+    "en": "Display · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2011 by vernon adams (vern@newtypography.co.uk), with Reserved Font Names \"Bowlby\" \"Bowlby One\" and \"Bowlby One SC\"",
+    "reservedFontNames": [
+      "Bowlby",
+      "Bowlby One",
+      "Bowlby One SC"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "vernon adams",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/bowlbyone"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "bowlby-one"
+  },
+  "minAppSchema": 1,
+  "bytes": 64289,
+  "files": [
+    {
+      "path": "BowlbyOne-Regular.ttf",
+      "bytes": 59856,
+      "sha256": "c46a806d7b51fd4987e5f0be449fe40a944cb407e43290ce1cdeed029a8cdc1d",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/bowlbyone/BowlbyOne-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4433,
+      "sha256": "f3ee3eb20a9d565bee2bbc0d616de382a113327d7506565b2f3d3bee5f489375"
+    }
+  ],
+  "font": {
+    "familyId": "bowlby-one",
+    "faces": [
+      {
+        "file": "BowlbyOne-Regular.ttf",
+        "family": "Bowlby One",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

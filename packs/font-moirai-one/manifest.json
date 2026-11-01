@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-moirai-one",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Moirai One",
+    "en": "Moirai One"
+  },
+  "description": {
+    "ko": "디스플레이 · 한글 일부",
+    "en": "Display · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2022 The Moirai Project Authors (https://github.com/JAMO-TYPEFACE/Moirai)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Moirai Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/moiraione"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "moirai-one"
+  },
+  "minAppSchema": 1,
+  "bytes": 2106608,
+  "files": [
+    {
+      "path": "MoiraiOne-Regular.ttf",
+      "bytes": 2102128,
+      "sha256": "432f48aa773510211ac50c9d8130e50fe135c4d8c05645828ccde7e652ea8106",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/moiraione/MoiraiOne-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4480,
+      "sha256": "0f2daa61cee069893d44ba24f3bdddbba18ac33b011fd8944e8682dbf347c61d"
+    }
+  ],
+  "font": {
+    "familyId": "moirai-one",
+    "faces": [
+      {
+        "file": "MoiraiOne-Regular.ttf",
+        "family": "Moirai One",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2780,
+    "hangulCompatJamo": 51,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

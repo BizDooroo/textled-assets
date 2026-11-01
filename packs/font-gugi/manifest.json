@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-gugi",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "구기",
+    "en": "Gugi"
+  },
+  "description": {
+    "ko": "디스플레이 · 한글 일부",
+    "en": "Display · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2017 by TAE System & Typefaces Co.. All rights reserved.",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "TAE System & Typefaces Co",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gugi"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "gugi"
+  },
+  "minAppSchema": 1,
+  "bytes": 995230,
+  "files": [
+    {
+      "path": "Gugi-Regular.ttf",
+      "bytes": 990856,
+      "sha256": "c0b1f979979cfc309fb2438fa9464f96173353e0c4842cc7a5919658184ed9d3",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gugi/Gugi-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4374,
+      "sha256": "391ac3126dacc95b92a8f3408467879edb3245344bc411530a30d5aada52df92"
+    }
+  ],
+  "font": {
+    "familyId": "gugi",
+    "faces": [
+      {
+        "file": "Gugi-Regular.ttf",
+        "family": "Gugi",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2350,
+    "hangulCompatJamo": 51,
+    "category": "display",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}
