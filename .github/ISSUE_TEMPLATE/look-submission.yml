@@ -48,7 +48,7 @@ body:
     attributes:
       label: Consent / 동의
       options:
-        - label: I made this look myself and license it under CC BY 4.0 (credit "BizDooroo" and contributors) so it may be published in the official look packs. / 이 스타일은 제가 직접 만들었고, 공식 스타일 팩에 실릴 수 있도록 CC BY 4.0으로 이용을 허락합니다.
+        - label: I made this look myself and license it under CC BY 4.0, credited to my GitHub username, so it may be published in the official look packs. I understand this issue is public. / 이 스타일은 제가 직접 만들었고, 공식 스타일 팩에 실릴 수 있도록 CC BY 4.0으로 이용을 허락합니다(출처 표시는 제 GitHub 사용자 이름). 이 이슈가 공개된다는 것을 알고 있습니다.
           required: true
         - label: It contains no group, fandom, brand, or real person's name, no song lyrics, and nothing copied from another app. / 그룹·팬덤·브랜드·실존 인물 이름, 노래 가사, 다른 앱에서 베낀 내용이 없습니다.
           required: true

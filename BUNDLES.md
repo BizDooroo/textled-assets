@@ -8,13 +8,13 @@ the app reads them through jsDelivr at the pinned tag (`https://cdn.jsdelivr.net
 | fonts-gothic-a | `fonts-gothic-a-v2026.11.01-2` | 2 | 40.2 |
 | fonts-gothic-b | `fonts-gothic-b-v2026.11.01-1` | 4 | 40.4 |
 | fonts-gothic-c | `fonts-gothic-c-v2026.11.01-1` | 6 | 38.9 |
-| fonts-gothic-d | `fonts-gothic-d-v2026.11.01-1` | 15 | 40.9 |
+| fonts-gothic-d | `fonts-gothic-d-v2026.11.01-2` | 15 | 40.9 |
 | fonts-serif | `fonts-serif-v2026.11.01-1` | 6 | 35.8 |
 | fonts-handwriting-a | `fonts-handwriting-a-v2026.11.01-1` | 4 | 32.0 |
 | fonts-handwriting-b | `fonts-handwriting-b-v2026.11.01-1` | 4 | 13.0 |
 | fonts-display | `fonts-display-v2026.11.01-1` | 21 | 34.0 |
 | fonts-pixel | `fonts-pixel-v2026.11.01-1` | 10 | 32.0 |
-| fonts-mono-led-neon | `fonts-mono-led-neon-v2026.11.01-1` | 11 | 18.4 |
+| fonts-mono-led-neon | `fonts-mono-led-neon-v2026.11.01-2` | 11 | 18.4 |
 | catalog | `catalog-v2026.11.01-1` | index | — |
 
 ## Not published

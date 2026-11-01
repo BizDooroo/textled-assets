@@ -100,6 +100,6 @@ does not mean its authors endorse the app. Font authors who want a font removed 
 
 ## Our content
 
-Phrase, background, and look packs (`packs/phrases-*`, `packs/bg-*`, `packs/look-*`) are © BizDooroo under CC BY 4.0
-(`LICENSE-CONTENT.md`). Looks can be suggested with the look-submission issue form; accepted looks are published under
-CC BY 4.0 with the submitter's consent.
+Phrase, background, and look packs (`packs/phrases-*`, `packs/bg-*`, `packs/look-*`) are © BizDooroo and contributors under
+CC BY 4.0 (`LICENSE-CONTENT.md`). Looks can be suggested with the look-submission issue form; an accepted look stays its
+submitter's work, licensed by them under CC BY 4.0 and credited to them in its pack manifest (`credit`).

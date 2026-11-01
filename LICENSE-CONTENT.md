@@ -1,6 +1,6 @@
 # License of BizDooroo content
 
-The phrase, background, and look packs in this repository (`packs/phrases-*`, `packs/bg-*`, `packs/look-*`) are © BizDooroo and licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0), reproduced below. Credit: "BizDooroo".
+The phrase, background, and look packs in this repository (`packs/phrases-*`, `packs/bg-*`, `packs/look-*`) are © BizDooroo and contributors and licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0), reproduced below. Credit: "BizDooroo" for our own content; a contributed look stays its submitter's work, licensed by them under CC BY 4.0 and credited to them as named in its pack manifest (`credit`).
 
 This license does **not** cover the fonts in `packs/font-*`: each font is a third-party work under its own license (SIL Open Font License 1.1 or Apache License 2.0), whose full text sits next to the font files as `LICENSE.txt`.
 
