@@ -9,8 +9,11 @@ body:
         Share a look you made in the app: open it, choose Share → "Look only", and paste the link or code below.
         앱에서 만든 스타일을 열고 공유 → "스타일만"을 골라 링크나 코드를 아래에 붙여 주세요.
 
-        We review every submission. Looks that name groups, fandoms, brands, real people, or song lyrics, or that copy another app's design, are not accepted.
-        모든 제출은 검토합니다. 그룹·팬덤·브랜드·실존 인물 이름이나 노래 가사가 들어간 스타일, 다른 앱의 디자인을 베낀 스타일은 받지 않아요.
+        We review every submission. Looks that name groups, fandoms, brands, real people, or song lyrics, or that copy another app's design, are not accepted. We may edit or decline any look.
+        모든 제출은 검토합니다. 그룹·팬덤·브랜드·실존 인물 이름이나 노래 가사가 들어간 스타일, 다른 앱의 디자인을 베낀 스타일은 받지 않아요. 스타일은 고치거나 받지 않을 수 있어요.
+
+        **This issue is public:** anyone can see your GitHub username and the link you paste. Only the optional credit name below is published in the look pack.
+        **이 이슈는 공개돼요:** 누구나 GitHub 사용자 이름과 붙인 링크를 볼 수 있어요. 스타일 팩에는 아래의 (선택) 표시 이름만 실려요.
   - type: input
     id: link
     attributes:
@@ -39,6 +42,13 @@ body:
         - Other / 기타
     validations:
       required: true
+  - type: input
+    id: credit
+    attributes:
+      label: Credit name (optional) / 표시 이름 (선택)
+      description: Shown in the pack as the look's author. Leave empty to be listed as "a Bitmal user". Do not use a real name you want to keep private. / 팩에 만든 사람으로 표시돼요. 비워 두면 "빛말 사용자"로 표시돼요. 공개하고 싶지 않은 실명은 쓰지 마세요.
+    validations:
+      required: false
   - type: textarea
     id: notes
     attributes:
@@ -48,7 +58,7 @@ body:
     attributes:
       label: Consent / 동의
       options:
-        - label: I made this look myself and license it under CC BY 4.0, credited to my GitHub username, so it may be published in the official look packs. I understand this issue is public. / 이 스타일은 제가 직접 만들었고, 공식 스타일 팩에 실릴 수 있도록 CC BY 4.0으로 이용을 허락합니다(출처 표시는 제 GitHub 사용자 이름). 이 이슈가 공개된다는 것을 알고 있습니다.
+        - label: I made this look myself and license it under CC BY 4.0, credited with the credit name above (or "a Bitmal user"), so it may be published in the official look packs. I understand this issue is public. / 이 스타일은 제가 직접 만들었고, 공식 스타일 팩에 실릴 수 있도록 CC BY 4.0으로 이용을 허락합니다(출처 표시는 위의 표시 이름, 없으면 "빛말 사용자"). 이 이슈가 공개된다는 것을 알고 있습니다.
           required: true
-        - label: It contains no group, fandom, brand, or real person's name, no song lyrics, and nothing copied from another app. / 그룹·팬덤·브랜드·실존 인물 이름, 노래 가사, 다른 앱에서 베낀 내용이 없습니다.
+        - label: It contains no group, fandom, brand, or real person's name, no official group colors, no song lyrics, no personal data (phone numbers, addresses, names), and nothing copied from another app or artwork. / 그룹·팬덤·브랜드·실존 인물 이름, 공식 그룹 색, 노래 가사, 개인정보(전화번호·주소·이름), 다른 앱이나 그림에서 베낀 내용이 없습니다.
           required: true
