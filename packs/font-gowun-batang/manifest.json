@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "id": "font-gowun-batang",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "고운바탕",
+    "en": "Gowun Batang"
+  },
+  "description": {
+    "ko": "명조 · 한글 전체",
+    "en": "Serif · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2021 The Gowun Batang Project Authors (https://github.com/yangheeryu/Gowun-Batang)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Gowun Batang Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gowunbatang"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "gowun-batang"
+  },
+  "minAppSchema": 1,
+  "bytes": 16616405,
+  "files": [
+    {
+      "path": "GowunBatang-Regular.ttf",
+      "bytes": 8433296,
+      "sha256": "466c593e7147412e748af4856d5ad14709b5a860bdf62b9c2546f2c5874e9849",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gowunbatang/GowunBatang-Regular.ttf"
+    },
+    {
+      "path": "GowunBatang-Bold.ttf",
+      "bytes": 8178712,
+      "sha256": "dbfcaa646e5831e7478524924f02906f550285a5050699b4e38c9950b3ec4b94",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gowunbatang/GowunBatang-Bold.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4397,
+      "sha256": "49a57cc769fa9affd6eefb9070a61e3d3f6b757c97cafb15848bc6d1c81acc78"
+    }
+  ],
+  "font": {
+    "familyId": "gowun-batang",
+    "faces": [
+      {
+        "file": "GowunBatang-Regular.ttf",
+        "family": "Gowun Batang",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "GowunBatang-Bold.ttf",
+        "family": "Gowun Batang",
+        "weight": 700,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 94,
+    "category": "serif",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

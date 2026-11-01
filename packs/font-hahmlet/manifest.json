@@ -1,0 +1,69 @@
+{
+  "schema": 1,
+  "id": "font-hahmlet",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "함렡",
+    "en": "Hahmlet"
+  },
+  "description": {
+    "ko": "명조 · 한글 일부",
+    "en": "Serif · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2020 The Hahmlet Project Authors (https://github.com/hyper-type/hahmlet)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Hahmlet Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/hahmlet"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "hahmlet"
+  },
+  "minAppSchema": 1,
+  "bytes": 3563621,
+  "files": [
+    {
+      "path": "Hahmlet[wght].ttf",
+      "bytes": 3559144,
+      "sha256": "892bffe530255770a7435226154a02f519055ff6bedf64254f37f21d15a59279",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/hahmlet/Hahmlet%5Bwght%5D.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4477,
+      "sha256": "ddadb10d28a303e3ef3b1f7ec55d3027903b9ec566d2f87d3ee03f3c87c91711"
+    }
+  ],
+  "font": {
+    "familyId": "hahmlet",
+    "faces": [
+      {
+        "file": "Hahmlet[wght].ttf",
+        "family": "Hahmlet",
+        "weight": 400,
+        "style": "normal",
+        "axes": {
+          "wght": [
+            100,
+            900
+          ]
+        }
+      }
+    ],
+    "hangulSyllables": 2788,
+    "hangulCompatJamo": 93,
+    "category": "serif",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

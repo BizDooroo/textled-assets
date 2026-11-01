@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-diphylleia",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Diphylleia",
+    "en": "Diphylleia"
+  },
+  "description": {
+    "ko": "명조 · 한글 일부",
+    "en": "Serif · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2022 The Diphylleia Project Authors (https://github.com/JAMO-TYPEFACE/Diphylleia)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Diphylleia Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/diphylleia"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "diphylleia"
+  },
+  "minAppSchema": 1,
+  "bytes": 1952256,
+  "files": [
+    {
+      "path": "Diphylleia-Regular.ttf",
+      "bytes": 1947768,
+      "sha256": "a0f505e19758bbe69da3e1cdd89fac74e69e851aa82195a61c861bcee7a53293",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/diphylleia/Diphylleia-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4488,
+      "sha256": "9279f4143833810493f74b4520c8b8fce2526d9df2da9564ffe897e065e1d461"
+    }
+  ],
+  "font": {
+    "familyId": "diphylleia",
+    "faces": [
+      {
+        "file": "Diphylleia-Regular.ttf",
+        "family": "Diphylleia",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2781,
+    "hangulCompatJamo": 50,
+    "category": "serif",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

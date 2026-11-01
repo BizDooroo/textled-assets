@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-grandiflora-one",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Grandiflora One",
+    "en": "Grandiflora One"
+  },
+  "description": {
+    "ko": "명조 · 한글 일부",
+    "en": "Serif · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2022 The Grandiflora Project Authors (https://github.com/JAMO-TYPEFACE/Grandiflora)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Grandiflora Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/grandifloraone"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "grandiflora-one"
+  },
+  "minAppSchema": 1,
+  "bytes": 2347170,
+  "files": [
+    {
+      "path": "GrandifloraOne-Regular.ttf",
+      "bytes": 2342680,
+      "sha256": "592da2454a6626ee68558e220df28808b95f7dd140cd1ceb8a0d72b777f157ad",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/grandifloraone/GrandifloraOne-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4490,
+      "sha256": "4d0bb797c98a0840faec0952153a4030442f263fcf08b906e38837ea8f401808"
+    }
+  ],
+  "font": {
+    "familyId": "grandiflora-one",
+    "faces": [
+      {
+        "file": "GrandifloraOne-Regular.ttf",
+        "family": "Grandiflora One",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2787,
+    "hangulCompatJamo": 51,
+    "category": "serif",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

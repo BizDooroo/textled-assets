@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-song-myung",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "송명",
+    "en": "Song Myung"
+  },
+  "description": {
+    "ko": "명조 · 한글 일부",
+    "en": "Serif · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2018 The SongMyung Project Authors",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The SongMyung Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/songmyung"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "song-myung"
+  },
+  "minAppSchema": 1,
+  "bytes": 2039648,
+  "files": [
+    {
+      "path": "SongMyung-Regular.ttf",
+      "bytes": 2035300,
+      "sha256": "7f90ab20250911560212cc5819c7b205f9c6644bb96b65095d89fcae096bbf58",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/songmyung/SongMyung-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4348,
+      "sha256": "40bd3f35477284c021978816e9d3b8723ff2283fd7065fafaa5bb3004e41b237"
+    }
+  ],
+  "font": {
+    "familyId": "song-myung",
+    "faces": [
+      {
+        "file": "SongMyung-Regular.ttf",
+        "family": "Song Myung",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2350,
+    "hangulCompatJamo": 93,
+    "category": "serif",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}
