@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-hi-melody",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "하이멜로디",
+    "en": "Hi Melody"
+  },
+  "description": {
+    "ko": "손글씨 · 한글 전체",
+    "en": "Handwriting · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved.",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "YoonDesign Inc",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/himelody"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "hi-melody"
+  },
+  "minAppSchema": 1,
+  "bytes": 12627766,
+  "files": [
+    {
+      "path": "HiMelody-Regular.ttf",
+      "bytes": 12623412,
+      "sha256": "360d2c0a880918aa48328d1d9219f5390788d09a1c9353e12b471de018673ae6",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/himelody/HiMelody-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4354,
+      "sha256": "39de3de5f1873f89bca4af37823ab22e28e88d0d8f7fe2f07e82e9e6e9bf7b70"
+    }
+  ],
+  "font": {
+    "familyId": "hi-melody",
+    "faces": [
+      {
+        "file": "HiMelody-Regular.ttf",
+        "family": "Hi Melody",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 93,
+    "category": "handwriting",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-east-sea-dokdo",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "대한민국독도",
+    "en": "East Sea Dokdo"
+  },
+  "description": {
+    "ko": "손글씨 · 한글 일부",
+    "en": "Handwriting · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) YoonDesign Inc. All Rights Reserved.",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "YoonDesign Inc",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/eastseadokdo"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "east-sea-dokdo"
+  },
+  "minAppSchema": 1,
+  "bytes": 3183038,
+  "files": [
+    {
+      "path": "EastSeaDokdo-Regular.ttf",
+      "bytes": 3178684,
+      "sha256": "8cebb39d375134fdbcedef9bf4ec4f6c3f02c39ed0aacd6e83f7a0f435e593b2",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/eastseadokdo/EastSeaDokdo-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4354,
+      "sha256": "39de3de5f1873f89bca4af37823ab22e28e88d0d8f7fe2f07e82e9e6e9bf7b70"
+    }
+  ],
+  "font": {
+    "familyId": "east-sea-dokdo",
+    "faces": [
+      {
+        "file": "EastSeaDokdo-Regular.ttf",
+        "family": "East Sea Dokdo",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2484,
+    "hangulCompatJamo": 93,
+    "category": "handwriting",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

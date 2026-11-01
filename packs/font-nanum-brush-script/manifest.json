@@ -1,0 +1,74 @@
+{
+  "schema": 1,
+  "id": "font-nanum-brush-script",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "나눔손글씨 붓",
+    "en": "Nanum Brush Script"
+  },
+  "description": {
+    "ko": "손글씨 · 한글 전체",
+    "en": "Handwriting · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2010, NHN Corporation (http://www.nhncorp.com), with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen, Naver NanumPen.",
+    "reservedFontNames": [
+      "Nanum",
+      "NanumBrush",
+      "NanumGothic",
+      "NanumMyeongjo",
+      "NanumPen",
+      "Naver Nanum",
+      "Naver NanumBrush",
+      "Naver NanumGothic",
+      "Naver NanumMyeongjo",
+      "Naver NanumPen"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "NHN Corporation",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumbrushscript"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "nanum-brush-script"
+  },
+  "minAppSchema": 1,
+  "bytes": 3569338,
+  "files": [
+    {
+      "path": "NanumBrushScript-Regular.ttf",
+      "bytes": 3564804,
+      "sha256": "27ceaf578c96f594cdf07fe0181b251790acbb746a164e45c1f6473f89911a31",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumbrushscript/NanumBrushScript-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4534,
+      "sha256": "eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f"
+    }
+  ],
+  "font": {
+    "familyId": "nanum-brush-script",
+    "faces": [
+      {
+        "file": "NanumBrushScript-Regular.ttf",
+        "family": "Nanum Brush Script",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 93,
+    "category": "handwriting",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}
