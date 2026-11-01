@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "phrases-shop",
+  "type": "phrases",
+  "version": "2026.11.02-1",
+  "title": {
+    "ko": "가게 안내 문구",
+    "en": "Shop sign phrases"
+  },
+  "description": {
+    "ko": "창가나 계산대에 띄우는 영업·안내 문구",
+    "en": "Hours and notices for a window or a counter"
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2026 BizDooroo",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "BizDooroo",
+    "url": "https://github.com/BizDooroo/textled-assets"
+  },
+  "source": {
+    "origin": "BizDooroo",
+    "manifestEntry": "phrases-shop"
+  },
+  "minAppSchema": 1,
+  "bytes": 22138,
+  "files": [
+    {
+      "path": "phrases.json",
+      "bytes": 2776,
+      "sha256": "42813afec970c12d55601e53bb98f494438bc9506446de78d8004ccbb762bb76",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 19362,
+      "sha256": "c95c5ca6736181f38f0545e8c9c63fdccb8b6f2aae2246b1c1a00c3112319c7c"
+    }
+  ],
+  "phrases": {
+    "file": "phrases.json"
+  }
+}

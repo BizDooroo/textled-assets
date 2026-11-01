@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "phrases-cheer",
+  "type": "phrases",
+  "version": "2026.11.02-1",
+  "title": {
+    "ko": "응원 문구",
+    "en": "Cheer phrases"
+  },
+  "description": {
+    "ko": "공연장에서 멀리서도 읽히는 짧은 응원",
+    "en": "Short cheers that read from far away at a show"
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2026 BizDooroo",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "BizDooroo",
+    "url": "https://github.com/BizDooroo/textled-assets"
+  },
+  "source": {
+    "origin": "BizDooroo",
+    "manifestEntry": "phrases-cheer"
+  },
+  "minAppSchema": 1,
+  "bytes": 22643,
+  "files": [
+    {
+      "path": "phrases.json",
+      "bytes": 3281,
+      "sha256": "e66a753c066595e8efb2abaa5617951fe8e44c3fd881a67c8c6c2d7857bac89c",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 19362,
+      "sha256": "c95c5ca6736181f38f0545e8c9c63fdccb8b6f2aae2246b1c1a00c3112319c7c"
+    }
+  ],
+  "phrases": {
+    "file": "phrases.json"
+  }
+}

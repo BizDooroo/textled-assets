@@ -1,0 +1,124 @@
+{
+  "groups": [
+    {
+      "title": {
+        "ko": "생일",
+        "en": "Birthday"
+      },
+      "items": [
+        {
+          "ko": "{이름} 생일 축하해",
+          "en": "Happy birthday, {name}"
+        },
+        {
+          "ko": "태어나 줘서 고마워",
+          "en": "So glad you were born"
+        },
+        {
+          "ko": "오늘의 주인공",
+          "en": "Star of the day"
+        },
+        {
+          "ko": "행복한 하루 보내",
+          "en": "Have the happiest day"
+        },
+        {
+          "ko": "케이크 먹자!",
+          "en": "Cake time!"
+        },
+        {
+          "ko": "소원 빌어!",
+          "en": "Make a wish!"
+        },
+        {
+          "ko": "한 살 더 멋져졌네",
+          "en": "A year older, even more awesome"
+        },
+        {
+          "ko": "생일 축하합니다",
+          "en": "Wishing you a happy birthday"
+        },
+        {
+          "ko": "{이름}의 {숫자}번째 생일",
+          "en": "{name} turns {number}"
+        },
+        {
+          "ko": "사랑하는 우리 아이 생일",
+          "en": "Happy birthday to our little one"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ko": "기념일",
+        "en": "Anniversary"
+      },
+      "items": [
+        {
+          "ko": "결혼 축하해요",
+          "en": "Congratulations on your wedding"
+        },
+        {
+          "ko": "함께한 {숫자}년 축하해",
+          "en": "{number} years together!"
+        },
+        {
+          "ko": "우리 100일",
+          "en": "100 days together"
+        },
+        {
+          "ko": "언제나 지금처럼",
+          "en": "Forever, just like today"
+        },
+        {
+          "ko": "함께라서 행복해",
+          "en": "Happy to be with you"
+        },
+        {
+          "ko": "사랑해, 고마워",
+          "en": "I love you, thank you"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ko": "축하",
+        "en": "Congrats"
+      },
+      "items": [
+        {
+          "ko": "축하합니다!",
+          "en": "Congratulations!"
+        },
+        {
+          "ko": "합격 축하해!",
+          "en": "You passed! Congrats!"
+        },
+        {
+          "ko": "졸업 축하해",
+          "en": "Happy graduation"
+        },
+        {
+          "ko": "승진 축하드려요",
+          "en": "Congrats on the promotion"
+        },
+        {
+          "ko": "새 출발을 응원해",
+          "en": "Cheers to your new start"
+        },
+        {
+          "ko": "수고 많았어요",
+          "en": "You worked so hard"
+        },
+        {
+          "ko": "파티 시작!",
+          "en": "Let the party begin!"
+        },
+        {
+          "ko": "건배!",
+          "en": "Cheers!"
+        }
+      ]
+    }
+  ]
+}

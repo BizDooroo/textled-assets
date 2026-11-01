@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "phrases-birthday",
+  "type": "phrases",
+  "version": "2026.11.02-1",
+  "title": {
+    "ko": "생일·기념일 문구",
+    "en": "Birthday and celebration phrases"
+  },
+  "description": {
+    "ko": "생일, 기념일, 축하 자리에 쓰는 문구",
+    "en": "Phrases for birthdays, anniversaries, and parties"
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2026 BizDooroo",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "BizDooroo",
+    "url": "https://github.com/BizDooroo/textled-assets"
+  },
+  "source": {
+    "origin": "BizDooroo",
+    "manifestEntry": "phrases-birthday"
+  },
+  "minAppSchema": 1,
+  "bytes": 22159,
+  "files": [
+    {
+      "path": "phrases.json",
+      "bytes": 2797,
+      "sha256": "e675d2fc033f388499f1afe31749461e5441620a4aa2a5438019f7fbfed9247d",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 19362,
+      "sha256": "c95c5ca6736181f38f0545e8c9c63fdccb8b6f2aae2246b1c1a00c3112319c7c"
+    }
+  ],
+  "phrases": {
+    "file": "phrases.json"
+  }
+}

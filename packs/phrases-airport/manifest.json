@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "phrases-airport",
+  "type": "phrases",
+  "version": "2026.11.02-1",
+  "title": {
+    "ko": "공항 문구",
+    "en": "Airport phrases"
+  },
+  "description": {
+    "ko": "입국장 마중과 배웅에 쓰는 큰 글씨 문구",
+    "en": "Big-letter signs for arrivals and goodbyes"
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2026 BizDooroo",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "BizDooroo",
+    "url": "https://github.com/BizDooroo/textled-assets"
+  },
+  "source": {
+    "origin": "BizDooroo",
+    "manifestEntry": "phrases-airport"
+  },
+  "minAppSchema": 1,
+  "bytes": 21669,
+  "files": [
+    {
+      "path": "phrases.json",
+      "bytes": 2307,
+      "sha256": "ef02f5ea29d730ade3dda2ee0d0a6ba785807042db0d8694862c63036931c3d0",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 19362,
+      "sha256": "c95c5ca6736181f38f0545e8c9c63fdccb8b6f2aae2246b1c1a00c3112319c7c"
+    }
+  ],
+  "phrases": {
+    "file": "phrases.json"
+  }
+}

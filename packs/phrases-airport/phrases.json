@@ -1,0 +1,104 @@
+{
+  "groups": [
+    {
+      "title": {
+        "ko": "마중",
+        "en": "Pickup"
+      },
+      "items": [
+        {
+          "ko": "{이름} 님 환영합니다",
+          "en": "Welcome, {name}"
+        },
+        {
+          "ko": "{이름} 님",
+          "en": "{name}"
+        },
+        {
+          "ko": "{이름} 님을 찾습니다",
+          "en": "Looking for {name}"
+        },
+        {
+          "ko": "어서 와요, 보고 싶었어요",
+          "en": "Welcome back, I missed you"
+        },
+        {
+          "ko": "무사히 도착해서 다행이에요",
+          "en": "So glad you landed safely"
+        },
+        {
+          "ko": "집에 온 걸 환영해",
+          "en": "Welcome home"
+        },
+        {
+          "ko": "한국에 오신 걸 환영합니다",
+          "en": "Welcome to Korea"
+        },
+        {
+          "ko": "여기예요!",
+          "en": "Over here!"
+        },
+        {
+          "ko": "{이름} 님 일행",
+          "en": "Party of {name}"
+        },
+        {
+          "ko": "픽업 기사입니다",
+          "en": "Your driver is here"
+        },
+        {
+          "ko": "호텔 셔틀",
+          "en": "Hotel shuttle"
+        },
+        {
+          "ko": "단체 손님은 여기로",
+          "en": "Group guests, this way"
+        },
+        {
+          "ko": "여행 잘 다녀왔어?",
+          "en": "How was your trip?"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ko": "배웅",
+        "en": "Goodbye"
+      },
+      "items": [
+        {
+          "ko": "잘 다녀와!",
+          "en": "Have a great trip!"
+        },
+        {
+          "ko": "조심히 가요",
+          "en": "Travel safe"
+        },
+        {
+          "ko": "도착하면 연락해",
+          "en": "Text me when you land"
+        },
+        {
+          "ko": "보고 싶을 거야",
+          "en": "I will miss you"
+        },
+        {
+          "ko": "또 만나요",
+          "en": "See you again"
+        },
+        {
+          "ko": "건강하게 지내",
+          "en": "Take care of yourself"
+        },
+        {
+          "ko": "기다릴게",
+          "en": "I will be waiting"
+        },
+        {
+          "ko": "좋은 여행 되세요",
+          "en": "Enjoy your journey"
+        }
+      ]
+    }
+  ]
+}

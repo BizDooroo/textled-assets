@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "phrases-thanks",
+  "type": "phrases",
+  "version": "2026.11.02-1",
+  "title": {
+    "ko": "감사 문구",
+    "en": "Thank-you phrases"
+  },
+  "description": {
+    "ko": "고마움과 인사를 전하는 문구",
+    "en": "Phrases to say thanks and goodbye"
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2026 BizDooroo",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "BizDooroo",
+    "url": "https://github.com/BizDooroo/textled-assets"
+  },
+  "source": {
+    "origin": "BizDooroo",
+    "manifestEntry": "phrases-thanks"
+  },
+  "minAppSchema": 1,
+  "bytes": 21556,
+  "files": [
+    {
+      "path": "phrases.json",
+      "bytes": 2194,
+      "sha256": "b4c85893f74fb967abf558ef45a6b1b4d95dd9b1e4fb46baca3730051d6f55a7",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 19362,
+      "sha256": "c95c5ca6736181f38f0545e8c9c63fdccb8b6f2aae2246b1c1a00c3112319c7c"
+    }
+  ],
+  "phrases": {
+    "file": "phrases.json"
+  }
+}

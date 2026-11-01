@@ -1,0 +1,47 @@
+{
+  "schema": 1,
+  "id": "phrases-sports",
+  "type": "phrases",
+  "version": "2026.11.02-1",
+  "title": {
+    "ko": "스포츠 문구",
+    "en": "Sports phrases"
+  },
+  "description": {
+    "ko": "경기장에서 선수와 팀을 응원하는 문구",
+    "en": "Cheers for players and teams at the stadium"
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2026 BizDooroo",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "BizDooroo",
+    "url": "https://github.com/BizDooroo/textled-assets"
+  },
+  "source": {
+    "origin": "BizDooroo",
+    "manifestEntry": "phrases-sports"
+  },
+  "minAppSchema": 1,
+  "bytes": 22103,
+  "files": [
+    {
+      "path": "phrases.json",
+      "bytes": 2741,
+      "sha256": "c14dfa2cac9e8a30e78371245a88159fdff5805484b039760dab3970a9775741",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 19362,
+      "sha256": "c95c5ca6736181f38f0545e8c9c63fdccb8b6f2aae2246b1c1a00c3112319c7c"
+    }
+  ],
+  "phrases": {
+    "file": "phrases.json"
+  }
+}

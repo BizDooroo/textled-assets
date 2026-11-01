@@ -1,0 +1,132 @@
+{
+  "groups": [
+    {
+      "title": {
+        "ko": "응원",
+        "en": "Cheer"
+      },
+      "items": [
+        {
+          "ko": "파이팅!",
+          "en": "Let's go!"
+        },
+        {
+          "ko": "이기자!",
+          "en": "Let's win!"
+        },
+        {
+          "ko": "끝까지 힘내자",
+          "en": "Keep going to the end"
+        },
+        {
+          "ko": "할 수 있다!",
+          "en": "You can do it!"
+        },
+        {
+          "ko": "우리가 최강",
+          "en": "We are the strongest"
+        },
+        {
+          "ko": "오늘 이긴다",
+          "en": "We win today"
+        },
+        {
+          "ko": "포기하지 마",
+          "en": "Never give up"
+        },
+        {
+          "ko": "한 점만 더!",
+          "en": "One more point!"
+        },
+        {
+          "ko": "수비 단단히",
+          "en": "Hold the line"
+        },
+        {
+          "ko": "골!",
+          "en": "Goal!"
+        },
+        {
+          "ko": "홈런!",
+          "en": "Home run!"
+        },
+        {
+          "ko": "역전 가자!",
+          "en": "Comeback time!"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ko": "선수에게",
+        "en": "To a player"
+      },
+      "items": [
+        {
+          "ko": "{이름} 파이팅!",
+          "en": "Go, {name}!"
+        },
+        {
+          "ko": "{숫자}번 최고!",
+          "en": "Number {number}, you rock!"
+        },
+        {
+          "ko": "{이름} 오늘의 MVP",
+          "en": "{name}, today's MVP"
+        },
+        {
+          "ko": "부상 없이 끝까지",
+          "en": "Stay safe out there"
+        },
+        {
+          "ko": "멋진 플레이!",
+          "en": "Great play!"
+        },
+        {
+          "ko": "사인 부탁해요",
+          "en": "Autograph, please?"
+        },
+        {
+          "ko": "공 던져 주세요",
+          "en": "Throw me the ball!"
+        },
+        {
+          "ko": "유니폼 바꿔요",
+          "en": "Swap jerseys?"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ko": "경기 후",
+        "en": "After the game"
+      },
+      "items": [
+        {
+          "ko": "수고했어요!",
+          "en": "Well played!"
+        },
+        {
+          "ko": "그래도 자랑스러워",
+          "en": "Proud of you anyway"
+        },
+        {
+          "ko": "다음엔 이긴다",
+          "en": "We win next time"
+        },
+        {
+          "ko": "승리 축하해!",
+          "en": "Congrats on the win!"
+        },
+        {
+          "ko": "우승!",
+          "en": "Champions!"
+        },
+        {
+          "ko": "고마워요, 선수들",
+          "en": "Thank you, players"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "groups": [
+    {
+      "title": {
+        "ko": "짧게",
+        "en": "Short"
+      },
+      "items": [
+        {
+          "ko": "사랑해요",
+          "en": "Love you"
+        },
+        {
+          "ko": "최고예요",
+          "en": "Amazing"
+        },
+        {
+          "ko": "멋져요!",
+          "en": "So cool!"
+        },
+        {
+          "ko": "힘내요!",
+          "en": "You got this!"
+        },
+        {
+          "ko": "항상 응원해요",
+          "en": "Always cheering for you"
+        },
+        {
+          "ko": "여기 봐 주세요!",
+          "en": "Look over here!"
+        },
+        {
+          "ko": "손 흔들어 주세요",
+          "en": "Wave at me, please"
+        },
+        {
+          "ko": "눈 마주쳐 주세요",
+          "en": "Eye contact, please"
+        },
+        {
+          "ko": "웃어 주세요",
+          "en": "Smile for me"
+        },
+        {
+          "ko": "브라보!",
+          "en": "Bravo!"
+        },
+        {
+          "ko": "앙코르!",
+          "en": "Encore!"
+        },
+        {
+          "ko": "한 곡 더!",
+          "en": "One more song!"
+        },
+        {
+          "ko": "오늘 무대 최고",
+          "en": "Best show tonight"
+        },
+        {
+          "ko": "오늘도 빛나요",
+          "en": "Shining bright tonight"
+        },
+        {
+          "ko": "같이 불빛 흔들어요",
+          "en": "Wave your lights with us"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ko": "이름 넣기",
+        "en": "With a name"
+      },
+      "items": [
+        {
+          "ko": "{이름} 사랑해",
+          "en": "I love you, {name}"
+        },
+        {
+          "ko": "{이름} 최고!",
+          "en": "{name} is the best!"
+        },
+        {
+          "ko": "{이름} 여기 봐!",
+          "en": "{name}, look here!"
+        },
+        {
+          "ko": "{이름} 오늘도 빛나",
+          "en": "{name}, shining again tonight"
+        },
+        {
+          "ko": "{이름} 하트 해 줘",
+          "en": "{name}, make a heart!"
+        },
+        {
+          "ko": "{이름} 데뷔 축하해",
+          "en": "Congrats on your debut, {name}"
+        },
+        {
+          "ko": "{이름} 언제나 함께해",
+          "en": "Always with you, {name}"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ko": "마음 전하기",
+        "en": "From the heart"
+      },
+      "items": [
+        {
+          "ko": "먼 길 왔어요",
+          "en": "I came a long way to see you"
+        },
+        {
+          "ko": "첫 공연이에요",
+          "en": "My first show!"
+        },
+        {
+          "ko": "덕분에 행복해요",
+          "en": "You make me happy"
+        },
+        {
+          "ko": "오늘을 잊지 않을게요",
+          "en": "I will never forget tonight"
+        },
+        {
+          "ko": "다음 공연도 올게요",
+          "en": "See you at the next show"
+        },
+        {
+          "ko": "건강하게 오래오래",
+          "en": "Stay healthy, always"
+        },
+        {
+          "ko": "늘 고마워요",
+          "en": "Thank you, always"
+        },
+        {
+          "ko": "같이 노래해요",
+          "en": "Sing with us"
+        }
+      ]
+    }
+  ]
+}

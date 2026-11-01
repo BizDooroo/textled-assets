@@ -1,0 +1,100 @@
+{
+  "groups": [
+    {
+      "title": {
+        "ko": "감사",
+        "en": "Thanks"
+      },
+      "items": [
+        {
+          "ko": "감사합니다",
+          "en": "Thank you"
+        },
+        {
+          "ko": "감사합니다 또 오세요",
+          "en": "Thanks, see you again soon"
+        },
+        {
+          "ko": "정말 고마워요",
+          "en": "Thank you so much"
+        },
+        {
+          "ko": "덕분이에요",
+          "en": "All thanks to you"
+        },
+        {
+          "ko": "와 주셔서 감사합니다",
+          "en": "Thank you for coming"
+        },
+        {
+          "ko": "기다려 주셔서 감사합니다",
+          "en": "Thank you for waiting"
+        },
+        {
+          "ko": "도와주셔서 고마워요",
+          "en": "Thanks for your help"
+        },
+        {
+          "ko": "수고하셨습니다",
+          "en": "Thank you for your hard work"
+        },
+        {
+          "ko": "{이름} 님 감사합니다",
+          "en": "Thank you, {name}"
+        },
+        {
+          "ko": "좋은 하루 되세요",
+          "en": "Have a nice day"
+        },
+        {
+          "ko": "안전 운전 하세요",
+          "en": "Drive safe"
+        },
+        {
+          "ko": "행복하세요",
+          "en": "Be happy"
+        }
+      ]
+    },
+    {
+      "title": {
+        "ko": "인사",
+        "en": "Greetings"
+      },
+      "items": [
+        {
+          "ko": "안녕하세요",
+          "en": "Hello"
+        },
+        {
+          "ko": "반가워요",
+          "en": "Nice to meet you"
+        },
+        {
+          "ko": "좋은 아침!",
+          "en": "Good morning!"
+        },
+        {
+          "ko": "새해 복 많이 받으세요",
+          "en": "Happy New Year"
+        },
+        {
+          "ko": "메리 크리스마스",
+          "en": "Merry Christmas"
+        },
+        {
+          "ko": "즐거운 명절 보내세요",
+          "en": "Happy holidays"
+        },
+        {
+          "ko": "다음에 또 봐요",
+          "en": "See you next time"
+        },
+        {
+          "ko": "안녕히 가세요",
+          "en": "Goodbye"
+        }
+      ]
+    }
+  ]
+}
