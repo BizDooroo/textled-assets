@@ -1,0 +1,137 @@
+{
+  "schema": 1,
+  "id": "font-ibm-plex-sans-kr",
+  "type": "font",
+  "version": "2026.11.01-2",
+  "title": {
+    "ko": "IBM Plex Sans KR",
+    "en": "IBM Plex Sans KR"
+  },
+  "description": {
+    "ko": "고딕 · 한글 전체",
+    "en": "Sans serif · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright © 2017 IBM Corp. with Reserved Font Name \"Plex\"",
+    "reservedFontNames": [
+      "Plex"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "IBM Corp",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/ibmplexsanskr"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "ibm-plex-sans-kr"
+  },
+  "minAppSchema": 1,
+  "bytes": 19582764,
+  "files": [
+    {
+      "path": "IBMPlexSansKR-Thin.ttf",
+      "bytes": 2519952,
+      "sha256": "80fe4c5dc2fce17a7115a84966da6f5e443e21f332db2e1de53339f7f92357c6",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/ibmplexsanskr/IBMPlexSansKR-Thin.ttf"
+    },
+    {
+      "path": "IBMPlexSansKR-ExtraLight.ttf",
+      "bytes": 2860324,
+      "sha256": "202d1aa692a8d222026f981725477df7ea963246c3c6080cc3b55669414fc861",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/ibmplexsanskr/IBMPlexSansKR-ExtraLight.ttf"
+    },
+    {
+      "path": "IBMPlexSansKR-Light.ttf",
+      "bytes": 2803868,
+      "sha256": "a44ebb467261e0bb02f5d5ce375ca5d675a70f8047fd8d4e8dc56add4be50c7b",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/ibmplexsanskr/IBMPlexSansKR-Light.ttf"
+    },
+    {
+      "path": "IBMPlexSansKR-Regular.ttf",
+      "bytes": 2797100,
+      "sha256": "53750379270312368cf7641901f43a98dd892e3d9d5798cf25cdc245c85c71c0",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/ibmplexsanskr/IBMPlexSansKR-Regular.ttf"
+    },
+    {
+      "path": "IBMPlexSansKR-Medium.ttf",
+      "bytes": 2866736,
+      "sha256": "4a7130f56ce50bf10f9d383f624e50bad2c80bebc63e51f4269ece2c7d919166",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/ibmplexsanskr/IBMPlexSansKR-Medium.ttf"
+    },
+    {
+      "path": "IBMPlexSansKR-SemiBold.ttf",
+      "bytes": 2854744,
+      "sha256": "823c1956adf56c27c06b062725dfce23f266e4fd1366290f2957c8407482a817",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/ibmplexsanskr/IBMPlexSansKR-SemiBold.ttf"
+    },
+    {
+      "path": "IBMPlexSansKR-Bold.ttf",
+      "bytes": 2875584,
+      "sha256": "9d82a8be5330f6d7b53121262867b402baca672eb69b852928f06d185d357f7d",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/ibmplexsanskr/IBMPlexSansKR-Bold.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4456,
+      "sha256": "7e6b2818edbd8f6a01ae80641cc8f16a51080d08fb4e532be3a0b6f74adb07da"
+    }
+  ],
+  "font": {
+    "familyId": "ibm-plex-sans-kr",
+    "faces": [
+      {
+        "file": "IBMPlexSansKR-Thin.ttf",
+        "family": "IBM Plex Sans KR",
+        "weight": 100,
+        "style": "normal"
+      },
+      {
+        "file": "IBMPlexSansKR-ExtraLight.ttf",
+        "family": "IBM Plex Sans KR",
+        "weight": 200,
+        "style": "normal"
+      },
+      {
+        "file": "IBMPlexSansKR-Light.ttf",
+        "family": "IBM Plex Sans KR",
+        "weight": 300,
+        "style": "normal"
+      },
+      {
+        "file": "IBMPlexSansKR-Regular.ttf",
+        "family": "IBM Plex Sans KR",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "IBMPlexSansKR-Medium.ttf",
+        "family": "IBM Plex Sans KR",
+        "weight": 500,
+        "style": "normal"
+      },
+      {
+        "file": "IBMPlexSansKR-SemiBold.ttf",
+        "family": "IBM Plex Sans KR",
+        "weight": 600,
+        "style": "normal"
+      },
+      {
+        "file": "IBMPlexSansKR-Bold.ttf",
+        "family": "IBM Plex Sans KR",
+        "weight": 700,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 94,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

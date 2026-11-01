@@ -1,0 +1,159 @@
+{
+  "schema": 1,
+  "id": "font-gothic-a1",
+  "type": "font",
+  "version": "2026.11.01-2",
+  "title": {
+    "ko": "고딕 A1",
+    "en": "Gothic A1"
+  },
+  "description": {
+    "ko": "고딕 · 한글 전체",
+    "en": "Sans serif · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "(C) Copyright HanYang I&C Co.,Ltd. All rights reserved.",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "HanYang I&C Co.,Ltd",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gothica1"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "gothic-a1"
+  },
+  "minAppSchema": 1,
+  "bytes": 20610911,
+  "files": [
+    {
+      "path": "GothicA1-Thin.ttf",
+      "bytes": 2308312,
+      "sha256": "2caee77c0db6afe1cd759c547537361ce66945e7d6fef0f14a9a35fbb4581bb6",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gothica1/GothicA1-Thin.ttf"
+    },
+    {
+      "path": "GothicA1-ExtraLight.ttf",
+      "bytes": 2298392,
+      "sha256": "3de01e7b6bc0fdd494fa4de0677e67a73a6ae907537bb4c5f355d9c966e2ebfd",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gothica1/GothicA1-ExtraLight.ttf"
+    },
+    {
+      "path": "GothicA1-Light.ttf",
+      "bytes": 2298100,
+      "sha256": "927826b1e23366327ebe53d4675a87938ee90b77104cb794087b5138588b53f4",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gothica1/GothicA1-Light.ttf"
+    },
+    {
+      "path": "GothicA1-Regular.ttf",
+      "bytes": 2295400,
+      "sha256": "211151bea98098c579610ab1114bb1bfe909057207db561f357b896d076c21ac",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gothica1/GothicA1-Regular.ttf"
+    },
+    {
+      "path": "GothicA1-Medium.ttf",
+      "bytes": 2288824,
+      "sha256": "c8a0eb56fa6b13448688fed0799d503fe536a8c6b7acfafdfd580edb9c4c2192",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gothica1/GothicA1-Medium.ttf"
+    },
+    {
+      "path": "GothicA1-SemiBold.ttf",
+      "bytes": 2288560,
+      "sha256": "7ee3063f2d626936d8a59dfa21525e7ed19b4e89e8fbb0ea5a924cad9b0cc1f4",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gothica1/GothicA1-SemiBold.ttf"
+    },
+    {
+      "path": "GothicA1-Bold.ttf",
+      "bytes": 2287068,
+      "sha256": "2e883fa0ae548000996258b4101f2bb732a28b197264f49621a2cb16d6e9f126",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gothica1/GothicA1-Bold.ttf"
+    },
+    {
+      "path": "GothicA1-ExtraBold.ttf",
+      "bytes": 2281144,
+      "sha256": "37a65353a646fea5a1ac90585d1bb8f9b997ecae0b79c4f1f187566f910e3f9d",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gothica1/GothicA1-ExtraBold.ttf"
+    },
+    {
+      "path": "GothicA1-Black.ttf",
+      "bytes": 2260752,
+      "sha256": "6398ff5c6923c74cb453390892dcb982ec0a6c43b35da8590a8f32702d8c079d",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/gothica1/GothicA1-Black.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4359,
+      "sha256": "ed95c33f80ccca002e3a360b683c43368f9c5eb024e5b992abb51af3c10b59bc"
+    }
+  ],
+  "font": {
+    "familyId": "gothic-a1",
+    "faces": [
+      {
+        "file": "GothicA1-Thin.ttf",
+        "family": "Gothic A1",
+        "weight": 100,
+        "style": "normal"
+      },
+      {
+        "file": "GothicA1-ExtraLight.ttf",
+        "family": "Gothic A1",
+        "weight": 200,
+        "style": "normal"
+      },
+      {
+        "file": "GothicA1-Light.ttf",
+        "family": "Gothic A1",
+        "weight": 300,
+        "style": "normal"
+      },
+      {
+        "file": "GothicA1-Regular.ttf",
+        "family": "Gothic A1",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "GothicA1-Medium.ttf",
+        "family": "Gothic A1",
+        "weight": 500,
+        "style": "normal"
+      },
+      {
+        "file": "GothicA1-SemiBold.ttf",
+        "family": "Gothic A1",
+        "weight": 600,
+        "style": "normal"
+      },
+      {
+        "file": "GothicA1-Bold.ttf",
+        "family": "Gothic A1",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "file": "GothicA1-ExtraBold.ttf",
+        "family": "Gothic A1",
+        "weight": 800,
+        "style": "normal"
+      },
+      {
+        "file": "GothicA1-Black.ttf",
+        "family": "Gothic A1",
+        "weight": 900,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 94,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}
