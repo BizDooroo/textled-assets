@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "id": "font-russo-one",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Russo One",
+    "en": "Russo One"
+  },
+  "description": {
+    "ko": "고딕 · 라틴 전용",
+    "en": "Sans serif · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2011-2012, Jovanny Lemonad (jovanny.ru), with Reserved Font Name \"Russo\"",
+    "reservedFontNames": [
+      "Russo"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "Jovanny Lemonad",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/russoone"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "russo-one"
+  },
+  "minAppSchema": 1,
+  "bytes": 43514,
+  "files": [
+    {
+      "path": "RussoOne-Regular.ttf",
+      "bytes": 39124,
+      "sha256": "bc0abcc660bd8b7ad3000ecb2898a27c58a29a50f7ec81652fa12e75148d09df",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/russoone/RussoOne-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4390,
+      "sha256": "3ac1301549523d9861fedca12871f24e575fbd26d520632fc00ba849b471d275"
+    }
+  ],
+  "font": {
+    "familyId": "russo-one",
+    "faces": [
+      {
+        "file": "RussoOne-Regular.ttf",
+        "family": "Russo One",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

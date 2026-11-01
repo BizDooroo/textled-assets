@@ -1,0 +1,95 @@
+{
+  "schema": 1,
+  "id": "font-roboto",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Roboto",
+    "en": "Roboto"
+  },
+  "description": {
+    "ko": "고딕 · 라틴 전용",
+    "en": "Sans serif · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto-classic)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Roboto Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/roboto"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "roboto"
+  },
+  "minAppSchema": 1,
+  "bytes": 1023922,
+  "files": [
+    {
+      "path": "Roboto[wdth,wght].ttf",
+      "bytes": 488584,
+      "sha256": "d7598e12c5dbef095ff8272cfc55da0250bd07fbdecbac8a530b9b277872a134",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/roboto/Roboto%5Bwdth%2Cwght%5D.ttf"
+    },
+    {
+      "path": "Roboto-Italic[wdth,wght].ttf",
+      "bytes": 530944,
+      "sha256": "9725a847af6b460ffca162ae66d20dad48b01876137947180b42d7dcd7887182",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/roboto/Roboto-Italic%5Bwdth%2Cwght%5D.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4394,
+      "sha256": "061402327a96aadb0bfb694a960ed289ecd38d383e396243831ab81feb109c41"
+    }
+  ],
+  "font": {
+    "familyId": "roboto",
+    "faces": [
+      {
+        "file": "Roboto[wdth,wght].ttf",
+        "family": "Roboto",
+        "weight": 400,
+        "style": "normal",
+        "axes": {
+          "wght": [
+            100,
+            900
+          ],
+          "wdth": [
+            75,
+            100
+          ]
+        }
+      },
+      {
+        "file": "Roboto-Italic[wdth,wght].ttf",
+        "family": "Roboto",
+        "weight": 400,
+        "style": "italic",
+        "axes": {
+          "wght": [
+            100,
+            900
+          ],
+          "wdth": [
+            75,
+            100
+          ]
+        }
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

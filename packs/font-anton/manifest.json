@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-anton",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Anton",
+    "en": "Anton"
+  },
+  "description": {
+    "ko": "고딕 · 라틴 전용",
+    "en": "Sans serif · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2020 The Anton Project Authors (https://github.com/googlefonts/AntonFont.git)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Anton Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/anton"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "anton"
+  },
+  "minAppSchema": 1,
+  "bytes": 175296,
+  "files": [
+    {
+      "path": "Anton-Regular.ttf",
+      "bytes": 170812,
+      "sha256": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/anton/Anton-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4484,
+      "sha256": "ee67e6ee22790b7929f1a3769ca2801d565c64b5a9096942c1adf5596de9c9e4"
+    }
+  ],
+  "font": {
+    "familyId": "anton",
+    "faces": [
+      {
+        "file": "Anton-Regular.ttf",
+        "family": "Anton",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "font-paperlogy",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "페이퍼로지",
+    "en": "Paperlogy"
+  },
+  "description": {
+    "ko": "고딕 · 한글 전체",
+    "en": "Sans serif · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2024 The PAPERLOGY Authors (https://freesentation.blog/paperlogy)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The PAPERLOGY Authors",
+    "url": "https://github.com/Freesentation/paperlogy"
+  },
+  "source": {
+    "origin": "Freesentation/paperlogy@8ef35f53",
+    "manifestEntry": "paperlogy"
+  },
+  "minAppSchema": 1,
+  "bytes": 3930124,
+  "files": [
+    {
+      "path": "Paperlogy-4Regular.ttf",
+      "bytes": 1312616,
+      "sha256": "05e1021e3de620dddc97875342e2be1a94c5f8e9b9f792bd16c4c1d0085343b3",
+      "upstream": null
+    },
+    {
+      "path": "Paperlogy-7Bold.ttf",
+      "bytes": 1307936,
+      "sha256": "7effb892621474e9c2a9112f482eb87dd25b65a470e5ae5971be5a68d89ad89b",
+      "upstream": null
+    },
+    {
+      "path": "Paperlogy-9Black.ttf",
+      "bytes": 1305192,
+      "sha256": "9a2149095d72ae268abb3acf6a3a6ab4adcae8c0ebb98999bd2d607f22149bc0",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4380,
+      "sha256": "603b2e7ef9effb9037b0b67f0530cacdc05e71a4e569032d7e4d98c2e6763135"
+    }
+  ],
+  "font": {
+    "familyId": "paperlogy",
+    "faces": [
+      {
+        "file": "Paperlogy-4Regular.ttf",
+        "family": "Paperlogy",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "Paperlogy-7Bold.ttf",
+        "family": "Paperlogy",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "file": "Paperlogy-9Black.ttf",
+        "family": "Paperlogy",
+        "weight": 900,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 52,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

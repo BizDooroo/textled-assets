@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-rubik-mono-one",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Rubik Mono One",
+    "en": "Rubik Mono One"
+  },
+  "description": {
+    "ko": "고딕 · 라틴 전용",
+    "en": "Sans serif · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2015 The Rubik Project Authors (mail@hubertfischer.com)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Rubik Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/rubikmonoone"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "rubik-mono-one"
+  },
+  "minAppSchema": 1,
+  "bytes": 145550,
+  "files": [
+    {
+      "path": "RubikMonoOne-Regular.ttf",
+      "bytes": 141088,
+      "sha256": "b22624b6a36e543e942106edfccd198c50b57b65b924bfe02a6f0a5699429e6b",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/rubikmonoone/RubikMonoOne-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4462,
+      "sha256": "43d530580461a574f6dfed9e15af6a74e95f7c04d9bfa1174a63ff036e8eee07"
+    }
+  ],
+  "font": {
+    "familyId": "rubik-mono-one",
+    "faces": [
+      {
+        "file": "RubikMonoOne-Regular.ttf",
+        "family": "Rubik Mono One",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

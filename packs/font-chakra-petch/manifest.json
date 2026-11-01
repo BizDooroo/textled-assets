@@ -1,0 +1,171 @@
+{
+  "schema": 1,
+  "id": "font-chakra-petch",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Chakra Petch",
+    "en": "Chakra Petch"
+  },
+  "description": {
+    "ko": "고딕 · 라틴 전용",
+    "en": "Sans serif · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2018 The Chakra Petch Project Authors (https://github.com/m4rc1e/Chakra-Petch.git)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Chakra Petch Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/chakrapetch"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "chakra-petch"
+  },
+  "minAppSchema": 1,
+  "bytes": 802200,
+  "files": [
+    {
+      "path": "ChakraPetch-Light.ttf",
+      "bytes": 78936,
+      "sha256": "13a106a367b903fb509ed11e7c921589a0d42c22540510d3ca8f6c7343bef76b",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/chakrapetch/ChakraPetch-Light.ttf"
+    },
+    {
+      "path": "ChakraPetch-LightItalic.ttf",
+      "bytes": 81240,
+      "sha256": "67e426488e221d5d9e5a3b62a34b45f1f534dabd1078bdc77fcdfe43630cbee0",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/chakrapetch/ChakraPetch-LightItalic.ttf"
+    },
+    {
+      "path": "ChakraPetch-Regular.ttf",
+      "bytes": 78488,
+      "sha256": "98fcd638baa5c81ff0316b7538ce330ee3b23b1302726de3526d5933a8ecf986",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/chakrapetch/ChakraPetch-Regular.ttf"
+    },
+    {
+      "path": "ChakraPetch-Italic.ttf",
+      "bytes": 80764,
+      "sha256": "3aeea48f0ffab0d6ad8d3cd0cb9c0ceb98ecbcf363521ce56fceea51ecbb1d1f",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/chakrapetch/ChakraPetch-Italic.ttf"
+    },
+    {
+      "path": "ChakraPetch-Medium.ttf",
+      "bytes": 78600,
+      "sha256": "d480f4f97405fac3600652e2e14fd0b14339031c0af4da11582994878f04d919",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/chakrapetch/ChakraPetch-Medium.ttf"
+    },
+    {
+      "path": "ChakraPetch-MediumItalic.ttf",
+      "bytes": 80960,
+      "sha256": "3a9185b6735897aeb38fdd132aae761a9092001c7615ac9e2238131bf9b099ed",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/chakrapetch/ChakraPetch-MediumItalic.ttf"
+    },
+    {
+      "path": "ChakraPetch-SemiBold.ttf",
+      "bytes": 78604,
+      "sha256": "45264de3204ddbd5fb3e14a2402acd5c630d16650ae5fc221d2c52da46a6734b",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/chakrapetch/ChakraPetch-SemiBold.ttf"
+    },
+    {
+      "path": "ChakraPetch-SemiBoldItalic.ttf",
+      "bytes": 81000,
+      "sha256": "4e11c1bec71511bbea8a3bc3f4cebff479bb9681961d691a36f99e5234d8fe89",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/chakrapetch/ChakraPetch-SemiBoldItalic.ttf"
+    },
+    {
+      "path": "ChakraPetch-Bold.ttf",
+      "bytes": 78384,
+      "sha256": "65fbf76d95651697275e19db4d717c0e95a789ddd3476478b05292104db278a0",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/chakrapetch/ChakraPetch-Bold.ttf"
+    },
+    {
+      "path": "ChakraPetch-BoldItalic.ttf",
+      "bytes": 80828,
+      "sha256": "bf012ce1894ffcf7d32d3e6548b90df7c40f30161b5cc295eb54ff61c21fab19",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/chakrapetch/ChakraPetch-BoldItalic.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4396,
+      "sha256": "13831d02389d917d22fcfa6c79f98f8acbf61d230add0e73a4d4dc5f3bfb9e56"
+    }
+  ],
+  "font": {
+    "familyId": "chakra-petch",
+    "faces": [
+      {
+        "file": "ChakraPetch-Light.ttf",
+        "family": "Chakra Petch",
+        "weight": 300,
+        "style": "normal"
+      },
+      {
+        "file": "ChakraPetch-LightItalic.ttf",
+        "family": "Chakra Petch",
+        "weight": 300,
+        "style": "italic"
+      },
+      {
+        "file": "ChakraPetch-Regular.ttf",
+        "family": "Chakra Petch",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "ChakraPetch-Italic.ttf",
+        "family": "Chakra Petch",
+        "weight": 400,
+        "style": "italic"
+      },
+      {
+        "file": "ChakraPetch-Medium.ttf",
+        "family": "Chakra Petch",
+        "weight": 500,
+        "style": "normal"
+      },
+      {
+        "file": "ChakraPetch-MediumItalic.ttf",
+        "family": "Chakra Petch",
+        "weight": 500,
+        "style": "italic"
+      },
+      {
+        "file": "ChakraPetch-SemiBold.ttf",
+        "family": "Chakra Petch",
+        "weight": 600,
+        "style": "normal"
+      },
+      {
+        "file": "ChakraPetch-SemiBoldItalic.ttf",
+        "family": "Chakra Petch",
+        "weight": 600,
+        "style": "italic"
+      },
+      {
+        "file": "ChakraPetch-Bold.ttf",
+        "family": "Chakra Petch",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "file": "ChakraPetch-BoldItalic.ttf",
+        "family": "Chakra Petch",
+        "weight": 700,
+        "style": "italic"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

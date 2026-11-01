@@ -1,0 +1,109 @@
+{
+  "schema": 1,
+  "id": "font-pretendard",
+  "type": "font",
+  "version": "2026.10.31-1",
+  "title": {
+    "ko": "프리텐다드",
+    "en": "Pretendard"
+  },
+  "description": {
+    "ko": "읽기 쉬운 고딕",
+    "en": "Highly legible sans serif"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2021, Kil Hyung-jin (https://github.com/orioncactus/pretendard), with Reserved Font Name Pretendard.",
+    "reservedFontNames": [
+      "Inter",
+      "M PLUS 1",
+      "Pretendard",
+      "Source"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "Kil Hyung-jin",
+    "url": "https://github.com/orioncactus/pretendard"
+  },
+  "source": {
+    "origin": "orioncactus/pretendard v1.3.9",
+    "manifestEntry": "pretendard"
+  },
+  "minAppSchema": 1,
+  "bytes": 10726651,
+  "builtin": "partial",
+  "files": [
+    {
+      "path": "Pretendard-Regular.ttf",
+      "bytes": 2725828,
+      "sha256": "6d0af5258997aec7354a6e340fc2325ba321c410ca48b3af858c8c3d6e92a324",
+      "upstream": null,
+      "builtin": false
+    },
+    {
+      "path": "Pretendard-Bold.ttf",
+      "bytes": 2661752,
+      "sha256": "c16b88c670d23e83fa1170c954cbc4822d3b8dad3c3cde15d798a94b43d97985",
+      "upstream": null,
+      "builtin": true
+    },
+    {
+      "path": "Pretendard-ExtraBold.ttf",
+      "bytes": 2669648,
+      "sha256": "eedbd2877218242323bdff816684f7f5c325e54ae820d5b78eec9a5e5c7edef6",
+      "upstream": null,
+      "builtin": false
+    },
+    {
+      "path": "Pretendard-Black.ttf",
+      "bytes": 2665004,
+      "sha256": "0a7c1fd65a599f9d25de860cc832ea9ac40c207775e33eb4344a4647392a2b5d",
+      "upstream": null,
+      "builtin": false
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4419,
+      "sha256": "b04538c9abec39a3db75108cf0af0fd9c77032fe8aa2cf38345b4d250e98e38e"
+    }
+  ],
+  "font": {
+    "familyId": "pretendard",
+    "faces": [
+      {
+        "file": "Pretendard-Regular.ttf",
+        "family": "Pretendard",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "Pretendard-Bold.ttf",
+        "family": "Pretendard",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "file": "Pretendard-ExtraBold.ttf",
+        "family": "Pretendard",
+        "weight": 800,
+        "style": "normal"
+      },
+      {
+        "file": "Pretendard-Black.ttf",
+        "family": "Pretendard",
+        "weight": 900,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 53,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

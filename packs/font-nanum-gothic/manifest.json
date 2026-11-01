@@ -1,0 +1,98 @@
+{
+  "schema": 1,
+  "id": "font-nanum-gothic",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "나눔고딕",
+    "en": "Nanum Gothic"
+  },
+  "description": {
+    "ko": "고딕 · 한글 전체",
+    "en": "Sans serif · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2010, NHN Corporation (http://www.nhncorp.com), with Reserved Font Name Nanum, Naver Nanum, NanumGothic, Naver NanumGothic, NanumMyeongjo, Naver NanumMyeongjo, NanumBrush, Naver NanumBrush, NanumPen, Naver NanumPen.",
+    "reservedFontNames": [
+      "Nanum",
+      "NanumBrush",
+      "NanumGothic",
+      "NanumMyeongjo",
+      "NanumPen",
+      "Naver Nanum",
+      "Naver NanumBrush",
+      "Naver NanumGothic",
+      "Naver NanumMyeongjo",
+      "Naver NanumPen"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "NHN Corporation",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumgothic"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "nanum-gothic"
+  },
+  "minAppSchema": 1,
+  "bytes": 6245866,
+  "files": [
+    {
+      "path": "NanumGothic-Regular.ttf",
+      "bytes": 2054744,
+      "sha256": "76f45ef4a6bcff344c837c95a7dcc26e017e38b5846d5ae0cdcb5b86be2e2d31",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumgothic/NanumGothic-Regular.ttf"
+    },
+    {
+      "path": "NanumGothic-Bold.ttf",
+      "bytes": 2073868,
+      "sha256": "f96298f9fb18e364d2370f4c3ce948ac67a2b61af992d7234bc15c42b033c674",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumgothic/NanumGothic-Bold.ttf"
+    },
+    {
+      "path": "NanumGothic-ExtraBold.ttf",
+      "bytes": 2112720,
+      "sha256": "5c4568e5295a8c52bc30e7efa1ea6d2de43556268ef42daba93540a1ece691ae",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/nanumgothic/NanumGothic-ExtraBold.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4534,
+      "sha256": "eeacf16032901d0ed0456876ec77b8f0fda6b3fecec7d972f8543eb602e6c30f"
+    }
+  ],
+  "font": {
+    "familyId": "nanum-gothic",
+    "faces": [
+      {
+        "file": "NanumGothic-Regular.ttf",
+        "family": "NanumGothic",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "NanumGothic-Bold.ttf",
+        "family": "NanumGothic",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "file": "NanumGothic-ExtraBold.ttf",
+        "family": "NanumGothic",
+        "weight": 800,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 93,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

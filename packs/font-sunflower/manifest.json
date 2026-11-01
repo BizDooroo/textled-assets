@@ -1,0 +1,87 @@
+{
+  "schema": 1,
+  "id": "font-sunflower",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Sunflower",
+    "en": "Sunflower"
+  },
+  "description": {
+    "ko": "고딕 · 한글 일부",
+    "en": "Sans serif · partial Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2008 The Sunflower Project Authors",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Sunflower Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/sunflower"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "sunflower"
+  },
+  "minAppSchema": 1,
+  "bytes": 2279516,
+  "files": [
+    {
+      "path": "Sunflower-Light.ttf",
+      "bytes": 758332,
+      "sha256": "dd9fb97aa9ec1fdb65e0328513d9c54c114fba41decca1d32a1e1ed992e255c5",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/sunflower/Sunflower-Light.ttf"
+    },
+    {
+      "path": "Sunflower-Medium.ttf",
+      "bytes": 770536,
+      "sha256": "6e216d6b2f77a850f6b73be25633d09e03385dfa63a3a632f9e7d83a90ea7f79",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/sunflower/Sunflower-Medium.ttf"
+    },
+    {
+      "path": "Sunflower-Bold.ttf",
+      "bytes": 746300,
+      "sha256": "6b033627817f6619433afe82028013dc45a78ff82406b1dbe5b16e1bbc370e0a",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/sunflower/Sunflower-Bold.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4348,
+      "sha256": "a9b40759b5821a0c2ad07cbd2c2a61dca4b3e222e6370a7d5bfb6b373bf4fb10"
+    }
+  ],
+  "font": {
+    "familyId": "sunflower",
+    "faces": [
+      {
+        "file": "Sunflower-Light.ttf",
+        "family": "Sunflower",
+        "weight": 300,
+        "style": "normal"
+      },
+      {
+        "file": "Sunflower-Medium.ttf",
+        "family": "Sunflower",
+        "weight": 500,
+        "style": "normal"
+      },
+      {
+        "file": "Sunflower-Bold.ttf",
+        "family": "Sunflower",
+        "weight": 700,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 2350,
+    "hangulCompatJamo": 51,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "schema": 1,
+  "id": "font-wanted-sans",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "원티드 산스",
+    "en": "Wanted Sans"
+  },
+  "description": {
+    "ko": "고딕 · 한글 전체",
+    "en": "Sans serif · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2024 The Wanted Sans Project Authors (https://github.com/wanteddev/wanted-sans)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Wanted Sans Project Authors",
+    "url": "https://github.com/wanteddev/wanted-sans"
+  },
+  "source": {
+    "origin": "wanteddev/wanted-sans v1.0.3",
+    "manifestEntry": "wanted-sans"
+  },
+  "minAppSchema": 1,
+  "bytes": 9473806,
+  "files": [
+    {
+      "path": "WantedSans-Regular.ttf",
+      "bytes": 2401736,
+      "sha256": "849b51938f5779e7526fcf09b3c737e9d401261d111f626280af16423bf19f40",
+      "upstream": null
+    },
+    {
+      "path": "WantedSans-Bold.ttf",
+      "bytes": 2344596,
+      "sha256": "7d97a38d0c35b2e43ff2ae47040133faf0324d1c78800a16aaaa5d276376037c",
+      "upstream": null
+    },
+    {
+      "path": "WantedSans-Black.ttf",
+      "bytes": 2350312,
+      "sha256": "02092d69b9518a541eb2dd96037e50f2a2d660bbf3168f987f38fa9718cf362b",
+      "upstream": null
+    },
+    {
+      "path": "WantedSans-ExtraBlack.ttf",
+      "bytes": 2372768,
+      "sha256": "ede63d59b0a60a07123afb84a89d1322743d358d28c8db3dbf04acd9688e1f17",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4394,
+      "sha256": "db345ad0216d0b73ba5dd3a540507281da6695f234e0a4e70cf2e1a8f30d4331"
+    }
+  ],
+  "font": {
+    "familyId": "wanted-sans",
+    "faces": [
+      {
+        "file": "WantedSans-Regular.ttf",
+        "family": "Wanted Sans",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "WantedSans-Bold.ttf",
+        "family": "Wanted Sans",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "file": "WantedSans-Black.ttf",
+        "family": "Wanted Sans",
+        "weight": 900,
+        "style": "normal"
+      },
+      {
+        "file": "WantedSans-ExtraBlack.ttf",
+        "family": "Wanted Sans ExtraBlack",
+        "weight": 950,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 52,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

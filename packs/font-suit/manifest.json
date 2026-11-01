@@ -1,0 +1,101 @@
+{
+  "schema": 1,
+  "id": "font-suit",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "수트",
+    "en": "SUIT"
+  },
+  "description": {
+    "ko": "고딕 · 한글 전체",
+    "en": "Sans serif · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2022, SUNN (http://sun.fo/suit), with Reserved Font Name SUIT.",
+    "reservedFontNames": [
+      "SUIT"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "SUNN",
+    "url": "https://github.com/sun-typeface/SUIT"
+  },
+  "source": {
+    "origin": "sun-typeface/SUIT v2.0.5",
+    "manifestEntry": "suit"
+  },
+  "minAppSchema": 1,
+  "bytes": 2358660,
+  "files": [
+    {
+      "path": "SUIT-Regular.ttf",
+      "bytes": 594324,
+      "sha256": "88c94c990b9996c558666ef07c11664ab177c3be191e2846950b48f245d02274",
+      "upstream": null
+    },
+    {
+      "path": "SUIT-Bold.ttf",
+      "bytes": 589892,
+      "sha256": "e9b000dcc7a21bc82289fa7d159119ed6dbae621fabdb2553a104394a208e23d",
+      "upstream": null
+    },
+    {
+      "path": "SUIT-ExtraBold.ttf",
+      "bytes": 586272,
+      "sha256": "4603d335820213dd248c545c2f5d54041d047022039932e6133a9032027e3862",
+      "upstream": null
+    },
+    {
+      "path": "SUIT-Heavy.ttf",
+      "bytes": 583792,
+      "sha256": "9dbd449ccaeb26bc154d66fa6a8d8a9089a00abdf4f556707031c710ab1b46f9",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4380,
+      "sha256": "30d101ee3c35ef629d622d933d261a27b2f60223e0a3b0f36791e569c2b9daa9"
+    }
+  ],
+  "font": {
+    "familyId": "suit",
+    "faces": [
+      {
+        "file": "SUIT-Regular.ttf",
+        "family": "SUIT",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "SUIT-Bold.ttf",
+        "family": "SUIT",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "file": "SUIT-ExtraBold.ttf",
+        "family": "SUIT",
+        "weight": 800,
+        "style": "normal"
+      },
+      {
+        "file": "SUIT-Heavy.ttf",
+        "family": "SUIT",
+        "weight": 900,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 51,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

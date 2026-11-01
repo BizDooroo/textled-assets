@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-bebas-neue",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Bebas Neue",
+    "en": "Bebas Neue"
+  },
+  "description": {
+    "ko": "고딕 · 라틴 전용",
+    "en": "Sans serif · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright © 2010 by Dharma Type.",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "Dharma Type",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/bebasneue"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "bebas-neue"
+  },
+  "minAppSchema": 1,
+  "bytes": 65737,
+  "files": [
+    {
+      "path": "BebasNeue-Regular.ttf",
+      "bytes": 61400,
+      "sha256": "08e4623805102d819f58601e46e345648846075e363b2ceb23313c2d1c83ec73",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/bebasneue/BebasNeue-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4337,
+      "sha256": "72082f6cb4d04be2ecf7cc7d9e1e7d73787f0af8a5a278a47cade70c16b78341"
+    }
+  ],
+  "font": {
+    "familyId": "bebas-neue",
+    "faces": [
+      {
+        "file": "BebasNeue-Regular.ttf",
+        "family": "Bebas Neue",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

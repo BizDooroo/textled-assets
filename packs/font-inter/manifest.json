@@ -1,0 +1,95 @@
+{
+  "schema": 1,
+  "id": "font-inter",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Inter",
+    "en": "Inter"
+  },
+  "description": {
+    "ko": "고딕 · 라틴 전용",
+    "en": "Sans serif · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Inter Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/inter"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "inter"
+  },
+  "minAppSchema": 1,
+  "bytes": 1787549,
+  "files": [
+    {
+      "path": "Inter[opsz,wght].ttf",
+      "bytes": 876576,
+      "sha256": "29160a80ff49ddcab2c97711247e08b1fab27a484a329ce8b813d820dc559031",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/inter/Inter%5Bopsz%2Cwght%5D.ttf"
+    },
+    {
+      "path": "Inter-Italic[opsz,wght].ttf",
+      "bytes": 906596,
+      "sha256": "acd98e64795781b2058f07b18475e0ecee2a0fe2b42a49e2f9e37d0d6bf66ce6",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/inter/Inter-Italic%5Bopsz%2Cwght%5D.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4377,
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    }
+  ],
+  "font": {
+    "familyId": "inter",
+    "faces": [
+      {
+        "file": "Inter[opsz,wght].ttf",
+        "family": "Inter",
+        "weight": 400,
+        "style": "normal",
+        "axes": {
+          "opsz": [
+            14,
+            32
+          ],
+          "wght": [
+            100,
+            900
+          ]
+        }
+      },
+      {
+        "file": "Inter-Italic[opsz,wght].ttf",
+        "family": "Inter",
+        "weight": 400,
+        "style": "italic",
+        "axes": {
+          "opsz": [
+            14,
+            32
+          ],
+          "wght": [
+            100,
+            900
+          ]
+        }
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "gothic",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}
