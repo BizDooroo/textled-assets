@@ -15,7 +15,10 @@ the app reads them through jsDelivr at the pinned tag (`https://cdn.jsdelivr.net
 | fonts-display | `fonts-display-v2026.11.01-1` | 21 | 34.0 |
 | fonts-pixel | `fonts-pixel-v2026.11.01-1` | 10 | 32.0 |
 | fonts-mono-led-neon | `fonts-mono-led-neon-v2026.11.01-2` | 11 | 18.4 |
-| catalog | `catalog-v2026.11.01-2` | index | — |
+| phrases | `phrases-v2026.11.02-1` | 6 | 0.1 |
+| backgrounds | `backgrounds-v2026.11.02-1` | 4 | 0.8 |
+| looks | `looks-v2026.11.02-1` | 2 | 0.1 |
+| catalog | `catalog-v2026.11.02-1` | index | — |
 
 ## Not published
 
