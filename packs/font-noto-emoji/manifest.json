@@ -2,14 +2,14 @@
   "schema": 1,
   "id": "font-noto-emoji",
   "type": "font",
-  "version": "2026.11.01-1",
+  "version": "2026.11.01-2",
   "title": {
     "ko": "Noto Emoji",
     "en": "Noto Emoji"
   },
   "description": {
-    "ko": "이모지 · 라틴 전용",
-    "en": "Emoji · Latin only"
+    "ko": "이모지 · 흑백",
+    "en": "Emoji · monochrome"
   },
   "license": {
     "spdx": "OFL-1.1",
