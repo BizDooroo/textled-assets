@@ -1,0 +1,2318 @@
+{
+  "schema": 1,
+  "generated": "2026-11-01T13:34:12Z",
+  "repo": "BizDooroo/textled-assets",
+  "tag": "catalog-v2026.11.01-1",
+  "packs": [
+    {
+      "id": "font-asta-sans",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-gothic-b-v2026.11.01-1",
+      "path": "packs/font-asta-sans",
+      "manifestSha256": "2284c4a844166f914817f347dcf8575e3934295c23b64dbfa93cb1081c80021d",
+      "bytes": 5776161,
+      "downloadBytes": 5776161,
+      "title": {
+        "ko": "Asta Sans",
+        "en": "Asta Sans"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-asta-sans.webp",
+      "font": {
+        "familyId": "asta-sans",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 94,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-bagel-fat-one",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-bagel-fat-one",
+      "manifestSha256": "9266e53175aa43575a031af1f09da452fcfec50de21e0b92b4b97ca8a4ff8d37",
+      "bytes": 1590469,
+      "downloadBytes": 1590469,
+      "title": {
+        "ko": "Bagel Fat One",
+        "en": "Bagel Fat One"
+      },
+      "tags": [
+        "display",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-bagel-fat-one.webp",
+      "font": {
+        "familyId": "bagel-fat-one",
+        "category": "display",
+        "hangulSyllables": 2783,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-black-and-white-picture",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-black-and-white-picture",
+      "manifestSha256": "d0032d2f786e2d29f002b3fedea72566021094e3e9fcff0b7c48a166ad7c5b6b",
+      "bytes": 9610726,
+      "downloadBytes": 9610726,
+      "title": {
+        "ko": "흑백사진",
+        "en": "Black And White Picture"
+      },
+      "tags": [
+        "display",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-black-and-white-picture.webp",
+      "font": {
+        "familyId": "black-and-white-picture",
+        "category": "display",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-black-han-sans",
+      "type": "font",
+      "version": "2026.10.31-1",
+      "tag": null,
+      "path": "packs/font-black-han-sans",
+      "manifestSha256": "53a9bdbd3a1a590fc517d4dd89c4ee8c1e86352448d26024e93cc8156e15ea9c",
+      "bytes": 1002823,
+      "downloadBytes": 0,
+      "title": {
+        "ko": "검은고딕",
+        "en": "Black Han Sans"
+      },
+      "tags": [
+        "gothic",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-black-han-sans.webp",
+      "font": {
+        "familyId": "black-han-sans",
+        "category": "gothic",
+        "hangulSyllables": 2581,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      },
+      "builtin": true
+    },
+    {
+      "id": "font-cute-font",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-cute-font",
+      "manifestSha256": "3a168df5a6b4661b34a34f5b91c997172079fea13b1f67ae23ccd0249bcdb72c",
+      "bytes": 1032284,
+      "downloadBytes": 1032284,
+      "title": {
+        "ko": "귀여운 폰트",
+        "en": "Cute Font"
+      },
+      "tags": [
+        "display",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-cute-font.webp",
+      "font": {
+        "familyId": "cute-font",
+        "category": "display",
+        "hangulSyllables": 2350,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-diphylleia",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-serif-v2026.11.01-1",
+      "path": "packs/font-diphylleia",
+      "manifestSha256": "525e9ad4536dd9a087cc7163df49ae98d36604d8f54428386eee3178e95e0cc8",
+      "bytes": 1952256,
+      "downloadBytes": 1952256,
+      "title": {
+        "ko": "Diphylleia",
+        "en": "Diphylleia"
+      },
+      "tags": [
+        "serif",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-diphylleia.webp",
+      "font": {
+        "familyId": "diphylleia",
+        "category": "serif",
+        "hangulSyllables": 2781,
+        "hangulCompatJamo": 50,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-do-hyeon",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-gothic-c-v2026.11.01-1",
+      "path": "packs/font-do-hyeon",
+      "manifestSha256": "72330f93bbfff8fd28f229b899f2d54f3b642f72159824a6344f9ff58367172c",
+      "bytes": 884111,
+      "downloadBytes": 884111,
+      "title": {
+        "ko": "도현",
+        "en": "Do Hyeon"
+      },
+      "tags": [
+        "gothic",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-do-hyeon.webp",
+      "font": {
+        "familyId": "do-hyeon",
+        "category": "gothic",
+        "hangulSyllables": 2437,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-dokdo",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-dokdo",
+      "manifestSha256": "275acc4f8444016e464dc01395d81756c69241eb9554adb1ca05aaca1c177b18",
+      "bytes": 2155217,
+      "downloadBytes": 2155217,
+      "title": {
+        "ko": "독도",
+        "en": "Dokdo"
+      },
+      "tags": [
+        "display",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-dokdo.webp",
+      "font": {
+        "familyId": "dokdo",
+        "category": "display",
+        "hangulSyllables": 2350,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-dongle",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-gothic-b-v2026.11.01-1",
+      "path": "packs/font-dongle",
+      "manifestSha256": "db558007f7f4041220ab233954e11b62e76c3c8d5bc9a97690d8e89b8b70b479",
+      "bytes": 13328582,
+      "downloadBytes": 13328582,
+      "title": {
+        "ko": "동글",
+        "en": "Dongle"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-dongle.webp",
+      "font": {
+        "familyId": "dongle",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-east-sea-dokdo",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-handwriting-a-v2026.11.01-1",
+      "path": "packs/font-east-sea-dokdo",
+      "manifestSha256": "14faf9b3d7a5f2cdd115ef9249a6c851959b257f8a985d9217bdade0497c88d9",
+      "bytes": 3183038,
+      "downloadBytes": 3183038,
+      "title": {
+        "ko": "대한민국독도",
+        "en": "East Sea Dokdo"
+      },
+      "tags": [
+        "handwriting",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-east-sea-dokdo.webp",
+      "font": {
+        "familyId": "east-sea-dokdo",
+        "category": "handwriting",
+        "hangulSyllables": 2484,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-gaegu",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-handwriting-b-v2026.11.01-1",
+      "path": "packs/font-gaegu",
+      "manifestSha256": "ada6e28d98c812e8bccddc2de743ac24ade28a0d8d22ef45ac7fa82bef304ed5",
+      "bytes": 9345828,
+      "downloadBytes": 9345828,
+      "title": {
+        "ko": "개구쟁이",
+        "en": "Gaegu"
+      },
+      "tags": [
+        "handwriting",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-gaegu.webp",
+      "font": {
+        "familyId": "gaegu",
+        "category": "handwriting",
+        "hangulSyllables": 2350,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-gamja-flower",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-handwriting-a-v2026.11.01-1",
+      "path": "packs/font-gamja-flower",
+      "manifestSha256": "7fa4535e55a01ac1073df98095e5f0f26a6ec65d010d09573e0afa5487e184cf",
+      "bytes": 12619798,
+      "downloadBytes": 12619798,
+      "title": {
+        "ko": "감자꽃마을",
+        "en": "Gamja Flower"
+      },
+      "tags": [
+        "handwriting",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-gamja-flower.webp",
+      "font": {
+        "familyId": "gamja-flower",
+        "category": "handwriting",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-gasoek-one",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-gothic-c-v2026.11.01-1",
+      "path": "packs/font-gasoek-one",
+      "manifestSha256": "8ba25d235d7cc8255c1bc17321708a61cf7d672d0fbb17aac0216f1e5b610770",
+      "bytes": 1065852,
+      "downloadBytes": 1065852,
+      "title": {
+        "ko": "가석",
+        "en": "Gasoek One"
+      },
+      "tags": [
+        "gothic",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-gasoek-one.webp",
+      "font": {
+        "familyId": "gasoek-one",
+        "category": "gothic",
+        "hangulSyllables": 2780,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-gothic-a1",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-a-v2026.11.01-2",
+      "path": "packs/font-gothic-a1",
+      "manifestSha256": "434a65d8195e96b75dab02c312e5a68225178b842991b8ab1850f3c335a7f560",
+      "bytes": 20610911,
+      "downloadBytes": 20610911,
+      "title": {
+        "ko": "고딕 A1",
+        "en": "Gothic A1"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-gothic-a1.webp",
+      "font": {
+        "familyId": "gothic-a1",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 94,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-gowun-batang",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-serif-v2026.11.01-1",
+      "path": "packs/font-gowun-batang",
+      "manifestSha256": "5c29aae8da6fae6db86a66b073451af8bbd9fa0bad4053c17c647cc09c29149f",
+      "bytes": 16616405,
+      "downloadBytes": 16616405,
+      "title": {
+        "ko": "고운바탕",
+        "en": "Gowun Batang"
+      },
+      "tags": [
+        "serif",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-gowun-batang.webp",
+      "font": {
+        "familyId": "gowun-batang",
+        "category": "serif",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 94,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-gowun-dodum",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-gothic-c-v2026.11.01-1",
+      "path": "packs/font-gowun-dodum",
+      "manifestSha256": "07bf5477a9f2a75fcfd520f752bc9f5181ecd37805e63936bfc2c7ae750bd03c",
+      "bytes": 7233483,
+      "downloadBytes": 7233483,
+      "title": {
+        "ko": "고운돋움",
+        "en": "Gowun Dodum"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-gowun-dodum.webp",
+      "font": {
+        "familyId": "gowun-dodum",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 94,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-grandiflora-one",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-serif-v2026.11.01-1",
+      "path": "packs/font-grandiflora-one",
+      "manifestSha256": "00c9af8027841782972bb1e1dc88d4dd3573f7973678d398328a9d3faaff2ee1",
+      "bytes": 2347170,
+      "downloadBytes": 2347170,
+      "title": {
+        "ko": "Grandiflora One",
+        "en": "Grandiflora One"
+      },
+      "tags": [
+        "serif",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-grandiflora-one.webp",
+      "font": {
+        "familyId": "grandiflora-one",
+        "category": "serif",
+        "hangulSyllables": 2787,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-gugi",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-gugi",
+      "manifestSha256": "6b6acb1c4c6133103eb91a597d410c9324e6f6da6912cc081e3e86cd45c7bc05",
+      "bytes": 995230,
+      "downloadBytes": 995230,
+      "title": {
+        "ko": "구기",
+        "en": "Gugi"
+      },
+      "tags": [
+        "display",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-gugi.webp",
+      "font": {
+        "familyId": "gugi",
+        "category": "display",
+        "hangulSyllables": 2350,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-hahmlet",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-serif-v2026.11.01-1",
+      "path": "packs/font-hahmlet",
+      "manifestSha256": "1834a1738bf95f24124f0783352622972288648dd1568a30519a733b0bcb35a1",
+      "bytes": 3563621,
+      "downloadBytes": 3563621,
+      "title": {
+        "ko": "함렡",
+        "en": "Hahmlet"
+      },
+      "tags": [
+        "serif",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-hahmlet.webp",
+      "font": {
+        "familyId": "hahmlet",
+        "category": "serif",
+        "hangulSyllables": 2788,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-hi-melody",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-handwriting-a-v2026.11.01-1",
+      "path": "packs/font-hi-melody",
+      "manifestSha256": "eb65b161a00385583ea0ce4b522568c48201275c36e454ff0ec4c5ee8444a7d9",
+      "bytes": 12627766,
+      "downloadBytes": 12627766,
+      "title": {
+        "ko": "하이멜로디",
+        "en": "Hi Melody"
+      },
+      "tags": [
+        "handwriting",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-hi-melody.webp",
+      "font": {
+        "familyId": "hi-melody",
+        "category": "handwriting",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-ibm-plex-sans-kr",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-a-v2026.11.01-2",
+      "path": "packs/font-ibm-plex-sans-kr",
+      "manifestSha256": "894b1057d3d53271bff903c8fc09da28f108bf17834be75f20a67eb568d145f7",
+      "bytes": 19582764,
+      "downloadBytes": 19582764,
+      "title": {
+        "ko": "IBM Plex Sans KR",
+        "en": "IBM Plex Sans KR"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-ibm-plex-sans-kr.webp",
+      "font": {
+        "familyId": "ibm-plex-sans-kr",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 94,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-jua",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-gothic-c-v2026.11.01-1",
+      "path": "packs/font-jua",
+      "manifestSha256": "7d71412488926fba8063e9e8bbc6e3d77e5d78903c298291c7854101d84fd63e",
+      "bytes": 2123694,
+      "downloadBytes": 2123694,
+      "title": {
+        "ko": "주아",
+        "en": "Jua"
+      },
+      "tags": [
+        "gothic",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-jua.webp",
+      "font": {
+        "familyId": "jua",
+        "category": "gothic",
+        "hangulSyllables": 2367,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-kirang-haerang",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-kirang-haerang",
+      "manifestSha256": "41e400201e21676e6a7c020847210c671ff1454d55626c609fb658aeac5ba6cb",
+      "bytes": 5999961,
+      "downloadBytes": 5999961,
+      "title": {
+        "ko": "기랑해랑",
+        "en": "Kirang Haerang"
+      },
+      "tags": [
+        "display",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-kirang-haerang.webp",
+      "font": {
+        "familyId": "kirang-haerang",
+        "category": "display",
+        "hangulSyllables": 2479,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-moirai-one",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-moirai-one",
+      "manifestSha256": "b810f7dafdad57485d8130093ccef5c96e3064fca30802fa275566e1eeb35831",
+      "bytes": 2106608,
+      "downloadBytes": 2106608,
+      "title": {
+        "ko": "Moirai One",
+        "en": "Moirai One"
+      },
+      "tags": [
+        "display",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-moirai-one.webp",
+      "font": {
+        "familyId": "moirai-one",
+        "category": "display",
+        "hangulSyllables": 2780,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-nanum-brush-script",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-handwriting-a-v2026.11.01-1",
+      "path": "packs/font-nanum-brush-script",
+      "manifestSha256": "e79895694f61509fabbf0c02e9b3185a553ac9b591532d2eb7eb915feb40785c",
+      "bytes": 3569338,
+      "downloadBytes": 3569338,
+      "title": {
+        "ko": "나눔손글씨 붓",
+        "en": "Nanum Brush Script"
+      },
+      "tags": [
+        "handwriting",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-nanum-brush-script.webp",
+      "font": {
+        "familyId": "nanum-brush-script",
+        "category": "handwriting",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-nanum-gothic",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-nanum-gothic",
+      "manifestSha256": "c2c895be27042bbc96dd2aa94f76a340494a53bd209126b7fed24bcee9a3da50",
+      "bytes": 6245866,
+      "downloadBytes": 6245866,
+      "title": {
+        "ko": "나눔고딕",
+        "en": "Nanum Gothic"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-nanum-gothic.webp",
+      "font": {
+        "familyId": "nanum-gothic",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-nanum-gothic-coding",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-mono-led-neon-v2026.11.01-2",
+      "path": "packs/font-nanum-gothic-coding",
+      "manifestSha256": "9fafbb67ce9eab982f6e0f382f2168982f8bcc9250a95cdb80d5e0cf8f75998f",
+      "bytes": 4566698,
+      "downloadBytes": 4566698,
+      "title": {
+        "ko": "나눔고딕코딩",
+        "en": "Nanum Gothic Coding"
+      },
+      "tags": [
+        "mono",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-nanum-gothic-coding.webp",
+      "font": {
+        "familyId": "nanum-gothic-coding",
+        "category": "mono",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 94,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-nanum-myeongjo",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-serif-v2026.11.01-1",
+      "path": "packs/font-nanum-myeongjo",
+      "manifestSha256": "57ab6de94fc24a835d4d97524175727f071fb7d05265ebce9c21027c3def8cf6",
+      "bytes": 9318513,
+      "downloadBytes": 9318513,
+      "title": {
+        "ko": "나눔명조",
+        "en": "Nanum Myeongjo"
+      },
+      "tags": [
+        "serif",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-nanum-myeongjo.webp",
+      "font": {
+        "familyId": "nanum-myeongjo",
+        "category": "serif",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-nanum-pen-script",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-handwriting-b-v2026.11.01-1",
+      "path": "packs/font-nanum-pen-script",
+      "manifestSha256": "8ca18d97e671a3d8c4e8fe3b774cd19729ce90c57a14e30cbb8ac1fee85d7662",
+      "bytes": 3206198,
+      "downloadBytes": 3206198,
+      "title": {
+        "ko": "나눔손글씨 펜",
+        "en": "Nanum Pen Script"
+      },
+      "tags": [
+        "handwriting",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-nanum-pen-script.webp",
+      "font": {
+        "familyId": "nanum-pen-script",
+        "category": "handwriting",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-noto-sans-kr",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-gothic-b-v2026.11.01-1",
+      "path": "packs/font-noto-sans-kr",
+      "manifestSha256": "e29c429494675468ac24e48a5e5838c5a461801481e574c9a5e4a1332a8f653d",
+      "bytes": 10418976,
+      "downloadBytes": 10418976,
+      "title": {
+        "ko": "Noto Sans KR",
+        "en": "Noto Sans KR"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-noto-sans-kr.webp",
+      "font": {
+        "familyId": "noto-sans-kr",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 94,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-orbit",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-gothic-c-v2026.11.01-1",
+      "path": "packs/font-orbit",
+      "manifestSha256": "8a5f083d6d73671a9a0e6743ece10c0947f841016edbbf132d5b33f9096c9b55",
+      "bytes": 788958,
+      "downloadBytes": 788958,
+      "title": {
+        "ko": "Orbit",
+        "en": "Orbit"
+      },
+      "tags": [
+        "gothic",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-orbit.webp",
+      "font": {
+        "familyId": "orbit",
+        "category": "gothic",
+        "hangulSyllables": 2780,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-poor-story",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-poor-story",
+      "manifestSha256": "0c6143fb4ddee239d195e0e32ef8a480a209638d6ed02c1d0a948d68fd53b520",
+      "bytes": 3971122,
+      "downloadBytes": 3971122,
+      "title": {
+        "ko": "서툰이야기",
+        "en": "Poor Story"
+      },
+      "tags": [
+        "display",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-poor-story.webp",
+      "font": {
+        "familyId": "poor-story",
+        "category": "display",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-single-day",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-single-day",
+      "manifestSha256": "1892ca686c318de7ea11e925a169a824524d5defab14602a04bca56e5730fae1",
+      "bytes": 820876,
+      "downloadBytes": 820876,
+      "title": {
+        "ko": "싱글데이",
+        "en": "Single Day"
+      },
+      "tags": [
+        "display",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-single-day.webp",
+      "font": {
+        "familyId": "single-day",
+        "category": "display",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-song-myung",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-serif-v2026.11.01-1",
+      "path": "packs/font-song-myung",
+      "manifestSha256": "d2be457c04d33d5834c473a07159a26b20dd76d945bafa37a68587cd77f3545a",
+      "bytes": 2039648,
+      "downloadBytes": 2039648,
+      "title": {
+        "ko": "송명",
+        "en": "Song Myung"
+      },
+      "tags": [
+        "serif",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-song-myung.webp",
+      "font": {
+        "familyId": "song-myung",
+        "category": "serif",
+        "hangulSyllables": 2350,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-stylish",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-gothic-b-v2026.11.01-1",
+      "path": "packs/font-stylish",
+      "manifestSha256": "d929a051ccd43f690181464a591efacaf90528ae29d31285c4a20058cb22f587",
+      "bytes": 10858378,
+      "downloadBytes": 10858378,
+      "title": {
+        "ko": "스타일리쉬",
+        "en": "Stylish"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-stylish.webp",
+      "font": {
+        "familyId": "stylish",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-sunflower",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-sunflower",
+      "manifestSha256": "e16d369b77072e78eb3d19ffff8f54e753e913cb56193f5784d063857cd47f49",
+      "bytes": 2279516,
+      "downloadBytes": 2279516,
+      "title": {
+        "ko": "Sunflower",
+        "en": "Sunflower"
+      },
+      "tags": [
+        "gothic",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-sunflower.webp",
+      "font": {
+        "familyId": "sunflower",
+        "category": "gothic",
+        "hangulSyllables": 2350,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-yeon-sung",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-yeon-sung",
+      "manifestSha256": "e4833cdc9c6f47e69e5c79461da17beb7873cbc8361098939aedfcbe69672457",
+      "bytes": 2515354,
+      "downloadBytes": 2515354,
+      "title": {
+        "ko": "연성",
+        "en": "Yeon Sung"
+      },
+      "tags": [
+        "display",
+        "hangul-partial"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-yeon-sung.webp",
+      "font": {
+        "familyId": "yeon-sung",
+        "category": "display",
+        "hangulSyllables": 2436,
+        "hangulCompatJamo": 93,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-doto",
+      "type": "font",
+      "version": "2026.10.31-1",
+      "tag": null,
+      "path": "packs/font-doto",
+      "manifestSha256": "71a82e8263bae5d74991f5da3f873cd8e5930c37988901d04fe86f4051eac0b6",
+      "bytes": 461306,
+      "downloadBytes": 0,
+      "title": {
+        "ko": "Doto",
+        "en": "Doto"
+      },
+      "tags": [
+        "led",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-doto.webp",
+      "font": {
+        "familyId": "doto",
+        "category": "led",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      },
+      "builtin": true
+    },
+    {
+      "id": "font-dotgothic16",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-mono-led-neon-v2026.11.01-2",
+      "path": "packs/font-dotgothic16",
+      "manifestSha256": "507f5d824f9f514e5684f8cb3f11c510e803c67054e4ab422823988ee23feb99",
+      "bytes": 2073728,
+      "downloadBytes": 2073728,
+      "title": {
+        "ko": "DotGothic16",
+        "en": "DotGothic16"
+      },
+      "tags": [
+        "led",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-dotgothic16.webp",
+      "font": {
+        "familyId": "dotgothic16",
+        "category": "led",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-silkscreen",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-pixel-v2026.11.01-1",
+      "path": "packs/font-silkscreen",
+      "manifestSha256": "3c731123b43d02e1e76824044208f512a457dbc722ab896e3c0c052a44aa1929",
+      "bytes": 67246,
+      "downloadBytes": 67246,
+      "title": {
+        "ko": "Silkscreen",
+        "en": "Silkscreen"
+      },
+      "tags": [
+        "pixel",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-silkscreen.webp",
+      "font": {
+        "familyId": "silkscreen",
+        "category": "pixel",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-pixelify-sans",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-pixel-v2026.11.01-1",
+      "path": "packs/font-pixelify-sans",
+      "manifestSha256": "619ffe8778fc0288bb073ccb20d0428021eb0f9eac427595e6847a92c948d775",
+      "bytes": 83648,
+      "downloadBytes": 83648,
+      "title": {
+        "ko": "Pixelify Sans",
+        "en": "Pixelify Sans"
+      },
+      "tags": [
+        "pixel",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-pixelify-sans.webp",
+      "font": {
+        "familyId": "pixelify-sans",
+        "category": "pixel",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-press-start-2p",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-pixel-v2026.11.01-1",
+      "path": "packs/font-press-start-2p",
+      "manifestSha256": "b642999d1e49c92755aa4afffb687e542fcccd14bf2b4d69e45ea5b9c89f532f",
+      "bytes": 122617,
+      "downloadBytes": 122617,
+      "title": {
+        "ko": "Press Start 2P",
+        "en": "Press Start 2P"
+      },
+      "tags": [
+        "pixel",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-press-start-2p.webp",
+      "font": {
+        "familyId": "press-start-2p",
+        "category": "pixel",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": [
+          8
+        ]
+      }
+    },
+    {
+      "id": "font-vt323",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-pixel-v2026.11.01-1",
+      "path": "packs/font-vt323",
+      "manifestSha256": "4d9849e4a6357ab13fd9ce88506116a28cc374a57213294ab9befb7c27b508e7",
+      "bytes": 157483,
+      "downloadBytes": 157483,
+      "title": {
+        "ko": "VT323",
+        "en": "VT323"
+      },
+      "tags": [
+        "pixel",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-vt323.webp",
+      "font": {
+        "familyId": "vt323",
+        "category": "pixel",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-tiny5",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-pixel-v2026.11.01-1",
+      "path": "packs/font-tiny5",
+      "manifestSha256": "e867a3a9af6c8e2e09957b229bda75cd291aabd81503ec0f37f937a5a2b45d77",
+      "bytes": 871649,
+      "downloadBytes": 871649,
+      "title": {
+        "ko": "Tiny5",
+        "en": "Tiny5"
+      },
+      "tags": [
+        "pixel",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-tiny5.webp",
+      "font": {
+        "familyId": "tiny5",
+        "category": "pixel",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-micro-5",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-pixel-v2026.11.01-1",
+      "path": "packs/font-micro-5",
+      "manifestSha256": "4cfcaec3b790f44125259420ac4476eb9f647c3574b17801210a0766a38e0861",
+      "bytes": 58330,
+      "downloadBytes": 58330,
+      "title": {
+        "ko": "Micro 5",
+        "en": "Micro 5"
+      },
+      "tags": [
+        "pixel",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-micro-5.webp",
+      "font": {
+        "familyId": "micro-5",
+        "category": "pixel",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": [
+          11
+        ]
+      }
+    },
+    {
+      "id": "font-jersey-10",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-pixel-v2026.11.01-1",
+      "path": "packs/font-jersey-10",
+      "manifestSha256": "cb3c06cb5c0338ac8eb84f910a8a9144956c3507e7bcee1e630b3b4c4a98f601",
+      "bytes": 82127,
+      "downloadBytes": 82127,
+      "title": {
+        "ko": "Jersey 10",
+        "en": "Jersey 10"
+      },
+      "tags": [
+        "pixel",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-jersey-10.webp",
+      "font": {
+        "familyId": "jersey-10",
+        "category": "pixel",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": [
+          20
+        ]
+      }
+    },
+    {
+      "id": "font-sixtyfour",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-mono-led-neon-v2026.11.01-2",
+      "path": "packs/font-sixtyfour",
+      "manifestSha256": "9aa1479a8ee7eeadb3eaadc7cae92dfadd57d18f76edc5cab5af9f324d56eeda",
+      "bytes": 75937,
+      "downloadBytes": 75937,
+      "title": {
+        "ko": "Sixtyfour",
+        "en": "Sixtyfour"
+      },
+      "tags": [
+        "led",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-sixtyfour.webp",
+      "font": {
+        "familyId": "sixtyfour",
+        "category": "led",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-workbench",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-pixel-v2026.11.01-1",
+      "path": "packs/font-workbench",
+      "manifestSha256": "14dfb948a3f5fc5f64bb159cad0f6fc46208c23314f221b48a4229dc990aa19e",
+      "bytes": 36873,
+      "downloadBytes": 36873,
+      "title": {
+        "ko": "Workbench",
+        "en": "Workbench"
+      },
+      "tags": [
+        "pixel",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-workbench.webp",
+      "font": {
+        "familyId": "workbench",
+        "category": "pixel",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-bungee",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-bungee",
+      "manifestSha256": "3f493ae8c692a46aa60b909cf96c527e54f7be45ccb10d660a121e4199880610",
+      "bytes": 123469,
+      "downloadBytes": 123469,
+      "title": {
+        "ko": "Bungee",
+        "en": "Bungee"
+      },
+      "tags": [
+        "display",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-bungee.webp",
+      "font": {
+        "familyId": "bungee",
+        "category": "display",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-bungee-shade",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-bungee-shade",
+      "manifestSha256": "e114d5ca0c01c3b97791d0e000d16f59f662beb451271aea5b368af502434292",
+      "bytes": 309409,
+      "downloadBytes": 309409,
+      "title": {
+        "ko": "Bungee Shade",
+        "en": "Bungee Shade"
+      },
+      "tags": [
+        "display",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-bungee-shade.webp",
+      "font": {
+        "familyId": "bungee-shade",
+        "category": "display",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-monoton",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-mono-led-neon-v2026.11.01-2",
+      "path": "packs/font-monoton",
+      "manifestSha256": "417fe9b9a53d10762841960aef03ef4e6a95855b6c71243a18f39f1e055b7bbf",
+      "bytes": 56005,
+      "downloadBytes": 56005,
+      "title": {
+        "ko": "Monoton",
+        "en": "Monoton"
+      },
+      "tags": [
+        "neon",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-monoton.webp",
+      "font": {
+        "familyId": "monoton",
+        "category": "neon",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-orbitron",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-orbitron",
+      "manifestSha256": "d09f0bc4205ae820c26c28bc668315741d1f6985a0eafd8256cb69071eb14947",
+      "bytes": 43002,
+      "downloadBytes": 43002,
+      "title": {
+        "ko": "Orbitron",
+        "en": "Orbitron"
+      },
+      "tags": [
+        "gothic",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-orbitron.webp",
+      "font": {
+        "familyId": "orbitron",
+        "category": "gothic",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-audiowide",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-audiowide",
+      "manifestSha256": "7f47f696d955f546548e61695b2f43d3ec0c1a9bc2d56de7e584de9cdbcc497a",
+      "bytes": 74346,
+      "downloadBytes": 74346,
+      "title": {
+        "ko": "Audiowide",
+        "en": "Audiowide"
+      },
+      "tags": [
+        "display",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-audiowide.webp",
+      "font": {
+        "familyId": "audiowide",
+        "category": "display",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-righteous",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-righteous",
+      "manifestSha256": "8fcc91090e2bbd2943dcb7b6ef78f2e9270e5943fc9eb0bd1c8892e93a2338ec",
+      "bytes": 47536,
+      "downloadBytes": 47536,
+      "title": {
+        "ko": "Righteous",
+        "en": "Righteous"
+      },
+      "tags": [
+        "display",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-righteous.webp",
+      "font": {
+        "familyId": "righteous",
+        "category": "display",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-bebas-neue",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-bebas-neue",
+      "manifestSha256": "afee23b0f2fa3896cebc4a0a42040a07e23d5614b5f5be0a17734d56ab42406e",
+      "bytes": 65737,
+      "downloadBytes": 65737,
+      "title": {
+        "ko": "Bebas Neue",
+        "en": "Bebas Neue"
+      },
+      "tags": [
+        "gothic",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-bebas-neue.webp",
+      "font": {
+        "familyId": "bebas-neue",
+        "category": "gothic",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-anton",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-anton",
+      "manifestSha256": "412af56d931c71b3de59564a48a81142d0f7851d5f63721bc15d10f51897e4a9",
+      "bytes": 175296,
+      "downloadBytes": 175296,
+      "title": {
+        "ko": "Anton",
+        "en": "Anton"
+      },
+      "tags": [
+        "gothic",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-anton.webp",
+      "font": {
+        "familyId": "anton",
+        "category": "gothic",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-black-ops-one",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-black-ops-one",
+      "manifestSha256": "01bf464893b16333fbbb1bf1889580f9e295b14363e8ba15b6859e5d0d0a54e3",
+      "bytes": 170943,
+      "downloadBytes": 170943,
+      "title": {
+        "ko": "Black Ops One",
+        "en": "Black Ops One"
+      },
+      "tags": [
+        "display",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-black-ops-one.webp",
+      "font": {
+        "familyId": "black-ops-one",
+        "category": "display",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-russo-one",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-russo-one",
+      "manifestSha256": "2613631faaace012f914af4964da28115fc78c8d2d4737705aea5d403fa10bc2",
+      "bytes": 43514,
+      "downloadBytes": 43514,
+      "title": {
+        "ko": "Russo One",
+        "en": "Russo One"
+      },
+      "tags": [
+        "gothic",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-russo-one.webp",
+      "font": {
+        "familyId": "russo-one",
+        "category": "gothic",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-rubik-mono-one",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-rubik-mono-one",
+      "manifestSha256": "9ff72fef619bbaf6e42108c37db09cf5b654b4fbb25968f9836874fa8fb498d8",
+      "bytes": 145550,
+      "downloadBytes": 145550,
+      "title": {
+        "ko": "Rubik Mono One",
+        "en": "Rubik Mono One"
+      },
+      "tags": [
+        "gothic",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-rubik-mono-one.webp",
+      "font": {
+        "familyId": "rubik-mono-one",
+        "category": "gothic",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-tilt-neon",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-mono-led-neon-v2026.11.01-2",
+      "path": "packs/font-tilt-neon",
+      "manifestSha256": "49ab07d6346ba148fb5375c3b0fab6af89aa4d58e7bf57d10553b95d927564c6",
+      "bytes": 587675,
+      "downloadBytes": 587675,
+      "title": {
+        "ko": "Tilt Neon",
+        "en": "Tilt Neon"
+      },
+      "tags": [
+        "neon",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-tilt-neon.webp",
+      "font": {
+        "familyId": "tilt-neon",
+        "category": "neon",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-neonderthaw",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-mono-led-neon-v2026.11.01-2",
+      "path": "packs/font-neonderthaw",
+      "manifestSha256": "bc38093e82cf3871bf5e65ea80e94b379529ecb0b4ab3eed17a42e77d7634796",
+      "bytes": 280629,
+      "downloadBytes": 280629,
+      "title": {
+        "ko": "Neonderthaw",
+        "en": "Neonderthaw"
+      },
+      "tags": [
+        "neon",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-neonderthaw.webp",
+      "font": {
+        "familyId": "neonderthaw",
+        "category": "neon",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-bungee-spice",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-bungee-spice",
+      "manifestSha256": "366dccaa2679fd11f2f35ede7d442acd30e704b7a3d457925cdb638b5f5be829",
+      "bytes": 1506849,
+      "downloadBytes": 1506849,
+      "title": {
+        "ko": "Bungee Spice",
+        "en": "Bungee Spice"
+      },
+      "tags": [
+        "display",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-bungee-spice.webp",
+      "font": {
+        "familyId": "bungee-spice",
+        "category": "display",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-rubik-glitch",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-rubik-glitch",
+      "manifestSha256": "1354a160883eb91fc1f66bde046a60eb531ae647e1e55c1968c18b52f33d7a92",
+      "bytes": 411710,
+      "downloadBytes": 411710,
+      "title": {
+        "ko": "Rubik Glitch",
+        "en": "Rubik Glitch"
+      },
+      "tags": [
+        "display",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-rubik-glitch.webp",
+      "font": {
+        "familyId": "rubik-glitch",
+        "category": "display",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-major-mono-display",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-mono-led-neon-v2026.11.01-2",
+      "path": "packs/font-major-mono-display",
+      "manifestSha256": "f531bd6d7588123b3865d02bb117bd801bf7e301cedc238b7013f513f05b36cf",
+      "bytes": 131273,
+      "downloadBytes": 131273,
+      "title": {
+        "ko": "Major Mono Display",
+        "en": "Major Mono Display"
+      },
+      "tags": [
+        "mono",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-major-mono-display.webp",
+      "font": {
+        "familyId": "major-mono-display",
+        "category": "mono",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-share-tech-mono",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-mono-led-neon-v2026.11.01-2",
+      "path": "packs/font-share-tech-mono",
+      "manifestSha256": "c9f79ee7eab6efb856c26e265853f73a7e79468e6505498fa9004f792467c563",
+      "bytes": 47701,
+      "downloadBytes": 47701,
+      "title": {
+        "ko": "Share Tech Mono",
+        "en": "Share Tech Mono"
+      },
+      "tags": [
+        "mono",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-share-tech-mono.webp",
+      "font": {
+        "familyId": "share-tech-mono",
+        "category": "mono",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-oxanium",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-oxanium",
+      "manifestSha256": "3b1927ebac78c705b726a7f4af7e6f79b2d61ddfe351c731c84ce730cfc745d3",
+      "bytes": 47920,
+      "downloadBytes": 47920,
+      "title": {
+        "ko": "Oxanium",
+        "en": "Oxanium"
+      },
+      "tags": [
+        "display",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-oxanium.webp",
+      "font": {
+        "familyId": "oxanium",
+        "category": "display",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-chakra-petch",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-chakra-petch",
+      "manifestSha256": "0bd7675bbc81057bbfa524f19310b18c8d1ad36ea161dbfb8c141ed8a08f6bd6",
+      "bytes": 802200,
+      "downloadBytes": 802200,
+      "title": {
+        "ko": "Chakra Petch",
+        "en": "Chakra Petch"
+      },
+      "tags": [
+        "gothic",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-chakra-petch.webp",
+      "font": {
+        "familyId": "chakra-petch",
+        "category": "gothic",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-bowlby-one",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-bowlby-one",
+      "manifestSha256": "cfc36396e932593fbc36988ec31f0abb09c515a326a8e2f4864557afc874776e",
+      "bytes": 64289,
+      "downloadBytes": 64289,
+      "title": {
+        "ko": "Bowlby One",
+        "en": "Bowlby One"
+      },
+      "tags": [
+        "display",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-bowlby-one.webp",
+      "font": {
+        "familyId": "bowlby-one",
+        "category": "display",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-lilita-one",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-lilita-one",
+      "manifestSha256": "3bf20bbe8812bec7ad5c9a429a08bd84454b8fb7f3193f0a9b9c8c0a04b29303",
+      "bytes": 32484,
+      "downloadBytes": 32484,
+      "title": {
+        "ko": "Lilita One",
+        "en": "Lilita One"
+      },
+      "tags": [
+        "display",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-lilita-one.webp",
+      "font": {
+        "familyId": "lilita-one",
+        "category": "display",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-permanent-marker",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-handwriting-b-v2026.11.01-1",
+      "path": "packs/font-permanent-marker",
+      "manifestSha256": "147bed2b3d1deda790d72914f21923f5f4bcef7d7ad473f11634ce19e432f65b",
+      "bytes": 85990,
+      "downloadBytes": 85990,
+      "title": {
+        "ko": "Permanent Marker",
+        "en": "Permanent Marker"
+      },
+      "tags": [
+        "handwriting",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-permanent-marker.webp",
+      "font": {
+        "familyId": "permanent-marker",
+        "category": "handwriting",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-pacifico",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-handwriting-b-v2026.11.01-1",
+      "path": "packs/font-pacifico",
+      "manifestSha256": "835cb58ae8facdef81e93f52d7e987a79b4b8166df0f8f52cce5bd46b232699b",
+      "bytes": 333769,
+      "downloadBytes": 333769,
+      "title": {
+        "ko": "Pacifico",
+        "en": "Pacifico"
+      },
+      "tags": [
+        "handwriting",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-pacifico.webp",
+      "font": {
+        "familyId": "pacifico",
+        "category": "handwriting",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-lobster",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-display-v2026.11.01-1",
+      "path": "packs/font-lobster",
+      "manifestSha256": "4c982c0820509059ad23d7e233a00242518c7831fc0f222bf389af9c5d7e77f6",
+      "bytes": 410506,
+      "downloadBytes": 410506,
+      "title": {
+        "ko": "Lobster",
+        "en": "Lobster"
+      },
+      "tags": [
+        "display",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-lobster.webp",
+      "font": {
+        "familyId": "lobster",
+        "category": "display",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-noto-emoji",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-mono-led-neon-v2026.11.01-2",
+      "path": "packs/font-noto-emoji",
+      "manifestSha256": "9d93a5e572e0c7147ab00c617c83e0d9086ab831c57426cc0dc364b0bc65558d",
+      "bytes": 1986926,
+      "downloadBytes": 1986926,
+      "title": {
+        "ko": "Noto Emoji",
+        "en": "Noto Emoji"
+      },
+      "tags": [
+        "emoji",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-noto-emoji.webp",
+      "font": {
+        "familyId": "noto-emoji",
+        "category": "emoji",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-noto-sans",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-noto-sans",
+      "manifestSha256": "1eaeb019a672dc29329e8702be0ac2a523e1a367ce564fc30cb4d2e89ceae9cc",
+      "bytes": 4376132,
+      "downloadBytes": 4376132,
+      "title": {
+        "ko": "Noto Sans",
+        "en": "Noto Sans"
+      },
+      "tags": [
+        "gothic",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-noto-sans.webp",
+      "font": {
+        "familyId": "noto-sans",
+        "category": "gothic",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-inter",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-inter",
+      "manifestSha256": "725def1c41dd9dd9f9f1de69c9279a2970b0d2a10fa69de6d310ee9b11cc8eab",
+      "bytes": 1787549,
+      "downloadBytes": 1787549,
+      "title": {
+        "ko": "Inter",
+        "en": "Inter"
+      },
+      "tags": [
+        "gothic",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-inter.webp",
+      "font": {
+        "familyId": "inter",
+        "category": "gothic",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-roboto",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-roboto",
+      "manifestSha256": "3bfbca8ba3e7a78989747395afdea2e002288ba9d17d36ceb2c83c2c297fbee9",
+      "bytes": 1023922,
+      "downloadBytes": 1023922,
+      "title": {
+        "ko": "Roboto",
+        "en": "Roboto"
+      },
+      "tags": [
+        "gothic",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-roboto.webp",
+      "font": {
+        "familyId": "roboto",
+        "category": "gothic",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-galmuri",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-pixel-v2026.11.01-1",
+      "path": "packs/font-galmuri",
+      "manifestSha256": "6ec0b18342f7424b45d764c328072288da876eee3a8e01b22023124eb8f6c44b",
+      "bytes": 29851160,
+      "downloadBytes": 29851160,
+      "title": {
+        "ko": "갈무리",
+        "en": "Galmuri"
+      },
+      "tags": [
+        "pixel",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-galmuri.webp",
+      "font": {
+        "familyId": "galmuri",
+        "category": "pixel",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 94,
+        "nativeRows": [
+          14
+        ]
+      }
+    },
+    {
+      "id": "font-neodunggeunmo",
+      "type": "font",
+      "version": "2026.10.31-1",
+      "tag": "fonts-pixel-v2026.11.01-1",
+      "path": "packs/font-neodunggeunmo",
+      "manifestSha256": "2ca966a1877206b91e5f74822348b7815583a0fa9a7ec8617e11d15274d9376c",
+      "bytes": 1310152,
+      "downloadBytes": 659108,
+      "title": {
+        "ko": "Neo둥근모",
+        "en": "NeoDunggeunmo"
+      },
+      "tags": [
+        "pixel",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-neodunggeunmo.webp",
+      "font": {
+        "familyId": "neodunggeunmo",
+        "category": "pixel",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 51,
+        "nativeRows": [
+          16
+        ]
+      },
+      "builtin": "partial"
+    },
+    {
+      "id": "font-pretendard",
+      "type": "font",
+      "version": "2026.10.31-1",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-pretendard",
+      "manifestSha256": "76237544899d793734482970b52dfce9ad8fd0cffd22169de842e51a50bcc46a",
+      "bytes": 10726651,
+      "downloadBytes": 8064899,
+      "title": {
+        "ko": "프리텐다드",
+        "en": "Pretendard"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-pretendard.webp",
+      "font": {
+        "familyId": "pretendard",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 53,
+        "nativeRows": null
+      },
+      "builtin": "partial"
+    },
+    {
+      "id": "font-suit",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-suit",
+      "manifestSha256": "174fbb15d6167343ddf4edef9a8d3139956443291fbe75a6b6b63f6c04065512",
+      "bytes": 2358660,
+      "downloadBytes": 2358660,
+      "title": {
+        "ko": "수트",
+        "en": "SUIT"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-suit.webp",
+      "font": {
+        "familyId": "suit",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 51,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-wanted-sans",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-wanted-sans",
+      "manifestSha256": "38d6ae6a85493025e69df312ba552b4ce68a108b038aeec21dd338740101066f",
+      "bytes": 9473806,
+      "downloadBytes": 9473806,
+      "title": {
+        "ko": "원티드 산스",
+        "en": "Wanted Sans"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-wanted-sans.webp",
+      "font": {
+        "familyId": "wanted-sans",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 52,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-spoqa-han-sans-neo",
+      "type": "font",
+      "version": "2026.11.01-1",
+      "tag": "fonts-gothic-c-v2026.11.01-1",
+      "path": "packs/font-spoqa-han-sans-neo",
+      "manifestSha256": "2e8e5855dead46e26f559429459de12f63bcf79ecdc525a86b6fe71e3b60dec9",
+      "bytes": 26764958,
+      "downloadBytes": 26764958,
+      "title": {
+        "ko": "스포카 한 산스 Neo",
+        "en": "Spoqa Han Sans Neo"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-spoqa-han-sans-neo.webp",
+      "font": {
+        "familyId": "spoqa-han-sans-neo",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 94,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-paperlogy",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-gothic-d-v2026.11.01-2",
+      "path": "packs/font-paperlogy",
+      "manifestSha256": "32b4143e1105282eff42aab73a17a8e6fde15a4dfc7821dc4d462545610808e6",
+      "bytes": 3930124,
+      "downloadBytes": 3930124,
+      "title": {
+        "ko": "페이퍼로지",
+        "en": "Paperlogy"
+      },
+      "tags": [
+        "gothic",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-paperlogy.webp",
+      "font": {
+        "familyId": "paperlogy",
+        "category": "gothic",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 52,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-d2coding",
+      "type": "font",
+      "version": "2026.11.01-2",
+      "tag": "fonts-mono-led-neon-v2026.11.01-2",
+      "path": "packs/font-d2coding",
+      "manifestSha256": "99d153315992d564bfb491bb8448d3df5b54acac8f029edf71d28fab3deffe96",
+      "bytes": 8467583,
+      "downloadBytes": 8467583,
+      "title": {
+        "ko": "D2Coding",
+        "en": "D2Coding"
+      },
+      "tags": [
+        "mono",
+        "hangul-full"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-d2coding.webp",
+      "font": {
+        "familyId": "d2coding",
+        "category": "mono",
+        "hangulSyllables": 11172,
+        "hangulCompatJamo": 94,
+        "nativeRows": null
+      }
+    },
+    {
+      "id": "font-dseg",
+      "type": "font",
+      "version": "2026.10.31-1",
+      "tag": "fonts-mono-led-neon-v2026.11.01-2",
+      "path": "packs/font-dseg",
+      "manifestSha256": "8bceb60f17a2bdada574c57e2c7f5c1fc7a9740d368677dcda698d0cdf302c57",
+      "bytes": 107639,
+      "downloadBytes": 56175,
+      "title": {
+        "ko": "DSEG",
+        "en": "DSEG"
+      },
+      "tags": [
+        "led",
+        "latin-only"
+      ],
+      "minAppSchema": 1,
+      "sample": "samples/font-dseg.webp",
+      "font": {
+        "familyId": "dseg",
+        "category": "led",
+        "hangulSyllables": 0,
+        "hangulCompatJamo": 0,
+        "nativeRows": null
+      },
+      "builtin": "partial"
+    }
+  ]
+}
