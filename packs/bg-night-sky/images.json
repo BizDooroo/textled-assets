@@ -1,0 +1,26 @@
+[
+  {
+    "id": "stars",
+    "file": "stars.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  {
+    "id": "galaxy",
+    "file": "galaxy.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  {
+    "id": "aurora",
+    "file": "aurora.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  {
+    "id": "moon-clouds",
+    "file": "moon-clouds.webp",
+    "w": 1536,
+    "h": 1024
+  }
+]

@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "id": "bg-city-lights",
+  "type": "background",
+  "version": "2026.11.02-1",
+  "title": {
+    "ko": "도시 불빛",
+    "en": "City lights"
+  },
+  "description": {
+    "ko": "흐릿한 밤 도시 불빛 배경",
+    "en": "Blurred city lights at night"
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2026 BizDooroo",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "BizDooroo",
+    "url": "https://github.com/BizDooroo/textled-assets"
+  },
+  "source": {
+    "origin": "BizDooroo",
+    "manifestEntry": "bg-city-lights"
+  },
+  "minAppSchema": 1,
+  "bytes": 268657,
+  "files": [
+    {
+      "path": "images.json",
+      "bytes": 377,
+      "sha256": "15d3663fb734c67cce870d567c1afa5ffcc914d5d6c016b2446290e3bba80d04",
+      "upstream": null
+    },
+    {
+      "path": "warm-bokeh.webp",
+      "bytes": 19632,
+      "sha256": "39e4318a47c626f6d3d8318278a165840b20da2331bb10e9d6bd14058567ae6d",
+      "upstream": null
+    },
+    {
+      "path": "rain-bokeh.webp",
+      "bytes": 163056,
+      "sha256": "a7b26097485a7651dbef1d3e95121f7a5f2cabc1078afb5c05a3a127c5f27ec9",
+      "upstream": null
+    },
+    {
+      "path": "neon-haze.webp",
+      "bytes": 22488,
+      "sha256": "cbd956ec144aeea42d5b846ba1774bb95befa49d7a9a452ef0dc5cdb6ca53cc2",
+      "upstream": null
+    },
+    {
+      "path": "light-trails.webp",
+      "bytes": 43742,
+      "sha256": "44df3503a504eb22d1008158e38d311c3e4ac7f77ab08b905e26dd1ecf21f75a",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 19362,
+      "sha256": "c95c5ca6736181f38f0545e8c9c63fdccb8b6f2aae2246b1c1a00c3112319c7c"
+    }
+  ],
+  "background": {
+    "file": "images.json"
+  }
+}

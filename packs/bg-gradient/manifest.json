@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "id": "bg-gradient",
+  "type": "background",
+  "version": "2026.11.02-1",
+  "title": {
+    "ko": "부드러운 그라데이션",
+    "en": "Soft gradients"
+  },
+  "description": {
+    "ko": "어떤 글자색과도 어울리는 차분한 그라데이션",
+    "en": "Calm gradients that suit any text color"
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2026 BizDooroo",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "BizDooroo",
+    "url": "https://github.com/BizDooroo/textled-assets"
+  },
+  "source": {
+    "origin": "BizDooroo",
+    "manifestEntry": "bg-gradient"
+  },
+  "minAppSchema": 1,
+  "bytes": 63397,
+  "files": [
+    {
+      "path": "images.json",
+      "bytes": 345,
+      "sha256": "eb40b27b57194bc89d92a9144bab9a612bf6d35cf7242fa1ca90b7063f847d9b",
+      "upstream": null
+    },
+    {
+      "path": "sunset.webp",
+      "bytes": 10184,
+      "sha256": "70d7b6f9313223f6bd68bf53241ea5263798ab34b780f699f49c1bacc8df20a4",
+      "upstream": null
+    },
+    {
+      "path": "ocean.webp",
+      "bytes": 15514,
+      "sha256": "831cc76ef3ca85b7882cfda953e7eedf56bb7148fc2ced7f1b14ad3a563ad342",
+      "upstream": null
+    },
+    {
+      "path": "forest.webp",
+      "bytes": 8684,
+      "sha256": "3f329a16e0e0ec8b732fa1e8271aea1f653441bd5695707bfc8ce669f9b88ead",
+      "upstream": null
+    },
+    {
+      "path": "lavender.webp",
+      "bytes": 9308,
+      "sha256": "8affac14df35af28d5b4589de4c79a5aa85a91c938063ecfd9cf2b8c6bb1f580",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 19362,
+      "sha256": "c95c5ca6736181f38f0545e8c9c63fdccb8b6f2aae2246b1c1a00c3112319c7c"
+    }
+  ],
+  "background": {
+    "file": "images.json"
+  }
+}

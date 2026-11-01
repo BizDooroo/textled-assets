@@ -1,0 +1,26 @@
+[
+  {
+    "id": "warm-bokeh",
+    "file": "warm-bokeh.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  {
+    "id": "rain-bokeh",
+    "file": "rain-bokeh.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  {
+    "id": "neon-haze",
+    "file": "neon-haze.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  {
+    "id": "light-trails",
+    "file": "light-trails.webp",
+    "w": 1536,
+    "h": 1024
+  }
+]

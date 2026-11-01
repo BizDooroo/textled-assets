@@ -1,0 +1,26 @@
+[
+  {
+    "id": "confetti",
+    "file": "confetti.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  {
+    "id": "gold-sparkle",
+    "file": "gold-sparkle.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  {
+    "id": "pastel-bokeh",
+    "file": "pastel-bokeh.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  {
+    "id": "streamers",
+    "file": "streamers.webp",
+    "w": 1536,
+    "h": 1024
+  }
+]

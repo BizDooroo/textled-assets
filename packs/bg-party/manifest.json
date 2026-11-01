@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "id": "bg-party",
+  "type": "background",
+  "version": "2026.11.02-1",
+  "title": {
+    "ko": "축하 파티",
+    "en": "Party"
+  },
+  "description": {
+    "ko": "생일과 축하 자리에 어울리는 반짝이는 배경",
+    "en": "Sparkling backdrops for birthdays and celebrations"
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2026 BizDooroo",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "BizDooroo",
+    "url": "https://github.com/BizDooroo/textled-assets"
+  },
+  "source": {
+    "origin": "BizDooroo",
+    "manifestEntry": "bg-party"
+  },
+  "minAppSchema": 1,
+  "bytes": 192695,
+  "files": [
+    {
+      "path": "images.json",
+      "bytes": 377,
+      "sha256": "0abdc2d21d7db18c3b11da39fa47a64573157585b9438c23e41578e6966c8b83",
+      "upstream": null
+    },
+    {
+      "path": "confetti.webp",
+      "bytes": 21474,
+      "sha256": "963a7df0f27fc390fa230f20300ffc1e1c3e46f6a76a6d8a1ea523e6366c51c4",
+      "upstream": null
+    },
+    {
+      "path": "gold-sparkle.webp",
+      "bytes": 103484,
+      "sha256": "ea7283beba375f09369d9bb2ca7f12e85a190e2964516f5a2b72ae5bcdf0e981",
+      "upstream": null
+    },
+    {
+      "path": "pastel-bokeh.webp",
+      "bytes": 20330,
+      "sha256": "a5106193d904260cbe5c64fd463076c32608619dc64db4e9049a10ec0abf979f",
+      "upstream": null
+    },
+    {
+      "path": "streamers.webp",
+      "bytes": 27668,
+      "sha256": "7f5f63f9cffe8208b4c459304d9f7094aa267937ce5d368c63baf11a79d732ba",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 19362,
+      "sha256": "c95c5ca6736181f38f0545e8c9c63fdccb8b6f2aae2246b1c1a00c3112319c7c"
+    }
+  ],
+  "background": {
+    "file": "images.json"
+  }
+}

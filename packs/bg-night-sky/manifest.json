@@ -1,0 +1,71 @@
+{
+  "schema": 1,
+  "id": "bg-night-sky",
+  "type": "background",
+  "version": "2026.11.02-1",
+  "title": {
+    "ko": "밤하늘",
+    "en": "Night sky"
+  },
+  "description": {
+    "ko": "별과 오로라가 있는 어두운 밤하늘 배경",
+    "en": "Dark night skies with stars and auroras"
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2026 BizDooroo",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "BizDooroo",
+    "url": "https://github.com/BizDooroo/textled-assets"
+  },
+  "source": {
+    "origin": "BizDooroo",
+    "manifestEntry": "bg-night-sky"
+  },
+  "minAppSchema": 1,
+  "bytes": 225629,
+  "files": [
+    {
+      "path": "images.json",
+      "bytes": 351,
+      "sha256": "be4a2bfc8db513add4bc57777ddc17be3c1f5cf1ec5f3621c0f9303e8040c345",
+      "upstream": null
+    },
+    {
+      "path": "stars.webp",
+      "bytes": 44848,
+      "sha256": "4fa71ddabc812967eeee91c5e7c5474f53a77b1b874421b4acdfa5f2d3ac0a46",
+      "upstream": null
+    },
+    {
+      "path": "galaxy.webp",
+      "bytes": 91598,
+      "sha256": "09b8c9d8d60835c55d8c94a5007176c031bdee47c76e0ba1572bcfe759f1220e",
+      "upstream": null
+    },
+    {
+      "path": "aurora.webp",
+      "bytes": 23694,
+      "sha256": "bd5ca1fd9785ac1c2e78517b94e3ddc401acb22a594a6fa49bed309644b92c2c",
+      "upstream": null
+    },
+    {
+      "path": "moon-clouds.webp",
+      "bytes": 45776,
+      "sha256": "a1dddcfe3a83892471a8581f0756babca775f52b904a95631c25cea3d01ebeac",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 19362,
+      "sha256": "c95c5ca6736181f38f0545e8c9c63fdccb8b6f2aae2246b1c1a00c3112319c7c"
+    }
+  ],
+  "background": {
+    "file": "images.json"
+  }
+}

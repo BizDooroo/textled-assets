@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sunset",
+    "file": "sunset.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  {
+    "id": "ocean",
+    "file": "ocean.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  {
+    "id": "forest",
+    "file": "forest.webp",
+    "w": 1536,
+    "h": 1024
+  },
+  {
+    "id": "lavender",
+    "file": "lavender.webp",
+    "w": 1536,
+    "h": 1024
+  }
+]
