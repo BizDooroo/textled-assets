@@ -1,0 +1,221 @@
+[
+  {
+    "k": "look",
+    "l": [
+      {
+        "img": {
+          "i": "stars",
+          "p": "bg-night-sky",
+          "v": "2026.11.02-1"
+        },
+        "t": "bg"
+      },
+      {
+        "c": "별빛 응원",
+        "fill": {
+          "c": "#FFD27A",
+          "t": "s"
+        },
+        "led": {
+          "on": true
+        },
+        "t": "text"
+      }
+    ],
+    "m": {
+      "ti": {
+        "en": "Starlight cheer",
+        "ko": "별빛 응원"
+      }
+    },
+    "v": 1
+  },
+  {
+    "k": "look",
+    "l": [
+      {
+        "img": {
+          "i": "aurora",
+          "p": "bg-night-sky",
+          "v": "2026.11.02-1"
+        },
+        "t": "bg"
+      },
+      {
+        "c": "오로라",
+        "fill": {
+          "c": "#E8FFF6",
+          "t": "s"
+        },
+        "fo": {
+          "id": "pretendard",
+          "w": 700
+        },
+        "gl": {
+          "c": "#3DFFC0",
+          "r": 0.12
+        },
+        "mo": {
+          "s": 0.6
+        },
+        "t": "text"
+      }
+    ],
+    "m": {
+      "ti": {
+        "en": "Aurora",
+        "ko": "오로라"
+      }
+    },
+    "v": 1
+  },
+  {
+    "k": "look",
+    "l": [
+      {
+        "img": {
+          "i": "gold-sparkle",
+          "p": "bg-party",
+          "v": "2026.11.02-1"
+        },
+        "t": "bg"
+      },
+      {
+        "c": "반짝이는 생일",
+        "fill": {
+          "c": "#FFFFFF",
+          "t": "s"
+        },
+        "fo": {
+          "id": "gamja-flower"
+        },
+        "gl": {
+          "c": "#FFC94D",
+          "r": 0.1
+        },
+        "mo": {
+          "d": "s"
+        },
+        "sm": "af",
+        "t": "text"
+      }
+    ],
+    "m": {
+      "ti": {
+        "en": "Sparkling birthday",
+        "ko": "반짝이는 생일"
+      }
+    },
+    "v": 1
+  },
+  {
+    "k": "look",
+    "l": [
+      {
+        "img": {
+          "i": "pastel-bokeh",
+          "p": "bg-party",
+          "v": "2026.11.02-1"
+        },
+        "t": "bg"
+      },
+      {
+        "c": "파스텔 파티",
+        "fill": {
+          "c": "#FFFFFF",
+          "t": "s"
+        },
+        "fo": {
+          "id": "pretendard",
+          "w": 700
+        },
+        "mo": {
+          "s": 0.6
+        },
+        "ol": {
+          "c": "#2A1A3A",
+          "w": 0.06
+        },
+        "t": "text"
+      }
+    ],
+    "m": {
+      "ti": {
+        "en": "Pastel party",
+        "ko": "파스텔 파티"
+      }
+    },
+    "v": 1
+  },
+  {
+    "k": "look",
+    "l": [
+      {
+        "img": {
+          "i": "warm-bokeh",
+          "p": "bg-city-lights",
+          "v": "2026.11.02-1"
+        },
+        "t": "bg"
+      },
+      {
+        "c": "도시의 밤",
+        "fill": {
+          "c": "#FFFFFF",
+          "t": "s"
+        },
+        "fo": {
+          "id": "pretendard",
+          "w": 700
+        },
+        "mo": {
+          "s": 0.7
+        },
+        "t": "text"
+      }
+    ],
+    "m": {
+      "ti": {
+        "en": "City night",
+        "ko": "도시의 밤"
+      }
+    },
+    "v": 1
+  },
+  {
+    "k": "look",
+    "l": [
+      {
+        "img": {
+          "i": "sunset",
+          "p": "bg-gradient",
+          "v": "2026.11.02-1"
+        },
+        "t": "bg"
+      },
+      {
+        "c": "노을",
+        "fill": {
+          "c": "#FFFFFF",
+          "t": "s"
+        },
+        "fo": {
+          "id": "pretendard",
+          "w": 700
+        },
+        "mo": {
+          "d": "s"
+        },
+        "sm": "af",
+        "t": "text"
+      }
+    ],
+    "m": {
+      "ti": {
+        "en": "Sunset",
+        "ko": "노을"
+      }
+    },
+    "v": 1
+  }
+]

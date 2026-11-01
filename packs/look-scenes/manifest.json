@@ -1,0 +1,52 @@
+{
+  "schema": 1,
+  "id": "look-scenes",
+  "type": "look",
+  "version": "2026.11.02-1",
+  "title": {
+    "ko": "장면별 스타일",
+    "en": "Scene styles"
+  },
+  "description": {
+    "ko": "응원, 공항, 생일, 가게, 큰 글씨 등 장면에 맞춘 스타일",
+    "en": "Styles for cheering, airports, birthdays, shops, large print, and more"
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2026 BizDooroo",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "BizDooroo",
+    "url": "https://github.com/BizDooroo/textled-assets"
+  },
+  "source": {
+    "origin": "BizDooroo",
+    "manifestEntry": "look-scenes"
+  },
+  "minAppSchema": 1,
+  "bytes": 24949,
+  "files": [
+    {
+      "path": "looks.json",
+      "bytes": 5587,
+      "sha256": "4812cdc08ec268a0ad7d4febd42302586f7141e1429396038f9855552f27d68f",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 19362,
+      "sha256": "c95c5ca6736181f38f0545e8c9c63fdccb8b6f2aae2246b1c1a00c3112319c7c"
+    }
+  ],
+  "look": {
+    "file": "looks.json",
+    "refs": [
+      "font-gamja-flower",
+      "font-neodunggeunmo",
+      "font-pretendard"
+    ]
+  }
+}

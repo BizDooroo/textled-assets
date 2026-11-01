@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "id": "look-backdrops",
+  "type": "look",
+  "version": "2026.11.02-1",
+  "title": {
+    "ko": "배경 사진 스타일",
+    "en": "Backdrop styles"
+  },
+  "description": {
+    "ko": "배경 팩의 이미지를 쓰는 스타일 (배경 팩도 함께 받아야 해요)",
+    "en": "Styles that use background pack images (get those packs too)"
+  },
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2026 BizDooroo",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "BizDooroo",
+    "url": "https://github.com/BizDooroo/textled-assets"
+  },
+  "source": {
+    "origin": "BizDooroo",
+    "manifestEntry": "look-backdrops"
+  },
+  "minAppSchema": 1,
+  "bytes": 22927,
+  "files": [
+    {
+      "path": "looks.json",
+      "bytes": 3565,
+      "sha256": "67c1f5d59d0c713e47c5e090c336fd74350f2d33f836c340e9bb53227920d048",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 19362,
+      "sha256": "c95c5ca6736181f38f0545e8c9c63fdccb8b6f2aae2246b1c1a00c3112319c7c"
+    }
+  ],
+  "look": {
+    "file": "looks.json",
+    "refs": [
+      "bg-city-lights",
+      "bg-gradient",
+      "bg-night-sky",
+      "bg-party",
+      "font-gamja-flower",
+      "font-neodunggeunmo",
+      "font-pretendard"
+    ]
+  }
+}
