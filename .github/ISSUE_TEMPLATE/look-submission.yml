@@ -1,0 +1,54 @@
+name: Look submission / 스타일 제출
+description: Suggest a look (style preset) for the official look packs. / 공식 스타일 팩에 넣을 스타일을 제안해 주세요.
+title: "[Look] "
+labels: ["look-submission"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Share a look you made in the app: open it, choose Share → "Look only", and paste the link or code below.
+        앱에서 만든 스타일을 열고 공유 → "스타일만"을 골라 링크나 코드를 아래에 붙여 주세요.
+
+        We review every submission. Looks that name groups, fandoms, brands, real people, or song lyrics, or that copy another app's design, are not accepted.
+        모든 제출은 검토합니다. 그룹·팬덤·브랜드·실존 인물 이름이나 노래 가사가 들어간 스타일, 다른 앱의 디자인을 베낀 스타일은 받지 않아요.
+  - type: input
+    id: link
+    attributes:
+      label: Look link or code / 스타일 링크 또는 코드
+      placeholder: https://hoppipolla.me/textled/s#…
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Look name / 스타일 이름
+      placeholder: "e.g. Night market neon / 예: 야시장 네온"
+    validations:
+      required: true
+  - type: dropdown
+    id: scenario
+    attributes:
+      label: Where is it used? / 어디에 쓰나요?
+      options:
+        - Cheering / 응원
+        - Airport pickup / 공항 마중
+        - Birthday / 생일
+        - Sports / 스포츠
+        - Shop notice / 가게 안내
+        - Thanks / 감사
+        - Other / 기타
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes / 설명
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent / 동의
+      options:
+        - label: I made this look myself and license it under CC BY 4.0 (credit "BizDooroo" and contributors) so it may be published in the official look packs. / 이 스타일은 제가 직접 만들었고, 공식 스타일 팩에 실릴 수 있도록 CC BY 4.0으로 이용을 허락합니다.
+          required: true
+        - label: It contains no group, fandom, brand, or real person's name, no song lyrics, and nothing copied from another app. / 그룹·팬덤·브랜드·실존 인물 이름, 노래 가사, 다른 앱에서 베낀 내용이 없습니다.
+          required: true
