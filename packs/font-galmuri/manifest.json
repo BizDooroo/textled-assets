@@ -1,0 +1,137 @@
+{
+  "schema": 1,
+  "id": "font-galmuri",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "갈무리",
+    "en": "Galmuri"
+  },
+  "description": {
+    "ko": "픽셀 · 한글 전체",
+    "en": "Pixel · full Hangul"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2019–2025 Lee Minseo (quiple@quiple.dev)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "Lee Minseo",
+    "url": "https://github.com/quiple/galmuri"
+  },
+  "source": {
+    "origin": "quiple/galmuri v2.40.4",
+    "manifestEntry": "galmuri"
+  },
+  "minAppSchema": 1,
+  "bytes": 29851160,
+  "files": [
+    {
+      "path": "Galmuri11.ttf",
+      "bytes": 5376428,
+      "sha256": "e24256f42e43713d2ea086a1e1669d78b968f5b3cc547e5c157f0606ffa5def1",
+      "upstream": null
+    },
+    {
+      "path": "Galmuri11-Bold.ttf",
+      "bytes": 2613660,
+      "sha256": "45d901e379138dd91873af157640f60aa4cf6beaa885c3efd2a8c279e039a237",
+      "upstream": null
+    },
+    {
+      "path": "Galmuri11-Condensed.ttf",
+      "bytes": 2668536,
+      "sha256": "613d5de93abdbfca203be1bb05c756d792ba8c141ae831607feeba62279d07b9",
+      "upstream": null
+    },
+    {
+      "path": "Galmuri14.ttf",
+      "bytes": 5636376,
+      "sha256": "6fe6c3fe4369e3837ac348431e8670733d67aa4bd550982baa72cc93c81a1c68",
+      "upstream": null
+    },
+    {
+      "path": "Galmuri9.ttf",
+      "bytes": 4649144,
+      "sha256": "e84e821b18be15b9e3a907ceb83cfba25fabf51c80b7edf0d2921cf8f8e1a11d",
+      "upstream": null
+    },
+    {
+      "path": "Galmuri7.ttf",
+      "bytes": 3702440,
+      "sha256": "c845c6bf6f7236ed370aed4a8f8d9b4f25e6a18f63515777fe4153d287c32917",
+      "upstream": null
+    },
+    {
+      "path": "GalmuriMono11.ttf",
+      "bytes": 5200216,
+      "sha256": "39008f23c10f32900ff888f3c6799a08c1033a14fe58cda2c89a10de2619c733",
+      "upstream": null
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4360,
+      "sha256": "86a3ee9495f942f0243f18c103da9faca27adb88142613edb8bb852e56c892c1"
+    }
+  ],
+  "font": {
+    "familyId": "galmuri",
+    "faces": [
+      {
+        "file": "Galmuri11.ttf",
+        "family": "Galmuri11",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "Galmuri11-Bold.ttf",
+        "family": "Galmuri11",
+        "weight": 700,
+        "style": "normal"
+      },
+      {
+        "file": "Galmuri11-Condensed.ttf",
+        "family": "Galmuri11 Condensed",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "Galmuri14.ttf",
+        "family": "Galmuri14",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "Galmuri9.ttf",
+        "family": "Galmuri9",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "Galmuri7.ttf",
+        "family": "Galmuri7",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "GalmuriMono11.ttf",
+        "family": "GalmuriMono11",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 94,
+    "category": "pixel",
+    "nativeRows": [
+      14
+    ],
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}

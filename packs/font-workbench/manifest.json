@@ -1,0 +1,73 @@
+{
+  "schema": 1,
+  "id": "font-workbench",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Workbench",
+    "en": "Workbench"
+  },
+  "description": {
+    "ko": "픽셀 · 라틴 전용",
+    "en": "Pixel · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2021 The Workbench Project Authors (https://github.com/jenskutilek/homecomputer-fonts)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Workbench Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/workbench"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "workbench"
+  },
+  "minAppSchema": 1,
+  "bytes": 36873,
+  "files": [
+    {
+      "path": "Workbench[BLED,SCAN].ttf",
+      "bytes": 32472,
+      "sha256": "027940fb7aea63f260fb367957e419c08f904f357b384c819f99eb06e7af17d6",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/workbench/Workbench%5BBLED%2CSCAN%5D.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4401,
+      "sha256": "c46bda9181c8f01cf430e8b4d769a2fa8b19369f9f01b947c0d400939147e700"
+    }
+  ],
+  "font": {
+    "familyId": "workbench",
+    "faces": [
+      {
+        "file": "Workbench[BLED,SCAN].ttf",
+        "family": "Workbench",
+        "weight": 400,
+        "style": "normal",
+        "axes": {
+          "SCAN": [
+            -53,
+            100
+          ],
+          "BLED": [
+            0,
+            100
+          ]
+        }
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "pixel",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

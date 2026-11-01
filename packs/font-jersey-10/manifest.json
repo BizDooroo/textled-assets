@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "id": "font-jersey-10",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Jersey 10",
+    "en": "Jersey 10"
+  },
+  "description": {
+    "ko": "픽셀 · 라틴 전용",
+    "en": "Pixel · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-jersey)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Soft Type Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/jersey10"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "jersey-10"
+  },
+  "minAppSchema": 1,
+  "bytes": 82127,
+  "files": [
+    {
+      "path": "Jersey10-Regular.ttf",
+      "bytes": 77732,
+      "sha256": "db9cbd091617048a145d249daa2b815fe7083be6ab66ac26626e21a4e01c3e82",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/jersey10/Jersey10-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4395,
+      "sha256": "436d5836064cec796c7ddde6fb4faeabdb6f2f17443a24a30d0c38b75d13f922"
+    }
+  ],
+  "font": {
+    "familyId": "jersey-10",
+    "faces": [
+      {
+        "file": "Jersey10-Regular.ttf",
+        "family": "Jersey 10",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "pixel",
+    "nativeRows": [
+      20
+    ],
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

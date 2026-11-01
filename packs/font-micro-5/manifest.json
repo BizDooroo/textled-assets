@@ -1,0 +1,65 @@
+{
+  "schema": 1,
+  "id": "font-micro-5",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Micro 5",
+    "en": "Micro 5"
+  },
+  "description": {
+    "ko": "픽셀 · 라틴 전용",
+    "en": "Pixel · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2023 The Soft Type Project Authors (https://github.com/scfried/soft-type-micro)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Soft Type Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/micro5"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "micro-5"
+  },
+  "minAppSchema": 1,
+  "bytes": 58330,
+  "files": [
+    {
+      "path": "Micro5-Regular.ttf",
+      "bytes": 53936,
+      "sha256": "08a08c0d10129d2ecd869ff2f8914fcbf32487d3cbee3568b2a2957866dfdac8",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/micro5/Micro5-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4394,
+      "sha256": "b4c75058634d557a621406c8eb5e243fe02d5ac9c49e0a4567eee8d65295fad8"
+    }
+  ],
+  "font": {
+    "familyId": "micro-5",
+    "faces": [
+      {
+        "file": "Micro5-Regular.ttf",
+        "family": "Micro 5",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "pixel",
+    "nativeRows": [
+      11
+    ],
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

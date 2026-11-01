@@ -1,0 +1,63 @@
+{
+  "schema": 1,
+  "id": "font-vt323",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "VT323",
+    "en": "VT323"
+  },
+  "description": {
+    "ko": "픽셀 · 라틴 전용",
+    "en": "Pixel · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2011, The VT323 Project Authors (peter.hull@oikoi.com)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The VT323 Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/vt323"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "vt323"
+  },
+  "minAppSchema": 1,
+  "bytes": 157483,
+  "files": [
+    {
+      "path": "VT323-Regular.ttf",
+      "bytes": 153116,
+      "sha256": "cf4de751ada78ceac033dbe16a687742939995b77bc2a052ae17a4957958594d",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/vt323/VT323-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4367,
+      "sha256": "27d9af34210253e7ca1251fbace86c6f65b40031d6ce1a75493a1b2093631298"
+    }
+  ],
+  "font": {
+    "familyId": "vt323",
+    "faces": [
+      {
+        "file": "VT323-Regular.ttf",
+        "family": "VT323",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "pixel",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema": 1,
+  "id": "font-press-start-2p",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Press Start 2P",
+    "en": "Press Start 2P"
+  },
+  "description": {
+    "ko": "픽셀 · 라틴 전용",
+    "en": "Pixel · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2012 The Press Start 2P Project Authors (cody@zone38.net), with Reserved Font Name \"Press Start 2P\".",
+    "reservedFontNames": [
+      "Press Start 2P"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Press Start 2P Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/pressstart2p"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "press-start-2p"
+  },
+  "minAppSchema": 1,
+  "bytes": 122617,
+  "files": [
+    {
+      "path": "PressStart2P-Regular.ttf",
+      "bytes": 118204,
+      "sha256": "034c77f1f05ec89421e4a63f0e3a4ca1ecf852cc6d2bf611f126f275728e017d",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/pressstart2p/PressStart2P-Regular.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4413,
+      "sha256": "705960c3281a5765ecc0b59bd4ed7ca59eed165748076bc2fc3e8fdbfeb944b0"
+    }
+  ],
+  "font": {
+    "familyId": "press-start-2p",
+    "faces": [
+      {
+        "file": "PressStart2P-Regular.ttf",
+        "family": "Press Start 2P",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "pixel",
+    "nativeRows": [
+      8
+    ],
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

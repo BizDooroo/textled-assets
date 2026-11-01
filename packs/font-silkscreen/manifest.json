@@ -1,0 +1,75 @@
+{
+  "schema": 1,
+  "id": "font-silkscreen",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Silkscreen",
+    "en": "Silkscreen"
+  },
+  "description": {
+    "ko": "픽셀 · 라틴 전용",
+    "en": "Pixel · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2001 The Silkscreen Project Authors (https://github.com/googlefonts/silkscreen)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Silkscreen Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/silkscreen"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "silkscreen"
+  },
+  "minAppSchema": 1,
+  "bytes": 67246,
+  "files": [
+    {
+      "path": "Silkscreen-Regular.ttf",
+      "bytes": 32220,
+      "sha256": "c845473330b94c2079ce9af01c51ac8ba2d99c24f4d14c039843bbb8e642ebd8",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/silkscreen/Silkscreen-Regular.ttf"
+    },
+    {
+      "path": "Silkscreen-Bold.ttf",
+      "bytes": 30632,
+      "sha256": "768476aa712d4f5c3e18d3bce80f980a8bd3f72b7094d22ec5e768df3acfed61",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/silkscreen/Silkscreen-Bold.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4394,
+      "sha256": "86c5e9c9382cdcc5948704fdfe60f2aa164a719746931219a42736ecd9cefbd3"
+    }
+  ],
+  "font": {
+    "familyId": "silkscreen",
+    "faces": [
+      {
+        "file": "Silkscreen-Regular.ttf",
+        "family": "Silkscreen",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "Silkscreen-Bold.ttf",
+        "family": "Silkscreen",
+        "weight": 700,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "pixel",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

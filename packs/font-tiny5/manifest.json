@@ -1,0 +1,119 @@
+{
+  "schema": 1,
+  "id": "font-tiny5",
+  "type": "font",
+  "version": "2026.11.01-1",
+  "title": {
+    "ko": "Tiny5",
+    "en": "Tiny5"
+  },
+  "description": {
+    "ko": "픽셀 · 라틴 전용",
+    "en": "Pixel · Latin only"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright 2022-2024 The Tiny5 Project Authors (https://github.com/Gissio/font_tiny5)",
+    "reservedFontNames": [],
+    "notice": null
+  },
+  "credit": {
+    "name": "The Tiny5 Project Authors",
+    "url": "https://github.com/google/fonts/tree/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/tiny5"
+  },
+  "source": {
+    "origin": "google/fonts@6c1dbe27dcf7",
+    "manifestEntry": "tiny5"
+  },
+  "minAppSchema": 1,
+  "bytes": 871649,
+  "files": [
+    {
+      "path": "Tiny5[BLED,JITT,ROND,wdth,wght].ttf",
+      "bytes": 433432,
+      "sha256": "588626f2c1b164f55927c0d8123f4bc134651aad7d257da68fc19b0824b0d8fa",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/tiny5/Tiny5%5BBLED%2CJITT%2CROND%2Cwdth%2Cwght%5D.ttf"
+    },
+    {
+      "path": "Tiny5-Italic[BLED,JITT,ROND,wdth,wght].ttf",
+      "bytes": 433828,
+      "sha256": "5690e0c0dbd9eb78d6c7bfd9e20a1d01e575ea8b8a60e82ec8516f9f22d8c12e",
+      "upstream": "https://raw.githubusercontent.com/google/fonts/6c1dbe27dcf7d817d4b62cec033ba77fa8e2a5ec/ofl/tiny5/Tiny5-Italic%5BBLED%2CJITT%2CROND%2Cwdth%2Cwght%5D.ttf"
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4389,
+      "sha256": "690fda321d0ebce403249c8d61dadddcee09dc8813424cc5a8f982efcff9a9a3"
+    }
+  ],
+  "font": {
+    "familyId": "tiny5",
+    "faces": [
+      {
+        "file": "Tiny5[BLED,JITT,ROND,wdth,wght].ttf",
+        "family": "Tiny5",
+        "weight": 400,
+        "style": "normal",
+        "axes": {
+          "wght": [
+            100,
+            900
+          ],
+          "wdth": [
+            50,
+            200
+          ],
+          "ROND": [
+            0,
+            100
+          ],
+          "BLED": [
+            0,
+            100
+          ],
+          "JITT": [
+            0,
+            100
+          ]
+        }
+      },
+      {
+        "file": "Tiny5-Italic[BLED,JITT,ROND,wdth,wght].ttf",
+        "family": "Tiny5",
+        "weight": 400,
+        "style": "italic",
+        "axes": {
+          "wght": [
+            100,
+            900
+          ],
+          "wdth": [
+            50,
+            200
+          ],
+          "ROND": [
+            0,
+            100
+          ],
+          "BLED": [
+            0,
+            100
+          ],
+          "JITT": [
+            0,
+            100
+          ]
+        }
+      }
+    ],
+    "hangulSyllables": 0,
+    "hangulCompatJamo": 0,
+    "category": "pixel",
+    "nativeRows": null,
+    "preview": {
+      "ko": "LED SIGN 2026",
+      "en": "LED SIGN 2026"
+    }
+  }
+}

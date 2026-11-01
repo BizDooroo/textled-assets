@@ -1,0 +1,85 @@
+{
+  "schema": 1,
+  "id": "font-neodunggeunmo",
+  "type": "font",
+  "version": "2026.10.31-1",
+  "title": {
+    "ko": "Neo둥근모",
+    "en": "NeoDunggeunmo"
+  },
+  "description": {
+    "ko": "16픽셀 한글 도트 글꼴",
+    "en": "16-pixel Hangul pixel font"
+  },
+  "license": {
+    "spdx": "OFL-1.1",
+    "file": "LICENSE.txt",
+    "copyright": "Copyright (c) 2017-2021, Eunbin Jeong (Dalgona.) <project-neodgm@dalgona.dev> with Reserved Font Name \"Neo둥근모\", \"Neo둥근모 Code\", \"NeoDunggeunmo\", and \"NeoDunggeunmo Code\".",
+    "reservedFontNames": [
+      "NeoDunggeunmo",
+      "NeoDunggeunmo Code",
+      "Neo둥근모",
+      "Neo둥근모 Code"
+    ],
+    "notice": null
+  },
+  "credit": {
+    "name": "Eunbin Jeong (Dalgona.)",
+    "url": "https://github.com/neodgm/neodgm"
+  },
+  "source": {
+    "origin": "neodgm/neodgm v1.601",
+    "manifestEntry": "neodunggeunmo"
+  },
+  "minAppSchema": 1,
+  "bytes": 1310152,
+  "builtin": "partial",
+  "files": [
+    {
+      "path": "neodgm.ttf",
+      "bytes": 651044,
+      "sha256": "77305267996073aae07bad9313dad2e306a4128e55bfafbed4c41558fee57b4d",
+      "upstream": "https://github.com/neodgm/neodgm/releases/download/v1.601/neodgm.ttf",
+      "builtin": true
+    },
+    {
+      "path": "neodgm_code.ttf",
+      "bytes": 654552,
+      "sha256": "0d19cda34cba2c68137d4328820b743141279f8533b5624521f7b325e270a265",
+      "upstream": "https://github.com/neodgm/neodgm/releases/download/v1.601/neodgm_code.ttf",
+      "builtin": false
+    },
+    {
+      "path": "LICENSE.txt",
+      "bytes": 4556,
+      "sha256": "c1997f54b659ff8bbe2addf4e7f03fb823db7d1b81b043fb2633183b1fc0c2f0"
+    }
+  ],
+  "font": {
+    "familyId": "neodunggeunmo",
+    "faces": [
+      {
+        "file": "neodgm.ttf",
+        "family": "NeoDunggeunmo",
+        "weight": 400,
+        "style": "normal"
+      },
+      {
+        "file": "neodgm_code.ttf",
+        "family": "NeoDunggeunmo Code",
+        "weight": 400,
+        "style": "normal"
+      }
+    ],
+    "hangulSyllables": 11172,
+    "hangulCompatJamo": 51,
+    "category": "pixel",
+    "nativeRows": [
+      16
+    ],
+    "preview": {
+      "ko": "빛말 전광판",
+      "en": "Scrolling sign"
+    }
+  }
+}
